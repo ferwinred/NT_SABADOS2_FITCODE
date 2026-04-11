@@ -1,1 +1,3 @@
-fitcode/
+venv/
+__pycache__/
+*.pyc
