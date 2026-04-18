@@ -1,24 +1,28 @@
-from utils.simulacion_rachas import generar_simulacion
-from utils.simulacion_usuarios import generar_simulacion
+from utils.simulacion_rachas import generar_rachas
+from utils.simulacion_usuarios import generar_usuarios
+from utils.simulacion_videos import generar_videos
 import pandas as pd
 
-usuarios = generar_simulacion(1000)
+usuarios = generar_usuarios(1000)
 
 usuarios_ordenadas = pd.DataFrame(usuarios)
 
-usuarios_ordenadas.to_json("data/usuarios.json", orient = "records", indent=4)
+usuarios_ordenadas.to_json("data/simulaciones_usuarios.json", orient = "records", indent=4)
 
-usuarios_ordenadas.to_csv("data/usuarios.csv")
+usuarios_ordenadas.to_csv("data/simulaciones_usuarios.csv")
 
+videos = generar_videos(1000)
 
-simulaciones=generar_simulacion(5)
+videos_ordenados = pd.DataFrame(videos)
 
+videos_ordenados.to_json("data/simulaciones_videos.json", orient = "records", indent=4)
+
+videos_ordenados.to_csv("data/simulaciones_videos.csv")
+
+simulaciones=generar_rachas(1000)
 
 simulaciones_ordenadas=pd.DataFrame(simulaciones)
 
-#crear una funcion generica que convierta cualquier simulacion ordenada en un json 
-#convirtiendo nuestras simulaciones en dos formas diferentes 
-#json
-simulaciones_ordenadas.to_json("data/simulaciones_ordenadas.json", orient="records", indent=4)
-#csv
-simulaciones_ordenadas.to_csv("data/simulacions.csv") 
+simulaciones_ordenadas.to_json("data/simulaciones_rachas.json", orient="records", indent=4)
+
+simulaciones_ordenadas.to_csv("data/simulaciones_rachas.csv") 

@@ -1,7 +1,7 @@
 import random
 from datetime import datetime, timedelta
 
-def generar_simulacion(numeroSimulaciones):
+def generar_videos(numeroSimulaciones):
 
     # Datos organizados correctamente (todo relacionado)
     videos = [

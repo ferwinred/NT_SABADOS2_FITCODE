@@ -2,7 +2,7 @@ import random
 
 from datetime import datetime,timedelta
 
-def generar_simulacion(numeroSimulaciones):
+def generar_rachas(numeroSimulaciones):
 
     nombres=["chispa","magma","flama", "rayo","tormenta"]
     fechaInicio=datetime(2026,1,2)
