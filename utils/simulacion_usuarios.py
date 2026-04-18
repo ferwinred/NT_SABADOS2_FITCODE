@@ -1,7 +1,7 @@
 import random
 from datetime import datetime, timedelta
 
-def generar_simulacion(numeroSimulaciones):
+def generar_usuarios(numeroSimulaciones):
     nombres = ["juan", "daniel", "fernando"]
     email = ["juan@gmail.com", "daniel@gmail.com", "fernando@gmail.com"]
     password_hash = ["hash1", "hash2", "hash3"]
