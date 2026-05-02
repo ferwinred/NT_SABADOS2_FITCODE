@@ -3,6 +3,7 @@ from utils.simulacion_rachas import generar_rachas
 from utils.simulacion_usuarios import generar_usuarios
 from utils.simulacion_videos import generar_videos
 from utils.descripcionusuario import describir_datos_usuario
+from utils.descripcion_rachas import describir_datos_rachas
 import pandas as pd
 
 usuarios = generar_usuarios(1000)
@@ -31,6 +32,8 @@ simulaciones_ordenadas=pd.DataFrame(simulaciones)
 simulaciones_ordenadas.to_json("data/simulaciones_rachas.json", orient="records", indent=4)
 
 simulaciones_ordenadas.to_csv("data/simulaciones_rachas.csv") 
+
+describir_datos_rachas(simulaciones_ordenadas)  
 
 
 rutinas = generar_rutinas(1000)
