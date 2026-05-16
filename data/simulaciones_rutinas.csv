@@ -1,0 +1,1001 @@
+,id,title,description,difficulty,duration_minutes,author_user_id,is_public,metadata,created_at,updated_at
+0,4053,Entrenamiento funcional,motilada,intermedio,51,28,0,"{'calories_estimate': 668, 'equipment': 'full gym', 'recommended': True}",2026-05-02 11:37:48,2026-05-06 11:37:48
+1,1642,Entrenamiento de fuerza,desparasitada,fácil,13,92,0,"{'calories_estimate': 770, 'equipment': 'full gym', 'recommended': True}",2026-04-20 11:37:48,2026-04-30 11:37:48
+2,2282,Yoga para principiantes,motilada,avanzado,56,68,0,"{'calories_estimate': 496, 'equipment': 'none', 'recommended': False}",2026-04-12 11:37:48,2026-04-12 11:37:48
+3,5149,Entrenamiento de fuerza,motilada,fácil,12,35,1,"{'calories_estimate': 415, 'equipment': 'none', 'recommended': False}",2026-04-16 11:37:48,2026-04-22 11:37:48
+4,7485,Cardio intenso,vacunacion,avanzado,31,78,1,"{'calories_estimate': 509, 'equipment': 'dumbbells', 'recommended': False}",2026-04-02 11:37:48,2026-04-04 11:37:48
+5,2863,Baile fitness,corte de uñas,fácil,115,7,1,"{'calories_estimate': 266, 'equipment': 'none', 'recommended': True}",2026-04-22 11:37:48,2026-04-22 11:37:48
+6,1242,Entrenamiento funcional,vacunacion,fácil,18,4,1,"{'calories_estimate': 494, 'equipment': 'dumbbells', 'recommended': False}",2026-04-05 11:37:48,2026-04-11 11:37:48
+7,570,Entrenamiento funcional,corte de uñas,avanzado,78,63,0,"{'calories_estimate': 663, 'equipment': 'full gym', 'recommended': False}",2026-04-18 11:37:48,2026-04-25 11:37:48
+8,7505,Cardio intenso,motilada,intermedio,74,81,1,"{'calories_estimate': 573, 'equipment': 'full gym', 'recommended': False}",2026-04-16 11:37:48,2026-04-26 11:37:48
+9,6608,Cardio intenso,motilada,intermedio,41,68,1,"{'calories_estimate': 375, 'equipment': 'dumbbells', 'recommended': True}",2026-04-20 11:37:48,2026-04-26 11:37:48
+10,6698,Entrenamiento funcional,vacunacion,avanzado,56,46,0,"{'calories_estimate': 558, 'equipment': 'dumbbells', 'recommended': True}",2026-05-02 11:37:48,2026-05-12 11:37:48
+11,6804,Cardio intenso,esterilizacion,intermedio,37,11,1,"{'calories_estimate': 702, 'equipment': 'none', 'recommended': True}",2026-04-26 11:37:48,2026-04-26 11:37:48
+12,5286,Entrenamiento de fuerza,corte de uñas,intermedio,108,86,0,"{'calories_estimate': 423, 'equipment': 'dumbbells', 'recommended': False}",2026-04-02 11:37:48,2026-04-03 11:37:48
+13,235,Baile fitness,esterilizacion,intermedio,21,95,0,"{'calories_estimate': 758, 'equipment': 'none', 'recommended': True}",2026-04-02 11:37:48,2026-04-08 11:37:48
+14,6970,Cardio intenso,corte de uñas,avanzado,85,12,0,"{'calories_estimate': 615, 'equipment': 'full gym', 'recommended': False}",2026-04-23 11:37:48,2026-04-25 11:37:48
+15,9318,Entrenamiento de fuerza,desparasitada,intermedio,22,32,1,"{'calories_estimate': 199, 'equipment': 'none', 'recommended': False}",2026-04-08 11:37:48,2026-04-11 11:37:48
+16,2685,Baile fitness,desparasitada,avanzado,86,93,0,"{'calories_estimate': 794, 'equipment': 'full gym', 'recommended': True}",2026-04-25 11:37:48,2026-05-03 11:37:48
+17,5774,Entrenamiento funcional,motilada,avanzado,84,7,0,"{'calories_estimate': 105, 'equipment': 'full gym', 'recommended': False}",2026-04-19 11:37:48,2026-04-24 11:37:48
+18,7569,Yoga para principiantes,desparasitada,fácil,111,68,0,"{'calories_estimate': 721, 'equipment': 'none', 'recommended': True}",2026-04-07 11:37:48,2026-04-07 11:37:48
+19,2644,Baile fitness,motilada,avanzado,20,55,0,"{'calories_estimate': 402, 'equipment': 'dumbbells', 'recommended': False}",2026-05-02 11:37:48,2026-05-10 11:37:48
+20,5326,Baile fitness,esterilizacion,fácil,112,42,0,"{'calories_estimate': 166, 'equipment': 'full gym', 'recommended': False}",2026-04-12 11:37:48,2026-04-13 11:37:48
+21,2880,Yoga para principiantes,motilada,fácil,92,69,1,"{'calories_estimate': 701, 'equipment': 'dumbbells', 'recommended': True}",2026-04-29 11:37:48,2026-05-07 11:37:48
+22,9678,Entrenamiento de fuerza,vacunacion,avanzado,58,18,0,"{'calories_estimate': 457, 'equipment': 'full gym', 'recommended': True}",2026-04-24 11:37:48,2026-04-25 11:37:48
+23,1669,Entrenamiento funcional,esterilizacion,avanzado,93,85,1,"{'calories_estimate': 371, 'equipment': 'full gym', 'recommended': True}",2026-04-08 11:37:48,2026-04-13 11:37:48
+24,1852,Entrenamiento funcional,corte de uñas,intermedio,92,60,0,"{'calories_estimate': 125, 'equipment': 'full gym', 'recommended': True}",2026-04-15 11:37:48,2026-04-23 11:37:48
+25,933,Yoga para principiantes,desparasitada,fácil,17,64,1,"{'calories_estimate': 626, 'equipment': 'full gym', 'recommended': False}",2026-05-01 11:37:48,2026-05-03 11:37:48
+26,5382,Yoga para principiantes,motilada,intermedio,40,76,0,"{'calories_estimate': 380, 'equipment': 'none', 'recommended': True}",2026-04-02 11:37:48,2026-04-12 11:37:48
+27,5144,Entrenamiento funcional,esterilizacion,intermedio,53,5,0,"{'calories_estimate': 412, 'equipment': 'dumbbells', 'recommended': False}",2026-04-19 11:37:48,2026-04-19 11:37:48
+28,2181,Entrenamiento de fuerza,esterilizacion,fácil,13,60,0,"{'calories_estimate': 440, 'equipment': 'full gym', 'recommended': False}",2026-04-15 11:37:48,2026-04-21 11:37:48
+29,5099,Entrenamiento de fuerza,desparasitada,avanzado,105,8,0,"{'calories_estimate': 730, 'equipment': 'full gym', 'recommended': True}",2026-04-11 11:37:48,2026-04-19 11:37:48
+30,4530,Cardio intenso,vacunacion,fácil,69,37,1,"{'calories_estimate': 327, 'equipment': 'none', 'recommended': True}",2026-04-05 11:37:48,2026-04-11 11:37:48
+31,8380,Yoga para principiantes,corte de uñas,avanzado,24,48,0,"{'calories_estimate': 787, 'equipment': 'dumbbells', 'recommended': False}",2026-04-12 11:37:48,2026-04-16 11:37:48
+32,4340,Entrenamiento funcional,motilada,intermedio,36,58,1,"{'calories_estimate': 560, 'equipment': 'none', 'recommended': True}",2026-04-17 11:37:48,2026-04-18 11:37:48
+33,4084,Baile fitness,vacunacion,intermedio,110,50,0,"{'calories_estimate': 711, 'equipment': 'dumbbells', 'recommended': False}",2026-04-14 11:37:48,2026-04-14 11:37:48
+34,4346,Entrenamiento de fuerza,esterilizacion,avanzado,50,33,0,"{'calories_estimate': 613, 'equipment': 'full gym', 'recommended': True}",2026-04-11 11:37:48,2026-04-11 11:37:48
+35,7198,Entrenamiento de fuerza,vacunacion,fácil,90,18,1,"{'calories_estimate': 261, 'equipment': 'none', 'recommended': True}",2026-04-19 11:37:48,2026-04-20 11:37:48
+36,9000,Baile fitness,desparasitada,intermedio,68,65,1,"{'calories_estimate': 758, 'equipment': 'none', 'recommended': True}",2026-04-13 11:37:48,2026-04-21 11:37:48
+37,5993,Entrenamiento de fuerza,desparasitada,intermedio,13,67,0,"{'calories_estimate': 634, 'equipment': 'dumbbells', 'recommended': False}",2026-04-08 11:37:48,2026-04-17 11:37:48
+38,5221,Entrenamiento funcional,corte de uñas,intermedio,70,9,1,"{'calories_estimate': 351, 'equipment': 'dumbbells', 'recommended': False}",2026-04-21 11:37:48,2026-04-24 11:37:48
+39,3795,Cardio intenso,desparasitada,avanzado,75,90,1,"{'calories_estimate': 712, 'equipment': 'none', 'recommended': True}",2026-04-25 11:37:48,2026-05-02 11:37:48
+40,1573,Entrenamiento funcional,corte de uñas,avanzado,112,90,1,"{'calories_estimate': 642, 'equipment': 'none', 'recommended': False}",2026-04-26 11:37:48,2026-05-04 11:37:48
+41,1706,Yoga para principiantes,motilada,intermedio,60,37,1,"{'calories_estimate': 542, 'equipment': 'full gym', 'recommended': True}",2026-04-25 11:37:48,2026-04-30 11:37:48
+42,5706,Yoga para principiantes,vacunacion,avanzado,36,53,0,"{'calories_estimate': 120, 'equipment': 'full gym', 'recommended': True}",2026-04-20 11:37:48,2026-04-26 11:37:48
+43,133,Entrenamiento de fuerza,vacunacion,avanzado,21,75,1,"{'calories_estimate': 293, 'equipment': 'dumbbells', 'recommended': True}",2026-04-25 11:37:48,2026-05-03 11:37:48
+44,1318,Yoga para principiantes,vacunacion,avanzado,89,97,1,"{'calories_estimate': 433, 'equipment': 'dumbbells', 'recommended': False}",2026-04-24 11:37:48,2026-05-01 11:37:48
+45,8923,Entrenamiento de fuerza,vacunacion,intermedio,60,15,0,"{'calories_estimate': 446, 'equipment': 'none', 'recommended': False}",2026-04-04 11:37:48,2026-04-13 11:37:48
+46,4226,Entrenamiento de fuerza,desparasitada,fácil,12,92,0,"{'calories_estimate': 717, 'equipment': 'full gym', 'recommended': True}",2026-05-02 11:37:48,2026-05-03 11:37:48
+47,8186,Baile fitness,vacunacion,avanzado,73,67,0,"{'calories_estimate': 414, 'equipment': 'none', 'recommended': False}",2026-04-04 11:37:48,2026-04-10 11:37:48
+48,2779,Entrenamiento de fuerza,desparasitada,intermedio,92,26,1,"{'calories_estimate': 290, 'equipment': 'dumbbells', 'recommended': True}",2026-04-11 11:37:48,2026-04-11 11:37:48
+49,6634,Cardio intenso,esterilizacion,fácil,39,78,0,"{'calories_estimate': 123, 'equipment': 'none', 'recommended': False}",2026-04-20 11:37:48,2026-04-20 11:37:48
+50,6942,Entrenamiento funcional,esterilizacion,fácil,112,61,1,"{'calories_estimate': 525, 'equipment': 'dumbbells', 'recommended': False}",2026-04-22 11:37:48,2026-04-25 11:37:48
+51,4510,Baile fitness,desparasitada,intermedio,52,23,1,"{'calories_estimate': 392, 'equipment': 'full gym', 'recommended': False}",2026-04-22 11:37:48,2026-04-24 11:37:48
+52,1037,Baile fitness,desparasitada,fácil,31,33,0,"{'calories_estimate': 595, 'equipment': 'none', 'recommended': False}",2026-04-15 11:37:48,2026-04-15 11:37:48
+53,8783,Entrenamiento funcional,vacunacion,intermedio,48,27,1,"{'calories_estimate': 613, 'equipment': 'full gym', 'recommended': True}",2026-04-30 11:37:48,2026-05-03 11:37:48
+54,1718,Entrenamiento de fuerza,esterilizacion,avanzado,39,8,1,"{'calories_estimate': 392, 'equipment': 'none', 'recommended': False}",2026-04-02 11:37:48,2026-04-04 11:37:48
+55,9547,Yoga para principiantes,vacunacion,avanzado,12,32,1,"{'calories_estimate': 302, 'equipment': 'dumbbells', 'recommended': False}",2026-04-02 11:37:48,2026-04-12 11:37:48
+56,4805,Entrenamiento de fuerza,desparasitada,intermedio,64,82,0,"{'calories_estimate': 413, 'equipment': 'none', 'recommended': True}",2026-04-03 11:37:48,2026-04-08 11:37:48
+57,6306,Baile fitness,desparasitada,avanzado,56,22,1,"{'calories_estimate': 657, 'equipment': 'full gym', 'recommended': True}",2026-04-15 11:37:48,2026-04-23 11:37:48
+58,8372,Entrenamiento de fuerza,vacunacion,intermedio,60,44,0,"{'calories_estimate': 788, 'equipment': 'none', 'recommended': True}",2026-04-24 11:37:48,2026-04-26 11:37:48
+59,9322,Entrenamiento funcional,corte de uñas,avanzado,96,7,1,"{'calories_estimate': 794, 'equipment': 'none', 'recommended': False}",2026-04-05 11:37:48,2026-04-12 11:37:48
+60,9243,Entrenamiento funcional,esterilizacion,intermedio,11,9,0,"{'calories_estimate': 392, 'equipment': 'none', 'recommended': True}",2026-04-13 11:37:48,2026-04-17 11:37:48
+61,1114,Baile fitness,motilada,avanzado,98,58,1,"{'calories_estimate': 458, 'equipment': 'dumbbells', 'recommended': True}",2026-04-09 11:37:48,2026-04-14 11:37:48
+62,9500,Entrenamiento de fuerza,motilada,fácil,63,29,0,"{'calories_estimate': 252, 'equipment': 'none', 'recommended': False}",2026-04-17 11:37:48,2026-04-27 11:37:48
+63,4566,Yoga para principiantes,corte de uñas,avanzado,95,5,1,"{'calories_estimate': 490, 'equipment': 'dumbbells', 'recommended': True}",2026-04-12 11:37:48,2026-04-17 11:37:48
+64,2212,Entrenamiento de fuerza,motilada,avanzado,81,86,0,"{'calories_estimate': 763, 'equipment': 'none', 'recommended': True}",2026-04-26 11:37:48,2026-05-02 11:37:48
+65,7375,Baile fitness,esterilizacion,avanzado,76,98,1,"{'calories_estimate': 470, 'equipment': 'dumbbells', 'recommended': True}",2026-04-12 11:37:48,2026-04-22 11:37:48
+66,7128,Entrenamiento funcional,vacunacion,fácil,79,51,0,"{'calories_estimate': 687, 'equipment': 'dumbbells', 'recommended': False}",2026-04-19 11:37:48,2026-04-20 11:37:48
+67,3791,Entrenamiento funcional,corte de uñas,avanzado,53,65,0,"{'calories_estimate': 650, 'equipment': 'dumbbells', 'recommended': True}",2026-04-18 11:37:48,2026-04-20 11:37:48
+68,104,Entrenamiento de fuerza,vacunacion,intermedio,105,85,1,"{'calories_estimate': 177, 'equipment': 'dumbbells', 'recommended': True}",2026-04-29 11:37:48,2026-05-07 11:37:48
+69,7901,Baile fitness,desparasitada,avanzado,37,87,0,"{'calories_estimate': 193, 'equipment': 'full gym', 'recommended': False}",2026-04-24 11:37:48,2026-04-24 11:37:48
+70,5576,Baile fitness,corte de uñas,avanzado,114,100,1,"{'calories_estimate': 440, 'equipment': 'none', 'recommended': False}",2026-04-28 11:37:48,2026-05-05 11:37:48
+71,6000,Entrenamiento funcional,esterilizacion,avanzado,40,45,0,"{'calories_estimate': 487, 'equipment': 'full gym', 'recommended': True}",2026-04-08 11:37:48,2026-04-14 11:37:48
+72,4365,Entrenamiento de fuerza,esterilizacion,intermedio,88,9,1,"{'calories_estimate': 244, 'equipment': 'dumbbells', 'recommended': False}",2026-04-12 11:37:48,2026-04-17 11:37:48
+73,7260,Entrenamiento de fuerza,vacunacion,fácil,99,2,0,"{'calories_estimate': 161, 'equipment': 'none', 'recommended': False}",2026-04-19 11:37:48,2026-04-27 11:37:48
+74,8969,Yoga para principiantes,motilada,avanzado,78,8,0,"{'calories_estimate': 488, 'equipment': 'none', 'recommended': True}",2026-04-06 11:37:48,2026-04-09 11:37:48
+75,2594,Cardio intenso,corte de uñas,intermedio,116,13,1,"{'calories_estimate': 382, 'equipment': 'full gym', 'recommended': False}",2026-04-24 11:37:48,2026-04-25 11:37:48
+76,2097,Yoga para principiantes,vacunacion,intermedio,32,87,1,"{'calories_estimate': 370, 'equipment': 'dumbbells', 'recommended': False}",2026-04-11 11:37:48,2026-04-11 11:37:48
+77,969,Cardio intenso,esterilizacion,avanzado,82,11,1,"{'calories_estimate': 327, 'equipment': 'none', 'recommended': True}",2026-04-09 11:37:48,2026-04-16 11:37:48
+78,4184,Cardio intenso,motilada,avanzado,108,86,0,"{'calories_estimate': 672, 'equipment': 'none', 'recommended': False}",2026-04-14 11:37:48,2026-04-14 11:37:48
+79,7211,Entrenamiento funcional,desparasitada,fácil,74,59,1,"{'calories_estimate': 603, 'equipment': 'dumbbells', 'recommended': False}",2026-05-01 11:37:48,2026-05-05 11:37:48
+80,5199,Baile fitness,corte de uñas,intermedio,103,40,0,"{'calories_estimate': 177, 'equipment': 'dumbbells', 'recommended': True}",2026-04-25 11:37:48,2026-04-27 11:37:48
+81,5012,Baile fitness,desparasitada,avanzado,97,2,0,"{'calories_estimate': 502, 'equipment': 'none', 'recommended': True}",2026-04-04 11:37:48,2026-04-14 11:37:48
+82,2076,Cardio intenso,motilada,intermedio,107,21,1,"{'calories_estimate': 334, 'equipment': 'dumbbells', 'recommended': True}",2026-04-19 11:37:48,2026-04-27 11:37:48
+83,206,Entrenamiento de fuerza,corte de uñas,avanzado,52,23,0,"{'calories_estimate': 606, 'equipment': 'dumbbells', 'recommended': False}",2026-04-25 11:37:48,2026-04-30 11:37:48
+84,9153,Cardio intenso,esterilizacion,intermedio,40,43,1,"{'calories_estimate': 653, 'equipment': 'dumbbells', 'recommended': True}",2026-04-24 11:37:48,2026-04-28 11:37:48
+85,6908,Yoga para principiantes,desparasitada,intermedio,73,36,1,"{'calories_estimate': 747, 'equipment': 'dumbbells', 'recommended': True}",2026-05-01 11:37:48,2026-05-09 11:37:48
+86,9516,Baile fitness,vacunacion,avanzado,116,89,0,"{'calories_estimate': 593, 'equipment': 'full gym', 'recommended': True}",2026-04-21 11:37:48,2026-05-01 11:37:48
+87,4708,Entrenamiento de fuerza,vacunacion,intermedio,110,93,0,"{'calories_estimate': 166, 'equipment': 'full gym', 'recommended': True}",2026-04-30 11:37:48,2026-05-09 11:37:48
+88,7252,Yoga para principiantes,esterilizacion,intermedio,69,53,1,"{'calories_estimate': 222, 'equipment': 'full gym', 'recommended': False}",2026-04-15 11:37:48,2026-04-17 11:37:48
+89,8183,Cardio intenso,desparasitada,avanzado,97,23,0,"{'calories_estimate': 585, 'equipment': 'full gym', 'recommended': True}",2026-04-12 11:37:48,2026-04-13 11:37:48
+90,9394,Baile fitness,motilada,fácil,90,33,0,"{'calories_estimate': 313, 'equipment': 'dumbbells', 'recommended': False}",2026-04-25 11:37:48,2026-05-03 11:37:48
+91,9707,Entrenamiento funcional,desparasitada,intermedio,36,14,1,"{'calories_estimate': 554, 'equipment': 'none', 'recommended': False}",2026-04-04 11:37:48,2026-04-12 11:37:48
+92,4278,Baile fitness,desparasitada,intermedio,33,48,0,"{'calories_estimate': 368, 'equipment': 'none', 'recommended': True}",2026-05-02 11:37:48,2026-05-08 11:37:48
+93,2854,Entrenamiento funcional,corte de uñas,avanzado,80,22,1,"{'calories_estimate': 279, 'equipment': 'dumbbells', 'recommended': False}",2026-04-13 11:37:48,2026-04-19 11:37:48
+94,9695,Baile fitness,motilada,avanzado,91,95,0,"{'calories_estimate': 789, 'equipment': 'dumbbells', 'recommended': False}",2026-04-27 11:37:48,2026-04-27 11:37:48
+95,4685,Yoga para principiantes,motilada,fácil,47,20,1,"{'calories_estimate': 477, 'equipment': 'dumbbells', 'recommended': False}",2026-04-03 11:37:48,2026-04-11 11:37:48
+96,1023,Baile fitness,vacunacion,intermedio,72,29,0,"{'calories_estimate': 236, 'equipment': 'full gym', 'recommended': False}",2026-05-02 11:37:48,2026-05-05 11:37:48
+97,5207,Entrenamiento de fuerza,corte de uñas,avanzado,52,29,1,"{'calories_estimate': 283, 'equipment': 'full gym', 'recommended': True}",2026-04-12 11:37:48,2026-04-17 11:37:48
+98,9872,Entrenamiento funcional,esterilizacion,avanzado,71,9,0,"{'calories_estimate': 679, 'equipment': 'dumbbells', 'recommended': False}",2026-04-27 11:37:48,2026-04-27 11:37:48
+99,9265,Cardio intenso,motilada,avanzado,26,74,1,"{'calories_estimate': 349, 'equipment': 'none', 'recommended': True}",2026-04-15 11:37:48,2026-04-22 11:37:48
+100,5569,Yoga para principiantes,vacunacion,intermedio,117,86,0,"{'calories_estimate': 270, 'equipment': 'dumbbells', 'recommended': True}",2026-04-12 11:37:48,2026-04-21 11:37:48
+101,5672,Entrenamiento funcional,vacunacion,fácil,117,81,1,"{'calories_estimate': 743, 'equipment': 'dumbbells', 'recommended': True}",2026-04-14 11:37:48,2026-04-19 11:37:48
+102,6477,Baile fitness,desparasitada,fácil,89,77,1,"{'calories_estimate': 611, 'equipment': 'full gym', 'recommended': False}",2026-05-01 11:37:48,2026-05-01 11:37:48
+103,2173,Entrenamiento de fuerza,corte de uñas,avanzado,95,33,0,"{'calories_estimate': 221, 'equipment': 'full gym', 'recommended': True}",2026-04-22 11:37:48,2026-04-26 11:37:48
+104,4146,Cardio intenso,motilada,avanzado,19,21,0,"{'calories_estimate': 584, 'equipment': 'full gym', 'recommended': False}",2026-05-01 11:37:48,2026-05-11 11:37:48
+105,4188,Cardio intenso,motilada,avanzado,22,85,0,"{'calories_estimate': 654, 'equipment': 'dumbbells', 'recommended': False}",2026-04-21 11:37:48,2026-04-25 11:37:48
+106,1613,Cardio intenso,corte de uñas,intermedio,86,80,0,"{'calories_estimate': 278, 'equipment': 'none', 'recommended': True}",2026-04-06 11:37:48,2026-04-11 11:37:48
+107,4006,Yoga para principiantes,desparasitada,intermedio,28,61,1,"{'calories_estimate': 740, 'equipment': 'none', 'recommended': True}",2026-04-20 11:37:48,2026-04-23 11:37:48
+108,5104,Baile fitness,motilada,avanzado,31,3,0,"{'calories_estimate': 388, 'equipment': 'dumbbells', 'recommended': False}",2026-04-18 11:37:48,2026-04-25 11:37:48
+109,6272,Baile fitness,desparasitada,intermedio,71,53,0,"{'calories_estimate': 435, 'equipment': 'dumbbells', 'recommended': True}",2026-04-02 11:37:48,2026-04-03 11:37:48
+110,7997,Entrenamiento funcional,esterilizacion,avanzado,117,49,0,"{'calories_estimate': 117, 'equipment': 'none', 'recommended': False}",2026-04-18 11:37:48,2026-04-26 11:37:48
+111,2887,Yoga para principiantes,motilada,fácil,76,97,0,"{'calories_estimate': 713, 'equipment': 'full gym', 'recommended': False}",2026-04-03 11:37:48,2026-04-07 11:37:48
+112,5704,Entrenamiento funcional,esterilizacion,intermedio,47,72,0,"{'calories_estimate': 520, 'equipment': 'dumbbells', 'recommended': False}",2026-04-06 11:37:48,2026-04-10 11:37:48
+113,3953,Entrenamiento funcional,motilada,avanzado,119,80,0,"{'calories_estimate': 344, 'equipment': 'none', 'recommended': False}",2026-04-08 11:37:48,2026-04-18 11:37:48
+114,946,Entrenamiento funcional,desparasitada,fácil,37,51,1,"{'calories_estimate': 142, 'equipment': 'none', 'recommended': False}",2026-04-29 11:37:48,2026-04-30 11:37:48
+115,658,Baile fitness,desparasitada,intermedio,37,68,1,"{'calories_estimate': 420, 'equipment': 'none', 'recommended': True}",2026-04-27 11:37:48,2026-05-07 11:37:48
+116,5420,Yoga para principiantes,corte de uñas,avanzado,78,7,0,"{'calories_estimate': 755, 'equipment': 'full gym', 'recommended': True}",2026-04-15 11:37:48,2026-04-21 11:37:48
+117,499,Yoga para principiantes,vacunacion,avanzado,65,30,0,"{'calories_estimate': 317, 'equipment': 'dumbbells', 'recommended': True}",2026-04-20 11:37:48,2026-04-29 11:37:48
+118,7837,Entrenamiento de fuerza,esterilizacion,intermedio,109,59,0,"{'calories_estimate': 120, 'equipment': 'none', 'recommended': True}",2026-04-18 11:37:48,2026-04-26 11:37:48
+119,8641,Entrenamiento funcional,vacunacion,avanzado,67,77,1,"{'calories_estimate': 132, 'equipment': 'full gym', 'recommended': False}",2026-05-02 11:37:48,2026-05-06 11:37:48
+120,8704,Cardio intenso,corte de uñas,avanzado,74,62,0,"{'calories_estimate': 470, 'equipment': 'none', 'recommended': False}",2026-04-27 11:37:48,2026-04-28 11:37:48
+121,7777,Cardio intenso,desparasitada,intermedio,109,84,1,"{'calories_estimate': 741, 'equipment': 'dumbbells', 'recommended': True}",2026-04-29 11:37:48,2026-05-05 11:37:48
+122,6379,Entrenamiento de fuerza,vacunacion,fácil,94,80,0,"{'calories_estimate': 313, 'equipment': 'full gym', 'recommended': True}",2026-04-28 11:37:48,2026-05-03 11:37:48
+123,2289,Baile fitness,desparasitada,intermedio,39,29,1,"{'calories_estimate': 117, 'equipment': 'dumbbells', 'recommended': True}",2026-04-27 11:37:48,2026-04-29 11:37:48
+124,2392,Yoga para principiantes,esterilizacion,avanzado,88,74,1,"{'calories_estimate': 608, 'equipment': 'dumbbells', 'recommended': False}",2026-04-10 11:37:48,2026-04-14 11:37:48
+125,5985,Cardio intenso,esterilizacion,fácil,40,70,0,"{'calories_estimate': 257, 'equipment': 'dumbbells', 'recommended': True}",2026-04-27 11:37:48,2026-05-01 11:37:48
+126,9877,Yoga para principiantes,esterilizacion,fácil,66,5,0,"{'calories_estimate': 744, 'equipment': 'dumbbells', 'recommended': False}",2026-04-17 11:37:48,2026-04-25 11:37:48
+127,4625,Yoga para principiantes,vacunacion,fácil,42,30,1,"{'calories_estimate': 563, 'equipment': 'dumbbells', 'recommended': False}",2026-04-08 11:37:48,2026-04-09 11:37:48
+128,8569,Entrenamiento de fuerza,desparasitada,intermedio,60,88,0,"{'calories_estimate': 153, 'equipment': 'full gym', 'recommended': False}",2026-04-10 11:37:48,2026-04-10 11:37:48
+129,8753,Yoga para principiantes,desparasitada,fácil,72,30,1,"{'calories_estimate': 768, 'equipment': 'none', 'recommended': True}",2026-04-06 11:37:48,2026-04-15 11:37:48
+130,1529,Baile fitness,corte de uñas,fácil,76,12,1,"{'calories_estimate': 765, 'equipment': 'none', 'recommended': True}",2026-04-29 11:37:48,2026-05-05 11:37:48
+131,8085,Entrenamiento funcional,corte de uñas,fácil,78,41,1,"{'calories_estimate': 711, 'equipment': 'full gym', 'recommended': True}",2026-04-20 11:37:48,2026-04-28 11:37:48
+132,7858,Baile fitness,esterilizacion,avanzado,85,72,0,"{'calories_estimate': 346, 'equipment': 'none', 'recommended': True}",2026-04-24 11:37:48,2026-04-24 11:37:48
+133,4459,Cardio intenso,motilada,intermedio,25,73,1,"{'calories_estimate': 659, 'equipment': 'none', 'recommended': True}",2026-04-08 11:37:48,2026-04-15 11:37:48
+134,6104,Yoga para principiantes,vacunacion,fácil,79,44,0,"{'calories_estimate': 463, 'equipment': 'none', 'recommended': True}",2026-04-06 11:37:48,2026-04-08 11:37:48
+135,595,Baile fitness,esterilizacion,intermedio,72,20,1,"{'calories_estimate': 419, 'equipment': 'none', 'recommended': True}",2026-04-21 11:37:48,2026-04-28 11:37:48
+136,5264,Entrenamiento de fuerza,vacunacion,avanzado,110,80,0,"{'calories_estimate': 737, 'equipment': 'dumbbells', 'recommended': False}",2026-05-02 11:37:48,2026-05-05 11:37:48
+137,4333,Entrenamiento de fuerza,vacunacion,fácil,99,76,1,"{'calories_estimate': 600, 'equipment': 'dumbbells', 'recommended': True}",2026-04-04 11:37:48,2026-04-04 11:37:48
+138,8039,Entrenamiento de fuerza,motilada,fácil,71,5,0,"{'calories_estimate': 476, 'equipment': 'full gym', 'recommended': False}",2026-04-09 11:37:48,2026-04-18 11:37:48
+139,8513,Yoga para principiantes,motilada,avanzado,21,33,0,"{'calories_estimate': 612, 'equipment': 'full gym', 'recommended': True}",2026-04-03 11:37:48,2026-04-11 11:37:48
+140,1769,Entrenamiento de fuerza,motilada,intermedio,25,100,0,"{'calories_estimate': 654, 'equipment': 'none', 'recommended': False}",2026-04-20 11:37:48,2026-04-22 11:37:48
+141,6063,Baile fitness,corte de uñas,fácil,56,92,0,"{'calories_estimate': 117, 'equipment': 'none', 'recommended': False}",2026-04-28 11:37:48,2026-05-05 11:37:48
+142,3338,Entrenamiento funcional,esterilizacion,intermedio,23,27,0,"{'calories_estimate': 554, 'equipment': 'none', 'recommended': True}",2026-04-07 11:37:48,2026-04-16 11:37:48
+143,9682,Cardio intenso,motilada,intermedio,85,88,1,"{'calories_estimate': 786, 'equipment': 'dumbbells', 'recommended': True}",2026-04-27 11:37:48,2026-05-07 11:37:48
+144,1329,Entrenamiento de fuerza,motilada,intermedio,11,66,0,"{'calories_estimate': 113, 'equipment': 'none', 'recommended': False}",2026-05-02 11:37:48,2026-05-11 11:37:48
+145,7291,Baile fitness,motilada,intermedio,21,98,0,"{'calories_estimate': 288, 'equipment': 'full gym', 'recommended': True}",2026-04-18 11:37:48,2026-04-19 11:37:48
+146,9294,Entrenamiento funcional,vacunacion,avanzado,113,47,0,"{'calories_estimate': 122, 'equipment': 'none', 'recommended': True}",2026-04-12 11:37:48,2026-04-19 11:37:48
+147,819,Baile fitness,vacunacion,intermedio,88,95,0,"{'calories_estimate': 459, 'equipment': 'none', 'recommended': True}",2026-04-21 11:37:48,2026-04-26 11:37:48
+148,4946,Baile fitness,corte de uñas,fácil,67,42,0,"{'calories_estimate': 749, 'equipment': 'none', 'recommended': False}",2026-04-14 11:37:48,2026-04-14 11:37:48
+149,9916,Baile fitness,desparasitada,avanzado,82,51,1,"{'calories_estimate': 548, 'equipment': 'full gym', 'recommended': True}",2026-04-22 11:37:48,2026-04-29 11:37:48
+150,174,Baile fitness,corte de uñas,fácil,20,3,0,"{'calories_estimate': 103, 'equipment': 'none', 'recommended': True}",2026-04-05 11:37:48,2026-04-15 11:37:48
+151,2937,Yoga para principiantes,corte de uñas,intermedio,104,7,0,"{'calories_estimate': 705, 'equipment': 'dumbbells', 'recommended': True}",2026-04-12 11:37:48,2026-04-15 11:37:48
+152,7490,Entrenamiento de fuerza,vacunacion,fácil,53,47,1,"{'calories_estimate': 292, 'equipment': 'dumbbells', 'recommended': True}",2026-04-19 11:37:48,2026-04-22 11:37:48
+153,5432,Yoga para principiantes,desparasitada,intermedio,100,62,0,"{'calories_estimate': 624, 'equipment': 'none', 'recommended': True}",2026-04-08 11:37:48,2026-04-12 11:37:48
+154,3650,Baile fitness,corte de uñas,intermedio,53,57,1,"{'calories_estimate': 115, 'equipment': 'none', 'recommended': False}",2026-04-07 11:37:48,2026-04-07 11:37:48
+155,785,Baile fitness,motilada,fácil,22,47,1,"{'calories_estimate': 302, 'equipment': 'full gym', 'recommended': True}",2026-04-13 11:37:48,2026-04-14 11:37:48
+156,5762,Entrenamiento funcional,vacunacion,intermedio,64,30,0,"{'calories_estimate': 381, 'equipment': 'none', 'recommended': True}",2026-04-21 11:37:48,2026-05-01 11:37:48
+157,6938,Entrenamiento de fuerza,vacunacion,fácil,104,90,0,"{'calories_estimate': 235, 'equipment': 'dumbbells', 'recommended': True}",2026-04-03 11:37:48,2026-04-03 11:37:48
+158,2337,Cardio intenso,corte de uñas,fácil,109,81,1,"{'calories_estimate': 726, 'equipment': 'dumbbells', 'recommended': True}",2026-04-18 11:37:48,2026-04-19 11:37:48
+159,7070,Cardio intenso,desparasitada,fácil,63,43,1,"{'calories_estimate': 541, 'equipment': 'none', 'recommended': False}",2026-04-14 11:37:48,2026-04-15 11:37:48
+160,975,Cardio intenso,esterilizacion,intermedio,90,96,0,"{'calories_estimate': 448, 'equipment': 'none', 'recommended': False}",2026-04-24 11:37:48,2026-04-29 11:37:48
+161,3812,Cardio intenso,corte de uñas,fácil,102,14,0,"{'calories_estimate': 788, 'equipment': 'none', 'recommended': True}",2026-04-20 11:37:48,2026-04-22 11:37:48
+162,3838,Cardio intenso,desparasitada,fácil,31,20,0,"{'calories_estimate': 426, 'equipment': 'dumbbells', 'recommended': True}",2026-04-08 11:37:48,2026-04-11 11:37:48
+163,5891,Yoga para principiantes,vacunacion,fácil,24,71,0,"{'calories_estimate': 774, 'equipment': 'none', 'recommended': True}",2026-04-02 11:37:48,2026-04-02 11:37:48
+164,129,Entrenamiento de fuerza,corte de uñas,fácil,119,89,1,"{'calories_estimate': 523, 'equipment': 'none', 'recommended': False}",2026-04-18 11:37:48,2026-04-23 11:37:48
+165,8259,Entrenamiento de fuerza,motilada,avanzado,28,33,0,"{'calories_estimate': 635, 'equipment': 'full gym', 'recommended': True}",2026-04-19 11:37:48,2026-04-20 11:37:48
+166,100,Baile fitness,esterilizacion,intermedio,68,12,0,"{'calories_estimate': 428, 'equipment': 'none', 'recommended': True}",2026-04-26 11:37:48,2026-05-05 11:37:48
+167,3823,Cardio intenso,desparasitada,intermedio,90,83,0,"{'calories_estimate': 769, 'equipment': 'full gym', 'recommended': False}",2026-04-27 11:37:48,2026-05-07 11:37:48
+168,3086,Entrenamiento funcional,vacunacion,avanzado,88,85,0,"{'calories_estimate': 678, 'equipment': 'none', 'recommended': True}",2026-04-22 11:37:48,2026-04-24 11:37:48
+169,2826,Entrenamiento de fuerza,motilada,avanzado,28,53,0,"{'calories_estimate': 285, 'equipment': 'none', 'recommended': True}",2026-04-10 11:37:48,2026-04-12 11:37:48
+170,1404,Entrenamiento de fuerza,corte de uñas,intermedio,54,25,0,"{'calories_estimate': 646, 'equipment': 'full gym', 'recommended': True}",2026-04-21 11:37:48,2026-04-29 11:37:48
+171,5276,Cardio intenso,vacunacion,intermedio,52,7,1,"{'calories_estimate': 547, 'equipment': 'none', 'recommended': True}",2026-04-07 11:37:48,2026-04-08 11:37:48
+172,7666,Entrenamiento funcional,vacunacion,avanzado,57,87,1,"{'calories_estimate': 221, 'equipment': 'dumbbells', 'recommended': True}",2026-04-02 11:37:48,2026-04-02 11:37:48
+173,9225,Baile fitness,motilada,fácil,100,58,1,"{'calories_estimate': 467, 'equipment': 'full gym', 'recommended': True}",2026-05-02 11:37:48,2026-05-05 11:37:48
+174,2535,Entrenamiento de fuerza,corte de uñas,avanzado,35,83,0,"{'calories_estimate': 265, 'equipment': 'none', 'recommended': True}",2026-04-08 11:37:48,2026-04-12 11:37:48
+175,3935,Yoga para principiantes,esterilizacion,avanzado,79,76,1,"{'calories_estimate': 451, 'equipment': 'none', 'recommended': False}",2026-05-01 11:37:48,2026-05-05 11:37:48
+176,9386,Entrenamiento funcional,desparasitada,intermedio,87,79,0,"{'calories_estimate': 324, 'equipment': 'none', 'recommended': True}",2026-04-12 11:37:48,2026-04-19 11:37:48
+177,5984,Baile fitness,motilada,avanzado,45,53,0,"{'calories_estimate': 248, 'equipment': 'dumbbells', 'recommended': True}",2026-04-11 11:37:48,2026-04-15 11:37:48
+178,5628,Yoga para principiantes,desparasitada,fácil,89,75,0,"{'calories_estimate': 610, 'equipment': 'full gym', 'recommended': False}",2026-04-30 11:37:48,2026-05-05 11:37:48
+179,1671,Cardio intenso,vacunacion,intermedio,111,100,1,"{'calories_estimate': 160, 'equipment': 'none', 'recommended': True}",2026-04-15 11:37:48,2026-04-18 11:37:48
+180,7834,Cardio intenso,esterilizacion,avanzado,84,53,1,"{'calories_estimate': 480, 'equipment': 'full gym', 'recommended': False}",2026-04-05 11:37:48,2026-04-13 11:37:48
+181,5851,Entrenamiento de fuerza,corte de uñas,fácil,13,52,1,"{'calories_estimate': 489, 'equipment': 'full gym', 'recommended': False}",2026-04-04 11:37:48,2026-04-04 11:37:48
+182,3339,Cardio intenso,corte de uñas,intermedio,75,88,1,"{'calories_estimate': 182, 'equipment': 'full gym', 'recommended': False}",2026-04-29 11:37:48,2026-05-08 11:37:48
+183,7383,Entrenamiento de fuerza,motilada,fácil,36,29,0,"{'calories_estimate': 741, 'equipment': 'none', 'recommended': True}",2026-04-05 11:37:48,2026-04-13 11:37:48
+184,3765,Entrenamiento funcional,vacunacion,intermedio,107,50,0,"{'calories_estimate': 484, 'equipment': 'full gym', 'recommended': True}",2026-04-05 11:37:48,2026-04-05 11:37:48
+185,7889,Entrenamiento funcional,motilada,avanzado,113,46,0,"{'calories_estimate': 396, 'equipment': 'none', 'recommended': False}",2026-04-02 11:37:48,2026-04-07 11:37:48
+186,3932,Yoga para principiantes,esterilizacion,fácil,18,64,0,"{'calories_estimate': 704, 'equipment': 'none', 'recommended': True}",2026-04-13 11:37:48,2026-04-15 11:37:48
+187,5995,Cardio intenso,vacunacion,fácil,81,38,1,"{'calories_estimate': 223, 'equipment': 'none', 'recommended': False}",2026-04-03 11:37:48,2026-04-09 11:37:48
+188,4399,Entrenamiento de fuerza,esterilizacion,avanzado,72,8,0,"{'calories_estimate': 498, 'equipment': 'dumbbells', 'recommended': False}",2026-04-21 11:37:48,2026-04-29 11:37:48
+189,3329,Yoga para principiantes,esterilizacion,fácil,99,83,0,"{'calories_estimate': 506, 'equipment': 'full gym', 'recommended': True}",2026-04-23 11:37:48,2026-04-29 11:37:48
+190,5405,Yoga para principiantes,vacunacion,avanzado,47,79,0,"{'calories_estimate': 316, 'equipment': 'full gym', 'recommended': True}",2026-04-19 11:37:48,2026-04-26 11:37:48
+191,8640,Yoga para principiantes,vacunacion,avanzado,95,86,1,"{'calories_estimate': 791, 'equipment': 'full gym', 'recommended': True}",2026-04-18 11:37:48,2026-04-28 11:37:48
+192,1730,Yoga para principiantes,corte de uñas,avanzado,24,26,1,"{'calories_estimate': 306, 'equipment': 'dumbbells', 'recommended': True}",2026-05-02 11:37:48,2026-05-07 11:37:48
+193,8617,Entrenamiento de fuerza,corte de uñas,intermedio,118,61,0,"{'calories_estimate': 141, 'equipment': 'none', 'recommended': True}",2026-04-30 11:37:48,2026-05-09 11:37:48
+194,6038,Entrenamiento de fuerza,motilada,avanzado,91,56,1,"{'calories_estimate': 234, 'equipment': 'full gym', 'recommended': False}",2026-04-14 11:37:48,2026-04-18 11:37:48
+195,5371,Entrenamiento funcional,corte de uñas,intermedio,33,27,0,"{'calories_estimate': 206, 'equipment': 'none', 'recommended': False}",2026-04-22 11:37:48,2026-05-01 11:37:48
+196,4508,Entrenamiento funcional,corte de uñas,avanzado,87,76,0,"{'calories_estimate': 495, 'equipment': 'dumbbells', 'recommended': False}",2026-04-02 11:37:48,2026-04-06 11:37:48
+197,6552,Yoga para principiantes,vacunacion,intermedio,71,34,0,"{'calories_estimate': 430, 'equipment': 'dumbbells', 'recommended': True}",2026-04-27 11:37:48,2026-05-05 11:37:48
+198,7536,Yoga para principiantes,vacunacion,fácil,47,21,1,"{'calories_estimate': 396, 'equipment': 'dumbbells', 'recommended': False}",2026-05-01 11:37:48,2026-05-02 11:37:48
+199,8583,Baile fitness,vacunacion,fácil,39,19,0,"{'calories_estimate': 712, 'equipment': 'full gym', 'recommended': True}",2026-04-02 11:37:48,2026-04-08 11:37:48
+200,8793,Yoga para principiantes,vacunacion,avanzado,25,62,1,"{'calories_estimate': 438, 'equipment': 'dumbbells', 'recommended': False}",2026-04-12 11:37:48,2026-04-13 11:37:48
+201,1342,Entrenamiento de fuerza,motilada,avanzado,88,98,0,"{'calories_estimate': 680, 'equipment': 'none', 'recommended': False}",2026-04-22 11:37:48,2026-04-28 11:37:48
+202,6330,Entrenamiento de fuerza,vacunacion,avanzado,24,56,1,"{'calories_estimate': 712, 'equipment': 'none', 'recommended': True}",2026-04-25 11:37:48,2026-04-28 11:37:48
+203,416,Cardio intenso,desparasitada,fácil,60,48,1,"{'calories_estimate': 508, 'equipment': 'none', 'recommended': False}",2026-04-08 11:37:48,2026-04-15 11:37:48
+204,2517,Entrenamiento funcional,desparasitada,avanzado,28,65,0,"{'calories_estimate': 493, 'equipment': 'dumbbells', 'recommended': True}",2026-04-05 11:37:48,2026-04-06 11:37:48
+205,4490,Entrenamiento funcional,corte de uñas,intermedio,15,18,0,"{'calories_estimate': 336, 'equipment': 'none', 'recommended': True}",2026-04-13 11:37:48,2026-04-15 11:37:48
+206,4324,Entrenamiento funcional,motilada,intermedio,83,26,1,"{'calories_estimate': 668, 'equipment': 'full gym', 'recommended': True}",2026-04-24 11:37:48,2026-04-25 11:37:48
+207,7508,Cardio intenso,desparasitada,intermedio,104,56,1,"{'calories_estimate': 406, 'equipment': 'dumbbells', 'recommended': True}",2026-04-16 11:37:48,2026-04-21 11:37:48
+208,3726,Cardio intenso,desparasitada,intermedio,69,75,1,"{'calories_estimate': 769, 'equipment': 'none', 'recommended': True}",2026-04-25 11:37:48,2026-04-29 11:37:48
+209,9218,Baile fitness,desparasitada,intermedio,119,35,1,"{'calories_estimate': 734, 'equipment': 'full gym', 'recommended': False}",2026-05-02 11:37:48,2026-05-10 11:37:48
+210,3894,Baile fitness,motilada,avanzado,33,37,1,"{'calories_estimate': 301, 'equipment': 'none', 'recommended': False}",2026-04-04 11:37:48,2026-04-07 11:37:48
+211,8183,Entrenamiento funcional,corte de uñas,fácil,120,57,0,"{'calories_estimate': 314, 'equipment': 'full gym', 'recommended': True}",2026-04-15 11:37:48,2026-04-19 11:37:48
+212,4457,Entrenamiento funcional,motilada,intermedio,86,64,0,"{'calories_estimate': 383, 'equipment': 'none', 'recommended': True}",2026-04-21 11:37:48,2026-04-30 11:37:48
+213,5282,Cardio intenso,corte de uñas,fácil,65,73,1,"{'calories_estimate': 372, 'equipment': 'full gym', 'recommended': False}",2026-04-03 11:37:48,2026-04-09 11:37:48
+214,686,Entrenamiento funcional,motilada,intermedio,89,75,0,"{'calories_estimate': 656, 'equipment': 'dumbbells', 'recommended': False}",2026-04-20 11:37:48,2026-04-23 11:37:48
+215,1229,Yoga para principiantes,corte de uñas,fácil,83,21,0,"{'calories_estimate': 169, 'equipment': 'full gym', 'recommended': True}",2026-04-03 11:37:48,2026-04-11 11:37:48
+216,5903,Cardio intenso,motilada,avanzado,115,83,0,"{'calories_estimate': 287, 'equipment': 'none', 'recommended': False}",2026-04-17 11:37:48,2026-04-18 11:37:48
+217,4511,Baile fitness,desparasitada,intermedio,46,7,1,"{'calories_estimate': 274, 'equipment': 'full gym', 'recommended': True}",2026-04-23 11:37:48,2026-04-29 11:37:48
+218,4675,Entrenamiento funcional,desparasitada,avanzado,105,99,1,"{'calories_estimate': 469, 'equipment': 'none', 'recommended': False}",2026-04-27 11:37:48,2026-04-30 11:37:48
+219,6754,Baile fitness,esterilizacion,fácil,47,71,1,"{'calories_estimate': 339, 'equipment': 'full gym', 'recommended': False}",2026-04-04 11:37:48,2026-04-05 11:37:48
+220,8405,Yoga para principiantes,esterilizacion,avanzado,28,82,1,"{'calories_estimate': 598, 'equipment': 'dumbbells', 'recommended': False}",2026-04-29 11:37:48,2026-04-30 11:37:48
+221,6349,Baile fitness,esterilizacion,avanzado,86,92,0,"{'calories_estimate': 356, 'equipment': 'full gym', 'recommended': True}",2026-04-23 11:37:48,2026-04-23 11:37:48
+222,116,Entrenamiento de fuerza,desparasitada,intermedio,54,93,0,"{'calories_estimate': 727, 'equipment': 'dumbbells', 'recommended': True}",2026-04-22 11:37:48,2026-05-01 11:37:48
+223,9215,Entrenamiento funcional,esterilizacion,intermedio,23,62,0,"{'calories_estimate': 288, 'equipment': 'dumbbells', 'recommended': True}",2026-04-17 11:37:48,2026-04-24 11:37:48
+224,2478,Entrenamiento de fuerza,esterilizacion,avanzado,41,89,0,"{'calories_estimate': 409, 'equipment': 'full gym', 'recommended': True}",2026-04-09 11:37:48,2026-04-12 11:37:48
+225,1091,Yoga para principiantes,vacunacion,avanzado,88,96,0,"{'calories_estimate': 335, 'equipment': 'dumbbells', 'recommended': True}",2026-04-08 11:37:48,2026-04-10 11:37:48
+226,1589,Yoga para principiantes,desparasitada,intermedio,81,62,0,"{'calories_estimate': 288, 'equipment': 'full gym', 'recommended': True}",2026-04-07 11:37:48,2026-04-12 11:37:48
+227,8353,Entrenamiento de fuerza,corte de uñas,fácil,101,20,1,"{'calories_estimate': 736, 'equipment': 'dumbbells', 'recommended': False}",2026-04-19 11:37:48,2026-04-20 11:37:48
+228,8659,Baile fitness,vacunacion,avanzado,10,48,1,"{'calories_estimate': 602, 'equipment': 'full gym', 'recommended': True}",2026-04-22 11:37:48,2026-05-01 11:37:48
+229,5042,Cardio intenso,corte de uñas,fácil,11,92,0,"{'calories_estimate': 122, 'equipment': 'dumbbells', 'recommended': True}",2026-04-29 11:37:48,2026-04-30 11:37:48
+230,6060,Yoga para principiantes,vacunacion,intermedio,81,99,0,"{'calories_estimate': 492, 'equipment': 'full gym', 'recommended': False}",2026-04-07 11:37:48,2026-04-10 11:37:48
+231,8800,Baile fitness,vacunacion,avanzado,77,17,1,"{'calories_estimate': 725, 'equipment': 'dumbbells', 'recommended': True}",2026-04-26 11:37:48,2026-04-27 11:37:48
+232,3946,Cardio intenso,corte de uñas,avanzado,117,75,1,"{'calories_estimate': 449, 'equipment': 'dumbbells', 'recommended': False}",2026-04-14 11:37:48,2026-04-17 11:37:48
+233,2857,Entrenamiento funcional,corte de uñas,fácil,80,7,0,"{'calories_estimate': 344, 'equipment': 'full gym', 'recommended': False}",2026-04-26 11:37:48,2026-04-27 11:37:48
+234,535,Baile fitness,vacunacion,intermedio,60,18,0,"{'calories_estimate': 755, 'equipment': 'full gym', 'recommended': True}",2026-04-06 11:37:48,2026-04-14 11:37:48
+235,4678,Entrenamiento funcional,esterilizacion,intermedio,101,19,1,"{'calories_estimate': 354, 'equipment': 'dumbbells', 'recommended': False}",2026-04-24 11:37:48,2026-05-02 11:37:48
+236,7487,Entrenamiento funcional,vacunacion,intermedio,112,5,0,"{'calories_estimate': 581, 'equipment': 'full gym', 'recommended': False}",2026-04-07 11:37:48,2026-04-11 11:37:48
+237,1592,Yoga para principiantes,desparasitada,fácil,75,70,0,"{'calories_estimate': 356, 'equipment': 'dumbbells', 'recommended': False}",2026-04-06 11:37:48,2026-04-15 11:37:48
+238,8441,Entrenamiento funcional,vacunacion,intermedio,117,100,1,"{'calories_estimate': 715, 'equipment': 'none', 'recommended': False}",2026-04-07 11:37:48,2026-04-15 11:37:48
+239,8129,Entrenamiento funcional,corte de uñas,fácil,80,12,1,"{'calories_estimate': 751, 'equipment': 'none', 'recommended': False}",2026-04-09 11:37:48,2026-04-16 11:37:48
+240,4639,Yoga para principiantes,corte de uñas,intermedio,51,2,0,"{'calories_estimate': 437, 'equipment': 'none', 'recommended': True}",2026-04-16 11:37:48,2026-04-17 11:37:48
+241,2153,Cardio intenso,vacunacion,fácil,75,71,1,"{'calories_estimate': 303, 'equipment': 'full gym', 'recommended': True}",2026-04-05 11:37:48,2026-04-07 11:37:48
+242,2414,Entrenamiento funcional,desparasitada,fácil,10,12,0,"{'calories_estimate': 408, 'equipment': 'dumbbells', 'recommended': True}",2026-04-20 11:37:48,2026-04-22 11:37:48
+243,2355,Yoga para principiantes,desparasitada,fácil,119,81,0,"{'calories_estimate': 768, 'equipment': 'dumbbells', 'recommended': True}",2026-05-02 11:37:48,2026-05-05 11:37:48
+244,4881,Cardio intenso,motilada,avanzado,43,10,0,"{'calories_estimate': 642, 'equipment': 'none', 'recommended': True}",2026-04-27 11:37:48,2026-04-27 11:37:48
+245,8994,Yoga para principiantes,motilada,intermedio,84,48,1,"{'calories_estimate': 536, 'equipment': 'dumbbells', 'recommended': False}",2026-04-09 11:37:48,2026-04-14 11:37:48
+246,6539,Entrenamiento funcional,esterilizacion,fácil,23,78,1,"{'calories_estimate': 694, 'equipment': 'dumbbells', 'recommended': False}",2026-04-03 11:37:48,2026-04-10 11:37:48
+247,8645,Cardio intenso,corte de uñas,avanzado,80,63,0,"{'calories_estimate': 754, 'equipment': 'full gym', 'recommended': False}",2026-04-13 11:37:48,2026-04-13 11:37:48
+248,5307,Yoga para principiantes,esterilizacion,fácil,61,13,1,"{'calories_estimate': 363, 'equipment': 'full gym', 'recommended': True}",2026-04-29 11:37:48,2026-05-07 11:37:48
+249,6299,Baile fitness,corte de uñas,avanzado,38,97,1,"{'calories_estimate': 595, 'equipment': 'full gym', 'recommended': True}",2026-04-05 11:37:48,2026-04-12 11:37:48
+250,8765,Entrenamiento de fuerza,desparasitada,fácil,106,64,1,"{'calories_estimate': 635, 'equipment': 'full gym', 'recommended': True}",2026-04-24 11:37:48,2026-04-29 11:37:48
+251,6151,Baile fitness,esterilizacion,avanzado,65,94,0,"{'calories_estimate': 320, 'equipment': 'none', 'recommended': True}",2026-04-27 11:37:48,2026-04-27 11:37:48
+252,304,Entrenamiento de fuerza,corte de uñas,fácil,19,31,0,"{'calories_estimate': 302, 'equipment': 'dumbbells', 'recommended': False}",2026-04-24 11:37:48,2026-05-04 11:37:48
+253,8560,Yoga para principiantes,esterilizacion,fácil,18,39,1,"{'calories_estimate': 726, 'equipment': 'dumbbells', 'recommended': True}",2026-04-26 11:37:48,2026-04-27 11:37:48
+254,6816,Entrenamiento de fuerza,esterilizacion,fácil,33,74,0,"{'calories_estimate': 257, 'equipment': 'dumbbells', 'recommended': False}",2026-04-24 11:37:48,2026-04-28 11:37:48
+255,3212,Entrenamiento de fuerza,motilada,fácil,84,59,1,"{'calories_estimate': 546, 'equipment': 'dumbbells', 'recommended': True}",2026-04-10 11:37:48,2026-04-16 11:37:48
+256,3786,Cardio intenso,motilada,fácil,104,55,0,"{'calories_estimate': 443, 'equipment': 'none', 'recommended': False}",2026-04-11 11:37:48,2026-04-20 11:37:48
+257,4635,Cardio intenso,desparasitada,fácil,92,97,0,"{'calories_estimate': 624, 'equipment': 'dumbbells', 'recommended': False}",2026-04-24 11:37:48,2026-04-29 11:37:48
+258,5604,Cardio intenso,corte de uñas,fácil,89,67,0,"{'calories_estimate': 557, 'equipment': 'dumbbells', 'recommended': False}",2026-04-21 11:37:48,2026-04-25 11:37:48
+259,1903,Yoga para principiantes,desparasitada,avanzado,100,6,0,"{'calories_estimate': 702, 'equipment': 'dumbbells', 'recommended': False}",2026-04-28 11:37:48,2026-04-28 11:37:48
+260,6790,Entrenamiento de fuerza,corte de uñas,avanzado,62,90,0,"{'calories_estimate': 760, 'equipment': 'none', 'recommended': True}",2026-04-23 11:37:48,2026-04-24 11:37:48
+261,6831,Entrenamiento funcional,corte de uñas,fácil,47,47,1,"{'calories_estimate': 240, 'equipment': 'none', 'recommended': True}",2026-04-22 11:37:48,2026-05-02 11:37:48
+262,5192,Yoga para principiantes,esterilizacion,fácil,32,86,1,"{'calories_estimate': 734, 'equipment': 'dumbbells', 'recommended': True}",2026-04-21 11:37:48,2026-04-25 11:37:48
+263,2287,Entrenamiento funcional,esterilizacion,avanzado,50,56,0,"{'calories_estimate': 658, 'equipment': 'dumbbells', 'recommended': True}",2026-04-02 11:37:48,2026-04-05 11:37:48
+264,3570,Baile fitness,motilada,fácil,73,67,0,"{'calories_estimate': 318, 'equipment': 'full gym', 'recommended': True}",2026-04-16 11:37:48,2026-04-19 11:37:48
+265,8080,Baile fitness,motilada,intermedio,10,33,0,"{'calories_estimate': 417, 'equipment': 'none', 'recommended': False}",2026-04-29 11:37:48,2026-05-04 11:37:48
+266,5513,Cardio intenso,esterilizacion,intermedio,16,45,0,"{'calories_estimate': 691, 'equipment': 'dumbbells', 'recommended': True}",2026-04-10 11:37:48,2026-04-10 11:37:48
+267,7965,Cardio intenso,corte de uñas,avanzado,11,2,1,"{'calories_estimate': 223, 'equipment': 'none', 'recommended': False}",2026-04-02 11:37:48,2026-04-04 11:37:48
+268,5636,Yoga para principiantes,vacunacion,intermedio,47,85,1,"{'calories_estimate': 583, 'equipment': 'dumbbells', 'recommended': False}",2026-04-08 11:37:48,2026-04-13 11:37:48
+269,4608,Entrenamiento de fuerza,corte de uñas,avanzado,11,18,0,"{'calories_estimate': 511, 'equipment': 'full gym', 'recommended': True}",2026-04-10 11:37:48,2026-04-13 11:37:48
+270,7710,Yoga para principiantes,esterilizacion,fácil,77,69,0,"{'calories_estimate': 558, 'equipment': 'full gym', 'recommended': False}",2026-04-27 11:37:48,2026-04-30 11:37:48
+271,1807,Yoga para principiantes,esterilizacion,intermedio,22,84,1,"{'calories_estimate': 210, 'equipment': 'none', 'recommended': False}",2026-04-18 11:37:48,2026-04-24 11:37:48
+272,8764,Baile fitness,motilada,intermedio,74,6,1,"{'calories_estimate': 119, 'equipment': 'dumbbells', 'recommended': False}",2026-04-16 11:37:48,2026-04-24 11:37:48
+273,398,Yoga para principiantes,corte de uñas,intermedio,91,44,1,"{'calories_estimate': 485, 'equipment': 'full gym', 'recommended': True}",2026-04-23 11:37:48,2026-04-24 11:37:48
+274,8532,Cardio intenso,motilada,fácil,89,29,0,"{'calories_estimate': 138, 'equipment': 'none', 'recommended': True}",2026-04-16 11:37:48,2026-04-23 11:37:48
+275,9420,Entrenamiento funcional,esterilizacion,intermedio,88,95,0,"{'calories_estimate': 542, 'equipment': 'none', 'recommended': False}",2026-04-07 11:37:48,2026-04-07 11:37:48
+276,7652,Cardio intenso,corte de uñas,fácil,19,67,0,"{'calories_estimate': 629, 'equipment': 'dumbbells', 'recommended': False}",2026-04-27 11:37:48,2026-05-06 11:37:48
+277,9162,Yoga para principiantes,vacunacion,intermedio,31,99,0,"{'calories_estimate': 275, 'equipment': 'full gym', 'recommended': True}",2026-04-05 11:37:48,2026-04-08 11:37:48
+278,3981,Entrenamiento de fuerza,vacunacion,fácil,117,92,1,"{'calories_estimate': 592, 'equipment': 'dumbbells', 'recommended': False}",2026-04-18 11:37:48,2026-04-21 11:37:48
+279,3580,Entrenamiento de fuerza,vacunacion,intermedio,71,29,0,"{'calories_estimate': 175, 'equipment': 'none', 'recommended': False}",2026-04-13 11:37:48,2026-04-18 11:37:48
+280,6031,Cardio intenso,desparasitada,avanzado,41,28,1,"{'calories_estimate': 612, 'equipment': 'none', 'recommended': False}",2026-04-12 11:37:48,2026-04-20 11:37:48
+281,6276,Entrenamiento funcional,esterilizacion,avanzado,17,66,1,"{'calories_estimate': 622, 'equipment': 'none', 'recommended': False}",2026-04-15 11:37:48,2026-04-20 11:37:48
+282,241,Baile fitness,desparasitada,intermedio,114,5,1,"{'calories_estimate': 383, 'equipment': 'none', 'recommended': False}",2026-04-21 11:37:48,2026-04-30 11:37:48
+283,2293,Baile fitness,corte de uñas,intermedio,82,52,1,"{'calories_estimate': 330, 'equipment': 'dumbbells', 'recommended': False}",2026-04-28 11:37:48,2026-04-29 11:37:48
+284,6437,Cardio intenso,corte de uñas,fácil,43,56,0,"{'calories_estimate': 687, 'equipment': 'none', 'recommended': False}",2026-04-06 11:37:48,2026-04-14 11:37:48
+285,8746,Cardio intenso,vacunacion,intermedio,43,2,0,"{'calories_estimate': 381, 'equipment': 'full gym', 'recommended': True}",2026-04-18 11:37:48,2026-04-24 11:37:48
+286,9245,Cardio intenso,desparasitada,fácil,92,55,0,"{'calories_estimate': 524, 'equipment': 'dumbbells', 'recommended': True}",2026-04-21 11:37:48,2026-04-23 11:37:48
+287,6718,Entrenamiento de fuerza,corte de uñas,fácil,18,46,1,"{'calories_estimate': 632, 'equipment': 'none', 'recommended': True}",2026-04-23 11:37:48,2026-04-28 11:37:48
+288,8225,Entrenamiento funcional,desparasitada,fácil,61,90,1,"{'calories_estimate': 364, 'equipment': 'none', 'recommended': True}",2026-04-20 11:37:48,2026-04-25 11:37:48
+289,347,Entrenamiento funcional,motilada,fácil,24,94,0,"{'calories_estimate': 502, 'equipment': 'full gym', 'recommended': True}",2026-04-19 11:37:48,2026-04-19 11:37:48
+290,4989,Entrenamiento de fuerza,motilada,avanzado,56,96,0,"{'calories_estimate': 216, 'equipment': 'full gym', 'recommended': False}",2026-04-20 11:37:48,2026-04-28 11:37:48
+291,9929,Baile fitness,esterilizacion,avanzado,29,7,0,"{'calories_estimate': 652, 'equipment': 'none', 'recommended': False}",2026-04-04 11:37:48,2026-04-08 11:37:48
+292,1832,Entrenamiento funcional,vacunacion,intermedio,52,48,1,"{'calories_estimate': 341, 'equipment': 'full gym', 'recommended': True}",2026-04-28 11:37:48,2026-04-28 11:37:48
+293,5729,Cardio intenso,motilada,fácil,107,2,1,"{'calories_estimate': 267, 'equipment': 'none', 'recommended': False}",2026-04-20 11:37:48,2026-04-21 11:37:48
+294,5873,Baile fitness,vacunacion,fácil,65,73,1,"{'calories_estimate': 798, 'equipment': 'full gym', 'recommended': False}",2026-04-30 11:37:48,2026-05-05 11:37:48
+295,7270,Entrenamiento funcional,corte de uñas,fácil,23,69,1,"{'calories_estimate': 143, 'equipment': 'full gym', 'recommended': True}",2026-04-06 11:37:48,2026-04-16 11:37:48
+296,2328,Entrenamiento funcional,motilada,intermedio,43,28,1,"{'calories_estimate': 558, 'equipment': 'dumbbells', 'recommended': True}",2026-04-16 11:37:48,2026-04-26 11:37:48
+297,5989,Entrenamiento funcional,esterilizacion,avanzado,96,37,0,"{'calories_estimate': 263, 'equipment': 'dumbbells', 'recommended': True}",2026-05-01 11:37:48,2026-05-02 11:37:48
+298,2055,Entrenamiento funcional,motilada,fácil,67,94,0,"{'calories_estimate': 180, 'equipment': 'none', 'recommended': True}",2026-04-27 11:37:48,2026-04-27 11:37:48
+299,3405,Cardio intenso,esterilizacion,intermedio,101,41,1,"{'calories_estimate': 512, 'equipment': 'none', 'recommended': False}",2026-04-21 11:37:48,2026-04-22 11:37:48
+300,2501,Entrenamiento de fuerza,corte de uñas,fácil,94,3,0,"{'calories_estimate': 292, 'equipment': 'dumbbells', 'recommended': True}",2026-04-05 11:37:48,2026-04-12 11:37:48
+301,7369,Entrenamiento de fuerza,motilada,fácil,82,50,0,"{'calories_estimate': 340, 'equipment': 'dumbbells', 'recommended': False}",2026-04-03 11:37:48,2026-04-06 11:37:48
+302,7111,Cardio intenso,desparasitada,fácil,84,37,0,"{'calories_estimate': 795, 'equipment': 'none', 'recommended': True}",2026-04-30 11:37:48,2026-05-06 11:37:48
+303,2689,Entrenamiento funcional,motilada,avanzado,25,19,0,"{'calories_estimate': 550, 'equipment': 'full gym', 'recommended': True}",2026-04-28 11:37:48,2026-05-03 11:37:48
+304,1154,Baile fitness,corte de uñas,fácil,90,56,1,"{'calories_estimate': 427, 'equipment': 'none', 'recommended': False}",2026-04-11 11:37:48,2026-04-13 11:37:48
+305,9374,Cardio intenso,vacunacion,intermedio,23,52,0,"{'calories_estimate': 766, 'equipment': 'dumbbells', 'recommended': False}",2026-04-07 11:37:48,2026-04-17 11:37:48
+306,3491,Baile fitness,motilada,avanzado,114,58,1,"{'calories_estimate': 699, 'equipment': 'none', 'recommended': False}",2026-04-28 11:37:48,2026-05-01 11:37:48
+307,9179,Yoga para principiantes,esterilizacion,avanzado,68,17,1,"{'calories_estimate': 216, 'equipment': 'full gym', 'recommended': True}",2026-04-14 11:37:48,2026-04-19 11:37:48
+308,7408,Entrenamiento de fuerza,vacunacion,intermedio,67,86,0,"{'calories_estimate': 634, 'equipment': 'dumbbells', 'recommended': False}",2026-04-16 11:37:48,2026-04-19 11:37:48
+309,5090,Entrenamiento de fuerza,motilada,fácil,103,3,1,"{'calories_estimate': 351, 'equipment': 'full gym', 'recommended': True}",2026-04-17 11:37:48,2026-04-24 11:37:48
+310,7142,Cardio intenso,corte de uñas,fácil,26,16,0,"{'calories_estimate': 366, 'equipment': 'none', 'recommended': False}",2026-04-23 11:37:48,2026-04-27 11:37:48
+311,2909,Entrenamiento de fuerza,desparasitada,intermedio,102,77,0,"{'calories_estimate': 121, 'equipment': 'full gym', 'recommended': False}",2026-04-25 11:37:48,2026-05-02 11:37:48
+312,9081,Entrenamiento funcional,corte de uñas,fácil,48,74,0,"{'calories_estimate': 634, 'equipment': 'none', 'recommended': True}",2026-04-04 11:37:48,2026-04-09 11:37:48
+313,2516,Yoga para principiantes,motilada,avanzado,67,21,0,"{'calories_estimate': 195, 'equipment': 'none', 'recommended': False}",2026-04-30 11:37:48,2026-05-09 11:37:48
+314,8278,Cardio intenso,corte de uñas,intermedio,78,77,0,"{'calories_estimate': 169, 'equipment': 'full gym', 'recommended': True}",2026-04-23 11:37:48,2026-05-02 11:37:48
+315,2634,Baile fitness,motilada,intermedio,51,54,1,"{'calories_estimate': 255, 'equipment': 'full gym', 'recommended': True}",2026-04-22 11:37:48,2026-04-24 11:37:48
+316,4538,Yoga para principiantes,corte de uñas,avanzado,57,65,0,"{'calories_estimate': 566, 'equipment': 'dumbbells', 'recommended': True}",2026-04-20 11:37:48,2026-04-20 11:37:48
+317,3005,Baile fitness,motilada,fácil,39,6,1,"{'calories_estimate': 548, 'equipment': 'dumbbells', 'recommended': True}",2026-04-26 11:37:48,2026-05-01 11:37:48
+318,1224,Baile fitness,vacunacion,fácil,18,86,1,"{'calories_estimate': 426, 'equipment': 'full gym', 'recommended': True}",2026-04-20 11:37:48,2026-04-25 11:37:48
+319,2435,Entrenamiento funcional,corte de uñas,intermedio,10,58,1,"{'calories_estimate': 707, 'equipment': 'dumbbells', 'recommended': False}",2026-04-07 11:37:48,2026-04-11 11:37:48
+320,830,Entrenamiento de fuerza,motilada,fácil,97,36,0,"{'calories_estimate': 121, 'equipment': 'full gym', 'recommended': True}",2026-04-07 11:37:48,2026-04-15 11:37:48
+321,4312,Entrenamiento funcional,corte de uñas,intermedio,80,29,1,"{'calories_estimate': 454, 'equipment': 'none', 'recommended': False}",2026-04-23 11:37:48,2026-04-27 11:37:48
+322,1399,Entrenamiento funcional,corte de uñas,fácil,56,62,1,"{'calories_estimate': 217, 'equipment': 'full gym', 'recommended': False}",2026-04-04 11:37:48,2026-04-12 11:37:48
+323,1978,Baile fitness,desparasitada,avanzado,51,95,0,"{'calories_estimate': 455, 'equipment': 'none', 'recommended': False}",2026-04-22 11:37:48,2026-05-02 11:37:48
+324,5158,Entrenamiento funcional,corte de uñas,intermedio,120,47,1,"{'calories_estimate': 515, 'equipment': 'full gym', 'recommended': True}",2026-04-27 11:37:48,2026-04-28 11:37:48
+325,7892,Entrenamiento funcional,vacunacion,fácil,112,62,0,"{'calories_estimate': 105, 'equipment': 'full gym', 'recommended': True}",2026-04-06 11:37:48,2026-04-16 11:37:48
+326,637,Yoga para principiantes,vacunacion,intermedio,98,46,0,"{'calories_estimate': 656, 'equipment': 'full gym', 'recommended': True}",2026-04-16 11:37:48,2026-04-22 11:37:48
+327,8767,Entrenamiento de fuerza,motilada,avanzado,22,36,0,"{'calories_estimate': 329, 'equipment': 'full gym', 'recommended': False}",2026-04-20 11:37:48,2026-04-26 11:37:48
+328,8215,Entrenamiento funcional,desparasitada,avanzado,96,92,1,"{'calories_estimate': 127, 'equipment': 'dumbbells', 'recommended': True}",2026-04-28 11:37:48,2026-05-02 11:37:48
+329,6848,Entrenamiento de fuerza,vacunacion,fácil,11,57,1,"{'calories_estimate': 538, 'equipment': 'full gym', 'recommended': True}",2026-05-02 11:37:48,2026-05-03 11:37:48
+330,7469,Yoga para principiantes,motilada,intermedio,35,96,1,"{'calories_estimate': 358, 'equipment': 'full gym', 'recommended': False}",2026-04-16 11:37:48,2026-04-16 11:37:48
+331,8428,Entrenamiento de fuerza,motilada,fácil,85,42,0,"{'calories_estimate': 433, 'equipment': 'dumbbells', 'recommended': False}",2026-04-10 11:37:48,2026-04-15 11:37:48
+332,968,Entrenamiento de fuerza,esterilizacion,fácil,40,73,1,"{'calories_estimate': 637, 'equipment': 'full gym', 'recommended': False}",2026-04-07 11:37:48,2026-04-15 11:37:48
+333,6015,Entrenamiento funcional,esterilizacion,fácil,29,30,1,"{'calories_estimate': 468, 'equipment': 'none', 'recommended': False}",2026-04-24 11:37:48,2026-05-02 11:37:48
+334,1877,Entrenamiento de fuerza,desparasitada,avanzado,62,89,0,"{'calories_estimate': 590, 'equipment': 'none', 'recommended': False}",2026-05-02 11:37:48,2026-05-06 11:37:48
+335,6992,Cardio intenso,desparasitada,fácil,103,14,1,"{'calories_estimate': 197, 'equipment': 'dumbbells', 'recommended': False}",2026-04-29 11:37:48,2026-05-02 11:37:48
+336,4118,Yoga para principiantes,vacunacion,intermedio,29,1,0,"{'calories_estimate': 103, 'equipment': 'none', 'recommended': False}",2026-04-13 11:37:48,2026-04-13 11:37:48
+337,7054,Entrenamiento de fuerza,vacunacion,intermedio,37,36,0,"{'calories_estimate': 564, 'equipment': 'none', 'recommended': True}",2026-04-22 11:37:48,2026-04-29 11:37:48
+338,8675,Entrenamiento de fuerza,desparasitada,fácil,108,79,1,"{'calories_estimate': 146, 'equipment': 'dumbbells', 'recommended': False}",2026-04-27 11:37:48,2026-05-07 11:37:48
+339,5249,Cardio intenso,motilada,avanzado,110,70,1,"{'calories_estimate': 571, 'equipment': 'dumbbells', 'recommended': False}",2026-04-10 11:37:48,2026-04-14 11:37:48
+340,985,Baile fitness,corte de uñas,fácil,100,30,1,"{'calories_estimate': 247, 'equipment': 'full gym', 'recommended': False}",2026-04-20 11:37:48,2026-04-27 11:37:48
+341,2167,Baile fitness,desparasitada,avanzado,85,39,0,"{'calories_estimate': 121, 'equipment': 'full gym', 'recommended': False}",2026-04-16 11:37:48,2026-04-17 11:37:48
+342,1381,Cardio intenso,motilada,fácil,19,92,0,"{'calories_estimate': 539, 'equipment': 'dumbbells', 'recommended': False}",2026-04-07 11:37:48,2026-04-09 11:37:48
+343,1070,Cardio intenso,corte de uñas,avanzado,92,65,1,"{'calories_estimate': 595, 'equipment': 'none', 'recommended': True}",2026-04-13 11:37:48,2026-04-16 11:37:48
+344,6263,Cardio intenso,esterilizacion,fácil,114,62,0,"{'calories_estimate': 284, 'equipment': 'full gym', 'recommended': True}",2026-04-17 11:37:48,2026-04-26 11:37:48
+345,6892,Cardio intenso,corte de uñas,avanzado,95,53,1,"{'calories_estimate': 494, 'equipment': 'dumbbells', 'recommended': False}",2026-04-26 11:37:48,2026-04-26 11:37:48
+346,7208,Entrenamiento funcional,desparasitada,avanzado,21,84,1,"{'calories_estimate': 371, 'equipment': 'full gym', 'recommended': True}",2026-04-30 11:37:48,2026-05-04 11:37:48
+347,7061,Yoga para principiantes,vacunacion,intermedio,85,74,0,"{'calories_estimate': 436, 'equipment': 'none', 'recommended': True}",2026-04-22 11:37:48,2026-04-28 11:37:48
+348,6865,Cardio intenso,esterilizacion,avanzado,29,38,0,"{'calories_estimate': 370, 'equipment': 'full gym', 'recommended': True}",2026-04-02 11:37:48,2026-04-06 11:37:48
+349,1819,Cardio intenso,motilada,fácil,51,20,1,"{'calories_estimate': 378, 'equipment': 'full gym', 'recommended': False}",2026-04-16 11:37:48,2026-04-21 11:37:48
+350,5758,Entrenamiento funcional,motilada,avanzado,114,20,0,"{'calories_estimate': 398, 'equipment': 'none', 'recommended': False}",2026-04-27 11:37:48,2026-05-07 11:37:48
+351,9983,Entrenamiento de fuerza,motilada,fácil,37,36,0,"{'calories_estimate': 271, 'equipment': 'full gym', 'recommended': True}",2026-04-10 11:37:48,2026-04-20 11:37:48
+352,9887,Yoga para principiantes,vacunacion,fácil,98,27,0,"{'calories_estimate': 388, 'equipment': 'dumbbells', 'recommended': True}",2026-04-10 11:37:48,2026-04-17 11:37:48
+353,806,Yoga para principiantes,corte de uñas,intermedio,28,90,1,"{'calories_estimate': 680, 'equipment': 'dumbbells', 'recommended': True}",2026-04-20 11:37:48,2026-04-24 11:37:48
+354,4904,Entrenamiento funcional,motilada,fácil,66,79,0,"{'calories_estimate': 430, 'equipment': 'none', 'recommended': True}",2026-05-02 11:37:48,2026-05-03 11:37:48
+355,7006,Entrenamiento funcional,motilada,avanzado,115,62,0,"{'calories_estimate': 644, 'equipment': 'none', 'recommended': True}",2026-04-02 11:37:48,2026-04-12 11:37:48
+356,1036,Baile fitness,corte de uñas,avanzado,84,76,1,"{'calories_estimate': 531, 'equipment': 'dumbbells', 'recommended': False}",2026-04-05 11:37:48,2026-04-13 11:37:48
+357,2213,Baile fitness,desparasitada,avanzado,82,13,1,"{'calories_estimate': 528, 'equipment': 'none', 'recommended': True}",2026-04-15 11:37:48,2026-04-17 11:37:48
+358,8345,Entrenamiento de fuerza,vacunacion,intermedio,22,24,0,"{'calories_estimate': 157, 'equipment': 'dumbbells', 'recommended': False}",2026-04-26 11:37:48,2026-04-30 11:37:48
+359,629,Cardio intenso,motilada,avanzado,27,72,0,"{'calories_estimate': 500, 'equipment': 'full gym', 'recommended': True}",2026-04-20 11:37:48,2026-04-22 11:37:48
+360,5024,Entrenamiento de fuerza,desparasitada,fácil,11,69,0,"{'calories_estimate': 145, 'equipment': 'none', 'recommended': True}",2026-04-19 11:37:48,2026-04-23 11:37:48
+361,9516,Entrenamiento de fuerza,motilada,intermedio,54,76,0,"{'calories_estimate': 469, 'equipment': 'dumbbells', 'recommended': False}",2026-04-09 11:37:48,2026-04-14 11:37:48
+362,1060,Entrenamiento funcional,vacunacion,fácil,90,42,0,"{'calories_estimate': 243, 'equipment': 'dumbbells', 'recommended': True}",2026-04-22 11:37:48,2026-04-24 11:37:48
+363,6720,Entrenamiento de fuerza,vacunacion,avanzado,103,23,1,"{'calories_estimate': 365, 'equipment': 'full gym', 'recommended': True}",2026-04-14 11:37:48,2026-04-18 11:37:48
+364,1955,Entrenamiento de fuerza,desparasitada,intermedio,76,1,1,"{'calories_estimate': 224, 'equipment': 'dumbbells', 'recommended': False}",2026-04-17 11:37:48,2026-04-26 11:37:48
+365,8703,Cardio intenso,esterilizacion,avanzado,18,5,0,"{'calories_estimate': 437, 'equipment': 'none', 'recommended': True}",2026-04-07 11:37:48,2026-04-13 11:37:48
+366,9559,Baile fitness,desparasitada,intermedio,58,35,0,"{'calories_estimate': 180, 'equipment': 'full gym', 'recommended': True}",2026-04-13 11:37:48,2026-04-13 11:37:48
+367,7183,Entrenamiento funcional,corte de uñas,intermedio,64,52,1,"{'calories_estimate': 191, 'equipment': 'none', 'recommended': True}",2026-04-17 11:37:48,2026-04-17 11:37:48
+368,5648,Entrenamiento funcional,esterilizacion,intermedio,43,77,1,"{'calories_estimate': 162, 'equipment': 'dumbbells', 'recommended': False}",2026-04-14 11:37:48,2026-04-16 11:37:48
+369,1533,Entrenamiento funcional,vacunacion,intermedio,26,64,1,"{'calories_estimate': 395, 'equipment': 'none', 'recommended': False}",2026-04-18 11:37:48,2026-04-23 11:37:48
+370,425,Cardio intenso,desparasitada,intermedio,103,68,0,"{'calories_estimate': 541, 'equipment': 'none', 'recommended': True}",2026-04-11 11:37:48,2026-04-14 11:37:48
+371,2758,Cardio intenso,desparasitada,avanzado,63,86,1,"{'calories_estimate': 386, 'equipment': 'none', 'recommended': True}",2026-04-25 11:37:48,2026-04-30 11:37:48
+372,3939,Entrenamiento funcional,vacunacion,avanzado,14,19,0,"{'calories_estimate': 444, 'equipment': 'dumbbells', 'recommended': False}",2026-05-02 11:37:48,2026-05-02 11:37:48
+373,9351,Baile fitness,desparasitada,intermedio,95,79,1,"{'calories_estimate': 152, 'equipment': 'full gym', 'recommended': False}",2026-04-15 11:37:48,2026-04-25 11:37:48
+374,5733,Yoga para principiantes,esterilizacion,fácil,51,61,0,"{'calories_estimate': 741, 'equipment': 'none', 'recommended': True}",2026-04-09 11:37:48,2026-04-11 11:37:48
+375,6540,Entrenamiento funcional,motilada,avanzado,28,19,0,"{'calories_estimate': 465, 'equipment': 'full gym', 'recommended': True}",2026-04-30 11:37:48,2026-05-07 11:37:48
+376,7272,Entrenamiento de fuerza,esterilizacion,avanzado,39,93,0,"{'calories_estimate': 514, 'equipment': 'full gym', 'recommended': False}",2026-04-24 11:37:48,2026-04-27 11:37:48
+377,1555,Entrenamiento de fuerza,vacunacion,avanzado,25,12,1,"{'calories_estimate': 646, 'equipment': 'none', 'recommended': True}",2026-04-05 11:37:48,2026-04-11 11:37:48
+378,8201,Cardio intenso,esterilizacion,fácil,43,39,0,"{'calories_estimate': 622, 'equipment': 'full gym', 'recommended': True}",2026-04-29 11:37:48,2026-05-06 11:37:48
+379,7604,Entrenamiento funcional,desparasitada,avanzado,107,93,1,"{'calories_estimate': 190, 'equipment': 'none', 'recommended': False}",2026-04-06 11:37:48,2026-04-08 11:37:48
+380,4651,Cardio intenso,corte de uñas,intermedio,67,35,0,"{'calories_estimate': 280, 'equipment': 'full gym', 'recommended': True}",2026-04-15 11:37:48,2026-04-19 11:37:48
+381,9162,Baile fitness,esterilizacion,avanzado,88,14,1,"{'calories_estimate': 680, 'equipment': 'dumbbells', 'recommended': False}",2026-04-13 11:37:48,2026-04-20 11:37:48
+382,8104,Yoga para principiantes,motilada,avanzado,99,16,1,"{'calories_estimate': 715, 'equipment': 'none', 'recommended': False}",2026-04-10 11:37:48,2026-04-20 11:37:48
+383,1294,Cardio intenso,desparasitada,intermedio,61,82,1,"{'calories_estimate': 176, 'equipment': 'full gym', 'recommended': False}",2026-04-09 11:37:48,2026-04-18 11:37:48
+384,4454,Entrenamiento funcional,motilada,intermedio,61,6,0,"{'calories_estimate': 449, 'equipment': 'dumbbells', 'recommended': False}",2026-04-28 11:37:48,2026-04-28 11:37:48
+385,8865,Cardio intenso,corte de uñas,avanzado,63,35,0,"{'calories_estimate': 596, 'equipment': 'none', 'recommended': False}",2026-04-22 11:37:48,2026-05-01 11:37:48
+386,991,Entrenamiento de fuerza,desparasitada,intermedio,32,98,0,"{'calories_estimate': 660, 'equipment': 'full gym', 'recommended': False}",2026-04-21 11:37:48,2026-04-25 11:37:48
+387,8312,Yoga para principiantes,motilada,avanzado,73,75,0,"{'calories_estimate': 555, 'equipment': 'dumbbells', 'recommended': True}",2026-05-01 11:37:48,2026-05-11 11:37:48
+388,8388,Entrenamiento funcional,desparasitada,avanzado,72,95,1,"{'calories_estimate': 768, 'equipment': 'dumbbells', 'recommended': False}",2026-05-02 11:37:48,2026-05-04 11:37:48
+389,9612,Entrenamiento de fuerza,desparasitada,fácil,84,80,1,"{'calories_estimate': 135, 'equipment': 'dumbbells', 'recommended': False}",2026-04-21 11:37:48,2026-04-21 11:37:48
+390,7871,Yoga para principiantes,vacunacion,avanzado,76,17,0,"{'calories_estimate': 379, 'equipment': 'dumbbells', 'recommended': False}",2026-05-01 11:37:48,2026-05-02 11:37:48
+391,9924,Baile fitness,corte de uñas,avanzado,27,49,1,"{'calories_estimate': 297, 'equipment': 'full gym', 'recommended': True}",2026-04-17 11:37:48,2026-04-19 11:37:48
+392,1405,Entrenamiento funcional,vacunacion,avanzado,73,65,1,"{'calories_estimate': 545, 'equipment': 'none', 'recommended': True}",2026-04-28 11:37:48,2026-05-02 11:37:48
+393,4389,Cardio intenso,corte de uñas,avanzado,103,1,0,"{'calories_estimate': 244, 'equipment': 'dumbbells', 'recommended': False}",2026-04-05 11:37:48,2026-04-11 11:37:48
+394,8658,Entrenamiento de fuerza,vacunacion,fácil,45,78,1,"{'calories_estimate': 121, 'equipment': 'none', 'recommended': False}",2026-04-29 11:37:48,2026-04-29 11:37:48
+395,9948,Yoga para principiantes,vacunacion,intermedio,13,56,0,"{'calories_estimate': 528, 'equipment': 'full gym', 'recommended': True}",2026-04-20 11:37:48,2026-04-20 11:37:48
+396,2653,Yoga para principiantes,esterilizacion,intermedio,36,2,1,"{'calories_estimate': 186, 'equipment': 'none', 'recommended': False}",2026-05-02 11:37:48,2026-05-05 11:37:48
+397,1866,Entrenamiento funcional,desparasitada,avanzado,37,71,1,"{'calories_estimate': 710, 'equipment': 'full gym', 'recommended': False}",2026-04-15 11:37:48,2026-04-21 11:37:48
+398,4391,Yoga para principiantes,motilada,intermedio,82,94,0,"{'calories_estimate': 493, 'equipment': 'full gym', 'recommended': False}",2026-04-30 11:37:48,2026-05-06 11:37:48
+399,2119,Cardio intenso,desparasitada,fácil,113,85,1,"{'calories_estimate': 381, 'equipment': 'none', 'recommended': True}",2026-04-12 11:37:48,2026-04-22 11:37:48
+400,8806,Baile fitness,desparasitada,avanzado,74,95,0,"{'calories_estimate': 269, 'equipment': 'full gym', 'recommended': False}",2026-04-30 11:37:48,2026-05-10 11:37:48
+401,9900,Entrenamiento funcional,motilada,intermedio,60,77,0,"{'calories_estimate': 215, 'equipment': 'dumbbells', 'recommended': False}",2026-04-08 11:37:48,2026-04-15 11:37:48
+402,5082,Yoga para principiantes,motilada,avanzado,69,24,1,"{'calories_estimate': 591, 'equipment': 'dumbbells', 'recommended': False}",2026-04-16 11:37:48,2026-04-17 11:37:48
+403,1941,Entrenamiento funcional,motilada,fácil,98,71,1,"{'calories_estimate': 277, 'equipment': 'full gym', 'recommended': True}",2026-04-20 11:37:48,2026-04-29 11:37:48
+404,1159,Entrenamiento funcional,corte de uñas,avanzado,89,75,1,"{'calories_estimate': 561, 'equipment': 'full gym', 'recommended': True}",2026-04-27 11:37:48,2026-05-02 11:37:48
+405,6897,Yoga para principiantes,esterilizacion,fácil,71,2,0,"{'calories_estimate': 278, 'equipment': 'dumbbells', 'recommended': False}",2026-04-20 11:37:48,2026-04-29 11:37:48
+406,6551,Entrenamiento funcional,motilada,intermedio,58,73,1,"{'calories_estimate': 720, 'equipment': 'none', 'recommended': False}",2026-04-20 11:37:48,2026-04-23 11:37:48
+407,7974,Entrenamiento funcional,motilada,avanzado,114,27,0,"{'calories_estimate': 389, 'equipment': 'none', 'recommended': False}",2026-04-05 11:37:48,2026-04-13 11:37:48
+408,8698,Baile fitness,corte de uñas,avanzado,75,10,0,"{'calories_estimate': 196, 'equipment': 'none', 'recommended': True}",2026-04-09 11:37:48,2026-04-15 11:37:48
+409,9467,Yoga para principiantes,vacunacion,avanzado,54,66,0,"{'calories_estimate': 520, 'equipment': 'full gym', 'recommended': False}",2026-04-12 11:37:48,2026-04-17 11:37:48
+410,9673,Entrenamiento de fuerza,corte de uñas,intermedio,80,21,0,"{'calories_estimate': 240, 'equipment': 'full gym', 'recommended': False}",2026-04-12 11:37:48,2026-04-15 11:37:48
+411,9111,Baile fitness,esterilizacion,fácil,102,25,0,"{'calories_estimate': 412, 'equipment': 'dumbbells', 'recommended': True}",2026-05-01 11:37:48,2026-05-03 11:37:48
+412,534,Entrenamiento funcional,esterilizacion,intermedio,98,55,1,"{'calories_estimate': 200, 'equipment': 'none', 'recommended': False}",2026-04-16 11:37:48,2026-04-23 11:37:48
+413,8151,Entrenamiento de fuerza,desparasitada,avanzado,114,85,0,"{'calories_estimate': 555, 'equipment': 'full gym', 'recommended': True}",2026-04-21 11:37:48,2026-04-22 11:37:48
+414,592,Baile fitness,desparasitada,avanzado,69,13,0,"{'calories_estimate': 522, 'equipment': 'dumbbells', 'recommended': True}",2026-04-16 11:37:48,2026-04-22 11:37:48
+415,6687,Cardio intenso,vacunacion,intermedio,108,82,0,"{'calories_estimate': 597, 'equipment': 'none', 'recommended': False}",2026-04-24 11:37:48,2026-05-04 11:37:48
+416,6237,Cardio intenso,desparasitada,fácil,24,70,1,"{'calories_estimate': 721, 'equipment': 'none', 'recommended': True}",2026-04-04 11:37:48,2026-04-07 11:37:48
+417,1073,Yoga para principiantes,corte de uñas,avanzado,56,65,0,"{'calories_estimate': 496, 'equipment': 'dumbbells', 'recommended': False}",2026-04-14 11:37:48,2026-04-20 11:37:48
+418,7812,Baile fitness,esterilizacion,fácil,116,68,0,"{'calories_estimate': 443, 'equipment': 'none', 'recommended': True}",2026-04-23 11:37:48,2026-04-25 11:37:48
+419,7836,Cardio intenso,esterilizacion,intermedio,39,84,1,"{'calories_estimate': 202, 'equipment': 'dumbbells', 'recommended': False}",2026-04-08 11:37:48,2026-04-11 11:37:48
+420,6106,Entrenamiento funcional,corte de uñas,intermedio,48,68,1,"{'calories_estimate': 413, 'equipment': 'dumbbells', 'recommended': True}",2026-04-28 11:37:48,2026-05-01 11:37:48
+421,2042,Yoga para principiantes,vacunacion,avanzado,107,42,0,"{'calories_estimate': 179, 'equipment': 'full gym', 'recommended': False}",2026-04-30 11:37:48,2026-05-04 11:37:48
+422,1863,Cardio intenso,motilada,avanzado,71,77,0,"{'calories_estimate': 718, 'equipment': 'dumbbells', 'recommended': False}",2026-04-28 11:37:48,2026-05-05 11:37:48
+423,4097,Yoga para principiantes,corte de uñas,fácil,105,46,0,"{'calories_estimate': 210, 'equipment': 'none', 'recommended': True}",2026-04-08 11:37:48,2026-04-09 11:37:48
+424,7872,Yoga para principiantes,motilada,intermedio,58,57,1,"{'calories_estimate': 685, 'equipment': 'none', 'recommended': True}",2026-04-29 11:37:48,2026-05-08 11:37:48
+425,4816,Entrenamiento funcional,desparasitada,fácil,40,50,0,"{'calories_estimate': 432, 'equipment': 'none', 'recommended': False}",2026-04-03 11:37:48,2026-04-04 11:37:48
+426,9388,Entrenamiento de fuerza,vacunacion,avanzado,88,74,1,"{'calories_estimate': 204, 'equipment': 'none', 'recommended': False}",2026-04-24 11:37:48,2026-04-27 11:37:48
+427,5682,Yoga para principiantes,motilada,intermedio,93,64,1,"{'calories_estimate': 154, 'equipment': 'none', 'recommended': True}",2026-04-28 11:37:48,2026-04-28 11:37:48
+428,1581,Baile fitness,corte de uñas,fácil,61,25,0,"{'calories_estimate': 220, 'equipment': 'full gym', 'recommended': True}",2026-04-02 11:37:48,2026-04-04 11:37:48
+429,3060,Entrenamiento de fuerza,esterilizacion,avanzado,93,79,1,"{'calories_estimate': 771, 'equipment': 'none', 'recommended': True}",2026-04-14 11:37:48,2026-04-14 11:37:48
+430,5318,Baile fitness,motilada,fácil,96,47,0,"{'calories_estimate': 622, 'equipment': 'none', 'recommended': True}",2026-04-09 11:37:48,2026-04-17 11:37:48
+431,6183,Baile fitness,desparasitada,intermedio,65,16,0,"{'calories_estimate': 698, 'equipment': 'full gym', 'recommended': True}",2026-04-08 11:37:48,2026-04-12 11:37:48
+432,4071,Yoga para principiantes,desparasitada,fácil,100,30,0,"{'calories_estimate': 542, 'equipment': 'dumbbells', 'recommended': True}",2026-04-16 11:37:48,2026-04-21 11:37:48
+433,1433,Baile fitness,desparasitada,intermedio,99,85,1,"{'calories_estimate': 750, 'equipment': 'dumbbells', 'recommended': False}",2026-04-02 11:37:48,2026-04-02 11:37:48
+434,3972,Cardio intenso,vacunacion,fácil,43,10,1,"{'calories_estimate': 777, 'equipment': 'none', 'recommended': True}",2026-04-15 11:37:48,2026-04-19 11:37:48
+435,6254,Yoga para principiantes,motilada,avanzado,105,84,0,"{'calories_estimate': 511, 'equipment': 'none', 'recommended': False}",2026-04-19 11:37:48,2026-04-28 11:37:48
+436,1189,Yoga para principiantes,corte de uñas,fácil,80,47,1,"{'calories_estimate': 295, 'equipment': 'full gym', 'recommended': False}",2026-04-19 11:37:48,2026-04-23 11:37:48
+437,1007,Cardio intenso,vacunacion,intermedio,101,36,1,"{'calories_estimate': 105, 'equipment': 'dumbbells', 'recommended': True}",2026-04-17 11:37:48,2026-04-23 11:37:48
+438,7182,Cardio intenso,motilada,intermedio,112,1,1,"{'calories_estimate': 174, 'equipment': 'dumbbells', 'recommended': False}",2026-04-13 11:37:48,2026-04-14 11:37:48
+439,5232,Baile fitness,corte de uñas,avanzado,71,65,0,"{'calories_estimate': 678, 'equipment': 'none', 'recommended': True}",2026-04-26 11:37:48,2026-05-01 11:37:48
+440,680,Entrenamiento de fuerza,vacunacion,fácil,42,6,0,"{'calories_estimate': 673, 'equipment': 'full gym', 'recommended': True}",2026-04-02 11:37:48,2026-04-02 11:37:48
+441,2433,Cardio intenso,desparasitada,intermedio,73,54,0,"{'calories_estimate': 523, 'equipment': 'none', 'recommended': True}",2026-04-12 11:37:48,2026-04-21 11:37:48
+442,3990,Baile fitness,desparasitada,fácil,81,74,1,"{'calories_estimate': 688, 'equipment': 'none', 'recommended': False}",2026-04-28 11:37:48,2026-05-04 11:37:48
+443,4721,Baile fitness,vacunacion,avanzado,28,69,1,"{'calories_estimate': 484, 'equipment': 'full gym', 'recommended': True}",2026-04-21 11:37:48,2026-05-01 11:37:48
+444,7486,Entrenamiento funcional,motilada,avanzado,52,37,0,"{'calories_estimate': 644, 'equipment': 'full gym', 'recommended': False}",2026-04-03 11:37:48,2026-04-03 11:37:48
+445,1891,Yoga para principiantes,vacunacion,fácil,94,81,1,"{'calories_estimate': 660, 'equipment': 'full gym', 'recommended': False}",2026-04-07 11:37:48,2026-04-10 11:37:48
+446,7259,Cardio intenso,desparasitada,avanzado,62,83,0,"{'calories_estimate': 520, 'equipment': 'none', 'recommended': False}",2026-04-21 11:37:48,2026-04-23 11:37:48
+447,6158,Cardio intenso,corte de uñas,avanzado,99,90,1,"{'calories_estimate': 484, 'equipment': 'full gym', 'recommended': True}",2026-04-17 11:37:48,2026-04-22 11:37:48
+448,7296,Yoga para principiantes,corte de uñas,fácil,56,5,1,"{'calories_estimate': 417, 'equipment': 'dumbbells', 'recommended': True}",2026-04-08 11:37:48,2026-04-10 11:37:48
+449,3687,Entrenamiento funcional,corte de uñas,intermedio,87,58,1,"{'calories_estimate': 446, 'equipment': 'full gym', 'recommended': True}",2026-05-01 11:37:48,2026-05-02 11:37:48
+450,4126,Baile fitness,corte de uñas,fácil,100,20,1,"{'calories_estimate': 462, 'equipment': 'none', 'recommended': True}",2026-04-05 11:37:48,2026-04-14 11:37:48
+451,1162,Baile fitness,desparasitada,intermedio,115,82,0,"{'calories_estimate': 527, 'equipment': 'none', 'recommended': False}",2026-04-03 11:37:48,2026-04-09 11:37:48
+452,963,Entrenamiento funcional,motilada,intermedio,41,39,1,"{'calories_estimate': 646, 'equipment': 'full gym', 'recommended': False}",2026-04-22 11:37:48,2026-05-01 11:37:48
+453,5518,Entrenamiento de fuerza,desparasitada,intermedio,61,45,0,"{'calories_estimate': 522, 'equipment': 'full gym', 'recommended': True}",2026-04-27 11:37:48,2026-05-06 11:37:48
+454,8063,Entrenamiento funcional,esterilizacion,fácil,18,5,0,"{'calories_estimate': 508, 'equipment': 'full gym', 'recommended': False}",2026-04-26 11:37:48,2026-04-28 11:37:48
+455,7302,Baile fitness,vacunacion,fácil,110,91,1,"{'calories_estimate': 620, 'equipment': 'full gym', 'recommended': False}",2026-04-25 11:37:48,2026-04-26 11:37:48
+456,6134,Cardio intenso,vacunacion,intermedio,55,42,1,"{'calories_estimate': 458, 'equipment': 'dumbbells', 'recommended': True}",2026-04-04 11:37:48,2026-04-14 11:37:48
+457,6963,Baile fitness,motilada,intermedio,66,91,0,"{'calories_estimate': 186, 'equipment': 'none', 'recommended': False}",2026-04-16 11:37:48,2026-04-19 11:37:48
+458,1335,Entrenamiento de fuerza,esterilizacion,intermedio,82,77,0,"{'calories_estimate': 177, 'equipment': 'full gym', 'recommended': True}",2026-04-10 11:37:48,2026-04-15 11:37:48
+459,1381,Cardio intenso,esterilizacion,fácil,85,3,1,"{'calories_estimate': 146, 'equipment': 'dumbbells', 'recommended': True}",2026-04-11 11:37:48,2026-04-18 11:37:48
+460,1872,Baile fitness,corte de uñas,intermedio,103,84,1,"{'calories_estimate': 789, 'equipment': 'dumbbells', 'recommended': True}",2026-04-19 11:37:48,2026-04-20 11:37:48
+461,1883,Entrenamiento funcional,esterilizacion,fácil,108,68,0,"{'calories_estimate': 464, 'equipment': 'full gym', 'recommended': False}",2026-04-07 11:37:48,2026-04-10 11:37:48
+462,8811,Baile fitness,motilada,fácil,17,13,1,"{'calories_estimate': 172, 'equipment': 'full gym', 'recommended': False}",2026-04-25 11:37:48,2026-04-28 11:37:48
+463,5443,Cardio intenso,corte de uñas,avanzado,85,10,0,"{'calories_estimate': 298, 'equipment': 'full gym', 'recommended': True}",2026-04-03 11:37:48,2026-04-10 11:37:48
+464,9414,Baile fitness,corte de uñas,fácil,12,86,1,"{'calories_estimate': 482, 'equipment': 'dumbbells', 'recommended': True}",2026-04-24 11:37:48,2026-04-27 11:37:48
+465,1600,Cardio intenso,motilada,intermedio,54,5,0,"{'calories_estimate': 736, 'equipment': 'full gym', 'recommended': True}",2026-04-05 11:37:48,2026-04-13 11:37:48
+466,8409,Cardio intenso,vacunacion,fácil,39,34,1,"{'calories_estimate': 491, 'equipment': 'full gym', 'recommended': True}",2026-04-25 11:37:48,2026-05-05 11:37:48
+467,2377,Entrenamiento de fuerza,motilada,fácil,51,19,1,"{'calories_estimate': 552, 'equipment': 'none', 'recommended': False}",2026-04-27 11:37:48,2026-05-02 11:37:48
+468,2292,Yoga para principiantes,motilada,fácil,15,45,1,"{'calories_estimate': 145, 'equipment': 'dumbbells', 'recommended': True}",2026-04-24 11:37:48,2026-04-25 11:37:48
+469,4860,Yoga para principiantes,desparasitada,intermedio,117,44,0,"{'calories_estimate': 540, 'equipment': 'full gym', 'recommended': False}",2026-04-29 11:37:48,2026-05-09 11:37:48
+470,8101,Entrenamiento funcional,vacunacion,avanzado,113,61,1,"{'calories_estimate': 569, 'equipment': 'dumbbells', 'recommended': False}",2026-04-29 11:37:48,2026-05-04 11:37:48
+471,7555,Entrenamiento funcional,vacunacion,avanzado,12,82,1,"{'calories_estimate': 230, 'equipment': 'dumbbells', 'recommended': True}",2026-04-21 11:37:48,2026-04-23 11:37:48
+472,8989,Baile fitness,motilada,avanzado,18,31,0,"{'calories_estimate': 595, 'equipment': 'full gym', 'recommended': False}",2026-04-11 11:37:48,2026-04-14 11:37:48
+473,5715,Yoga para principiantes,motilada,fácil,31,16,1,"{'calories_estimate': 563, 'equipment': 'none', 'recommended': False}",2026-04-15 11:37:48,2026-04-17 11:37:48
+474,8103,Cardio intenso,esterilizacion,avanzado,45,11,1,"{'calories_estimate': 115, 'equipment': 'none', 'recommended': False}",2026-04-21 11:37:48,2026-04-26 11:37:48
+475,5111,Cardio intenso,desparasitada,avanzado,37,89,1,"{'calories_estimate': 578, 'equipment': 'full gym', 'recommended': False}",2026-04-17 11:37:48,2026-04-23 11:37:48
+476,432,Entrenamiento funcional,esterilizacion,fácil,118,97,0,"{'calories_estimate': 578, 'equipment': 'none', 'recommended': True}",2026-04-09 11:37:48,2026-04-11 11:37:48
+477,9112,Baile fitness,desparasitada,intermedio,83,53,0,"{'calories_estimate': 126, 'equipment': 'dumbbells', 'recommended': True}",2026-04-19 11:37:48,2026-04-22 11:37:48
+478,5571,Yoga para principiantes,vacunacion,avanzado,63,18,0,"{'calories_estimate': 347, 'equipment': 'full gym', 'recommended': True}",2026-05-01 11:37:48,2026-05-02 11:37:48
+479,6836,Yoga para principiantes,motilada,fácil,58,100,0,"{'calories_estimate': 317, 'equipment': 'none', 'recommended': True}",2026-04-05 11:37:48,2026-04-06 11:37:48
+480,5341,Baile fitness,motilada,avanzado,16,13,1,"{'calories_estimate': 270, 'equipment': 'none', 'recommended': False}",2026-04-06 11:37:48,2026-04-09 11:37:48
+481,6303,Baile fitness,motilada,avanzado,86,25,1,"{'calories_estimate': 652, 'equipment': 'dumbbells', 'recommended': False}",2026-04-06 11:37:48,2026-04-06 11:37:48
+482,4077,Entrenamiento funcional,desparasitada,fácil,42,44,1,"{'calories_estimate': 644, 'equipment': 'none', 'recommended': False}",2026-04-02 11:37:48,2026-04-06 11:37:48
+483,2751,Cardio intenso,desparasitada,avanzado,91,71,1,"{'calories_estimate': 423, 'equipment': 'full gym', 'recommended': False}",2026-04-12 11:37:48,2026-04-21 11:37:48
+484,6245,Yoga para principiantes,esterilizacion,fácil,88,60,0,"{'calories_estimate': 188, 'equipment': 'none', 'recommended': True}",2026-04-28 11:37:48,2026-05-03 11:37:48
+485,9445,Entrenamiento de fuerza,motilada,fácil,53,32,0,"{'calories_estimate': 229, 'equipment': 'dumbbells', 'recommended': False}",2026-04-04 11:37:48,2026-04-12 11:37:48
+486,2898,Yoga para principiantes,motilada,fácil,71,37,1,"{'calories_estimate': 302, 'equipment': 'dumbbells', 'recommended': False}",2026-04-06 11:37:48,2026-04-14 11:37:48
+487,6521,Yoga para principiantes,motilada,avanzado,40,41,0,"{'calories_estimate': 627, 'equipment': 'none', 'recommended': False}",2026-04-08 11:37:48,2026-04-16 11:37:48
+488,6448,Cardio intenso,desparasitada,avanzado,26,23,1,"{'calories_estimate': 739, 'equipment': 'dumbbells', 'recommended': False}",2026-04-27 11:37:48,2026-04-27 11:37:48
+489,9969,Entrenamiento de fuerza,motilada,fácil,86,8,1,"{'calories_estimate': 107, 'equipment': 'dumbbells', 'recommended': False}",2026-05-02 11:37:48,2026-05-03 11:37:48
+490,6430,Yoga para principiantes,vacunacion,intermedio,30,24,1,"{'calories_estimate': 341, 'equipment': 'dumbbells', 'recommended': True}",2026-04-15 11:37:48,2026-04-24 11:37:48
+491,632,Cardio intenso,vacunacion,fácil,11,89,0,"{'calories_estimate': 461, 'equipment': 'full gym', 'recommended': False}",2026-04-30 11:37:48,2026-04-30 11:37:48
+492,3059,Entrenamiento funcional,corte de uñas,fácil,49,47,1,"{'calories_estimate': 417, 'equipment': 'dumbbells', 'recommended': True}",2026-04-07 11:37:48,2026-04-10 11:37:48
+493,3980,Baile fitness,vacunacion,intermedio,25,45,0,"{'calories_estimate': 282, 'equipment': 'full gym', 'recommended': False}",2026-04-29 11:37:48,2026-05-03 11:37:48
+494,259,Cardio intenso,corte de uñas,fácil,41,63,1,"{'calories_estimate': 452, 'equipment': 'dumbbells', 'recommended': False}",2026-04-10 11:37:48,2026-04-16 11:37:48
+495,1335,Baile fitness,corte de uñas,avanzado,73,67,0,"{'calories_estimate': 501, 'equipment': 'dumbbells', 'recommended': True}",2026-04-20 11:37:48,2026-04-20 11:37:48
+496,1161,Yoga para principiantes,motilada,fácil,21,16,1,"{'calories_estimate': 166, 'equipment': 'none', 'recommended': False}",2026-04-08 11:37:48,2026-04-15 11:37:48
+497,1972,Cardio intenso,vacunacion,intermedio,58,21,1,"{'calories_estimate': 169, 'equipment': 'full gym', 'recommended': False}",2026-04-16 11:37:48,2026-04-25 11:37:48
+498,3019,Entrenamiento funcional,desparasitada,fácil,77,92,0,"{'calories_estimate': 193, 'equipment': 'full gym', 'recommended': False}",2026-04-08 11:37:48,2026-04-15 11:37:48
+499,9669,Entrenamiento de fuerza,corte de uñas,intermedio,67,54,1,"{'calories_estimate': 559, 'equipment': 'none', 'recommended': False}",2026-04-18 11:37:48,2026-04-22 11:37:48
+500,8698,Cardio intenso,corte de uñas,intermedio,84,87,1,"{'calories_estimate': 742, 'equipment': 'none', 'recommended': True}",2026-04-24 11:37:48,2026-05-04 11:37:48
+501,9828,Entrenamiento funcional,motilada,fácil,68,52,1,"{'calories_estimate': 584, 'equipment': 'none', 'recommended': False}",2026-04-09 11:37:48,2026-04-12 11:37:48
+502,8924,Yoga para principiantes,motilada,intermedio,97,20,0,"{'calories_estimate': 227, 'equipment': 'full gym', 'recommended': True}",2026-04-23 11:37:48,2026-04-29 11:37:48
+503,7015,Baile fitness,vacunacion,intermedio,17,57,0,"{'calories_estimate': 162, 'equipment': 'dumbbells', 'recommended': True}",2026-04-30 11:37:48,2026-05-01 11:37:48
+504,4716,Entrenamiento funcional,desparasitada,avanzado,14,52,0,"{'calories_estimate': 145, 'equipment': 'dumbbells', 'recommended': False}",2026-04-21 11:37:48,2026-05-01 11:37:48
+505,1176,Entrenamiento funcional,esterilizacion,avanzado,83,54,0,"{'calories_estimate': 793, 'equipment': 'none', 'recommended': False}",2026-04-25 11:37:48,2026-05-05 11:37:48
+506,1727,Cardio intenso,esterilizacion,fácil,37,52,1,"{'calories_estimate': 394, 'equipment': 'none', 'recommended': False}",2026-04-21 11:37:48,2026-04-26 11:37:48
+507,2861,Yoga para principiantes,esterilizacion,fácil,79,17,1,"{'calories_estimate': 297, 'equipment': 'full gym', 'recommended': True}",2026-04-12 11:37:48,2026-04-12 11:37:48
+508,4157,Yoga para principiantes,desparasitada,intermedio,39,40,0,"{'calories_estimate': 462, 'equipment': 'full gym', 'recommended': True}",2026-04-24 11:37:48,2026-04-25 11:37:48
+509,9114,Yoga para principiantes,desparasitada,fácil,94,76,1,"{'calories_estimate': 448, 'equipment': 'full gym', 'recommended': True}",2026-04-18 11:37:48,2026-04-24 11:37:48
+510,2817,Baile fitness,vacunacion,avanzado,119,77,0,"{'calories_estimate': 242, 'equipment': 'none', 'recommended': False}",2026-05-02 11:37:48,2026-05-10 11:37:48
+511,4483,Yoga para principiantes,motilada,avanzado,96,89,0,"{'calories_estimate': 618, 'equipment': 'none', 'recommended': True}",2026-04-30 11:37:48,2026-05-01 11:37:48
+512,7456,Yoga para principiantes,motilada,fácil,93,91,0,"{'calories_estimate': 765, 'equipment': 'none', 'recommended': False}",2026-04-09 11:37:48,2026-04-16 11:37:48
+513,2495,Entrenamiento funcional,vacunacion,intermedio,42,76,0,"{'calories_estimate': 276, 'equipment': 'full gym', 'recommended': True}",2026-05-02 11:37:48,2026-05-05 11:37:48
+514,1061,Entrenamiento funcional,vacunacion,avanzado,115,61,0,"{'calories_estimate': 623, 'equipment': 'none', 'recommended': True}",2026-05-02 11:37:48,2026-05-08 11:37:48
+515,6716,Yoga para principiantes,motilada,fácil,45,44,0,"{'calories_estimate': 588, 'equipment': 'dumbbells', 'recommended': False}",2026-04-26 11:37:48,2026-04-26 11:37:48
+516,537,Yoga para principiantes,vacunacion,fácil,78,88,1,"{'calories_estimate': 736, 'equipment': 'dumbbells', 'recommended': False}",2026-04-14 11:37:48,2026-04-21 11:37:48
+517,6427,Cardio intenso,corte de uñas,fácil,94,85,1,"{'calories_estimate': 411, 'equipment': 'dumbbells', 'recommended': False}",2026-04-03 11:37:48,2026-04-04 11:37:48
+518,5153,Entrenamiento funcional,vacunacion,fácil,118,27,0,"{'calories_estimate': 725, 'equipment': 'full gym', 'recommended': True}",2026-05-01 11:37:48,2026-05-10 11:37:48
+519,3088,Entrenamiento de fuerza,esterilizacion,avanzado,36,60,1,"{'calories_estimate': 227, 'equipment': 'none', 'recommended': True}",2026-04-09 11:37:48,2026-04-10 11:37:48
+520,7356,Cardio intenso,esterilizacion,avanzado,120,99,0,"{'calories_estimate': 798, 'equipment': 'full gym', 'recommended': True}",2026-04-02 11:37:48,2026-04-07 11:37:48
+521,9169,Baile fitness,desparasitada,fácil,69,61,1,"{'calories_estimate': 351, 'equipment': 'dumbbells', 'recommended': True}",2026-04-22 11:37:48,2026-04-25 11:37:48
+522,9212,Entrenamiento funcional,motilada,intermedio,26,50,0,"{'calories_estimate': 253, 'equipment': 'none', 'recommended': False}",2026-04-12 11:37:48,2026-04-19 11:37:48
+523,1048,Entrenamiento funcional,motilada,fácil,56,20,1,"{'calories_estimate': 159, 'equipment': 'none', 'recommended': False}",2026-04-07 11:37:48,2026-04-07 11:37:48
+524,1935,Yoga para principiantes,vacunacion,fácil,42,5,1,"{'calories_estimate': 485, 'equipment': 'full gym', 'recommended': False}",2026-04-24 11:37:48,2026-04-24 11:37:48
+525,2645,Entrenamiento funcional,motilada,avanzado,44,39,1,"{'calories_estimate': 738, 'equipment': 'dumbbells', 'recommended': True}",2026-04-11 11:37:48,2026-04-11 11:37:48
+526,1810,Cardio intenso,desparasitada,intermedio,110,65,0,"{'calories_estimate': 539, 'equipment': 'none', 'recommended': False}",2026-04-19 11:37:48,2026-04-29 11:37:48
+527,9065,Yoga para principiantes,motilada,avanzado,98,13,1,"{'calories_estimate': 467, 'equipment': 'none', 'recommended': False}",2026-04-18 11:37:48,2026-04-18 11:37:48
+528,4967,Entrenamiento funcional,desparasitada,avanzado,115,17,0,"{'calories_estimate': 494, 'equipment': 'dumbbells', 'recommended': False}",2026-05-01 11:37:48,2026-05-02 11:37:48
+529,9523,Entrenamiento de fuerza,motilada,fácil,61,20,1,"{'calories_estimate': 508, 'equipment': 'dumbbells', 'recommended': True}",2026-04-20 11:37:48,2026-04-23 11:37:48
+530,8903,Entrenamiento de fuerza,desparasitada,intermedio,73,61,0,"{'calories_estimate': 227, 'equipment': 'full gym', 'recommended': True}",2026-05-01 11:37:48,2026-05-05 11:37:48
+531,5275,Cardio intenso,vacunacion,fácil,56,4,0,"{'calories_estimate': 778, 'equipment': 'none', 'recommended': False}",2026-04-26 11:37:48,2026-05-01 11:37:48
+532,9124,Entrenamiento de fuerza,esterilizacion,intermedio,113,88,0,"{'calories_estimate': 714, 'equipment': 'dumbbells', 'recommended': True}",2026-04-12 11:37:48,2026-04-19 11:37:48
+533,6630,Cardio intenso,vacunacion,avanzado,87,41,1,"{'calories_estimate': 212, 'equipment': 'none', 'recommended': False}",2026-04-28 11:37:48,2026-05-03 11:37:48
+534,210,Baile fitness,desparasitada,fácil,44,4,1,"{'calories_estimate': 180, 'equipment': 'dumbbells', 'recommended': False}",2026-04-10 11:37:48,2026-04-12 11:37:48
+535,2234,Baile fitness,esterilizacion,fácil,109,5,0,"{'calories_estimate': 784, 'equipment': 'dumbbells', 'recommended': False}",2026-04-12 11:37:48,2026-04-19 11:37:48
+536,6973,Entrenamiento funcional,desparasitada,avanzado,111,16,1,"{'calories_estimate': 785, 'equipment': 'none', 'recommended': True}",2026-05-02 11:37:48,2026-05-09 11:37:48
+537,5466,Entrenamiento funcional,corte de uñas,fácil,117,61,0,"{'calories_estimate': 516, 'equipment': 'none', 'recommended': True}",2026-04-16 11:37:48,2026-04-17 11:37:48
+538,2455,Cardio intenso,desparasitada,intermedio,27,30,1,"{'calories_estimate': 215, 'equipment': 'none', 'recommended': True}",2026-04-07 11:37:48,2026-04-10 11:37:48
+539,6570,Cardio intenso,esterilizacion,avanzado,45,63,1,"{'calories_estimate': 303, 'equipment': 'full gym', 'recommended': True}",2026-04-25 11:37:48,2026-04-28 11:37:48
+540,6995,Yoga para principiantes,motilada,intermedio,106,27,0,"{'calories_estimate': 274, 'equipment': 'none', 'recommended': False}",2026-04-09 11:37:48,2026-04-14 11:37:48
+541,8930,Entrenamiento de fuerza,vacunacion,intermedio,88,69,0,"{'calories_estimate': 100, 'equipment': 'none', 'recommended': False}",2026-04-14 11:37:48,2026-04-15 11:37:48
+542,8000,Yoga para principiantes,vacunacion,avanzado,37,31,0,"{'calories_estimate': 258, 'equipment': 'full gym', 'recommended': True}",2026-04-08 11:37:48,2026-04-14 11:37:48
+543,7834,Entrenamiento funcional,esterilizacion,avanzado,89,92,1,"{'calories_estimate': 613, 'equipment': 'none', 'recommended': False}",2026-04-13 11:37:48,2026-04-21 11:37:48
+544,1085,Yoga para principiantes,desparasitada,intermedio,77,4,1,"{'calories_estimate': 478, 'equipment': 'full gym', 'recommended': True}",2026-04-16 11:37:48,2026-04-21 11:37:48
+545,2339,Baile fitness,esterilizacion,fácil,55,94,1,"{'calories_estimate': 424, 'equipment': 'dumbbells', 'recommended': True}",2026-04-11 11:37:48,2026-04-16 11:37:48
+546,3344,Entrenamiento funcional,vacunacion,fácil,10,92,1,"{'calories_estimate': 441, 'equipment': 'full gym', 'recommended': True}",2026-04-22 11:37:48,2026-04-30 11:37:48
+547,7093,Baile fitness,corte de uñas,avanzado,55,89,0,"{'calories_estimate': 498, 'equipment': 'none', 'recommended': True}",2026-05-01 11:37:48,2026-05-11 11:37:48
+548,6834,Yoga para principiantes,corte de uñas,intermedio,12,88,0,"{'calories_estimate': 227, 'equipment': 'full gym', 'recommended': True}",2026-04-10 11:37:48,2026-04-19 11:37:48
+549,4327,Baile fitness,esterilizacion,intermedio,119,86,1,"{'calories_estimate': 129, 'equipment': 'dumbbells', 'recommended': False}",2026-04-30 11:37:48,2026-05-06 11:37:48
+550,6522,Entrenamiento funcional,desparasitada,fácil,42,89,1,"{'calories_estimate': 302, 'equipment': 'full gym', 'recommended': True}",2026-05-01 11:37:48,2026-05-06 11:37:48
+551,538,Entrenamiento funcional,esterilizacion,intermedio,86,49,0,"{'calories_estimate': 270, 'equipment': 'dumbbells', 'recommended': False}",2026-04-04 11:37:48,2026-04-10 11:37:48
+552,9703,Cardio intenso,corte de uñas,intermedio,37,79,0,"{'calories_estimate': 507, 'equipment': 'dumbbells', 'recommended': True}",2026-04-05 11:37:48,2026-04-10 11:37:48
+553,2157,Cardio intenso,desparasitada,intermedio,22,1,0,"{'calories_estimate': 367, 'equipment': 'none', 'recommended': False}",2026-04-04 11:37:48,2026-04-13 11:37:48
+554,5135,Cardio intenso,corte de uñas,fácil,93,14,1,"{'calories_estimate': 575, 'equipment': 'none', 'recommended': True}",2026-04-02 11:37:48,2026-04-04 11:37:48
+555,8805,Yoga para principiantes,vacunacion,avanzado,109,81,0,"{'calories_estimate': 473, 'equipment': 'full gym', 'recommended': True}",2026-04-22 11:37:48,2026-04-28 11:37:48
+556,7925,Baile fitness,motilada,fácil,39,94,0,"{'calories_estimate': 665, 'equipment': 'full gym', 'recommended': False}",2026-04-08 11:37:48,2026-04-08 11:37:48
+557,2217,Baile fitness,desparasitada,intermedio,20,15,0,"{'calories_estimate': 581, 'equipment': 'dumbbells', 'recommended': True}",2026-04-19 11:37:48,2026-04-28 11:37:48
+558,7985,Entrenamiento funcional,corte de uñas,intermedio,92,96,0,"{'calories_estimate': 484, 'equipment': 'none', 'recommended': True}",2026-04-28 11:37:48,2026-05-01 11:37:48
+559,4717,Entrenamiento funcional,desparasitada,fácil,73,47,1,"{'calories_estimate': 454, 'equipment': 'none', 'recommended': False}",2026-04-23 11:37:48,2026-04-23 11:37:48
+560,8955,Cardio intenso,corte de uñas,intermedio,98,37,0,"{'calories_estimate': 468, 'equipment': 'dumbbells', 'recommended': False}",2026-04-14 11:37:48,2026-04-17 11:37:48
+561,6803,Yoga para principiantes,desparasitada,intermedio,35,85,1,"{'calories_estimate': 195, 'equipment': 'full gym', 'recommended': True}",2026-04-11 11:37:48,2026-04-17 11:37:48
+562,7263,Entrenamiento de fuerza,corte de uñas,intermedio,115,63,1,"{'calories_estimate': 693, 'equipment': 'dumbbells', 'recommended': False}",2026-04-10 11:37:48,2026-04-15 11:37:48
+563,4999,Entrenamiento funcional,esterilizacion,avanzado,83,19,0,"{'calories_estimate': 665, 'equipment': 'none', 'recommended': True}",2026-04-02 11:37:48,2026-04-08 11:37:48
+564,5622,Cardio intenso,desparasitada,avanzado,89,13,1,"{'calories_estimate': 762, 'equipment': 'none', 'recommended': False}",2026-04-22 11:37:48,2026-04-29 11:37:48
+565,620,Baile fitness,esterilizacion,intermedio,62,73,1,"{'calories_estimate': 722, 'equipment': 'none', 'recommended': False}",2026-04-21 11:37:48,2026-05-01 11:37:48
+566,5460,Entrenamiento funcional,motilada,avanzado,33,6,1,"{'calories_estimate': 420, 'equipment': 'full gym', 'recommended': True}",2026-04-04 11:37:48,2026-04-04 11:37:48
+567,4160,Entrenamiento funcional,vacunacion,fácil,50,98,0,"{'calories_estimate': 560, 'equipment': 'none', 'recommended': True}",2026-04-14 11:37:48,2026-04-19 11:37:48
+568,551,Entrenamiento de fuerza,desparasitada,intermedio,91,20,0,"{'calories_estimate': 520, 'equipment': 'full gym', 'recommended': False}",2026-04-04 11:37:48,2026-04-09 11:37:48
+569,638,Cardio intenso,corte de uñas,avanzado,62,5,0,"{'calories_estimate': 578, 'equipment': 'full gym', 'recommended': True}",2026-04-21 11:37:48,2026-04-24 11:37:48
+570,4209,Baile fitness,corte de uñas,avanzado,86,55,0,"{'calories_estimate': 392, 'equipment': 'dumbbells', 'recommended': True}",2026-04-24 11:37:48,2026-05-02 11:37:48
+571,7025,Baile fitness,esterilizacion,intermedio,79,60,0,"{'calories_estimate': 550, 'equipment': 'dumbbells', 'recommended': False}",2026-04-28 11:37:48,2026-05-07 11:37:48
+572,588,Baile fitness,motilada,intermedio,76,38,1,"{'calories_estimate': 432, 'equipment': 'full gym', 'recommended': False}",2026-04-14 11:37:48,2026-04-17 11:37:48
+573,1113,Entrenamiento de fuerza,esterilizacion,fácil,10,18,1,"{'calories_estimate': 450, 'equipment': 'full gym', 'recommended': False}",2026-04-08 11:37:48,2026-04-17 11:37:48
+574,4609,Baile fitness,vacunacion,intermedio,115,83,0,"{'calories_estimate': 382, 'equipment': 'none', 'recommended': True}",2026-04-16 11:37:48,2026-04-25 11:37:48
+575,226,Entrenamiento funcional,corte de uñas,fácil,70,94,1,"{'calories_estimate': 450, 'equipment': 'dumbbells', 'recommended': True}",2026-04-11 11:37:48,2026-04-11 11:37:48
+576,6175,Entrenamiento de fuerza,vacunacion,intermedio,41,41,0,"{'calories_estimate': 228, 'equipment': 'dumbbells', 'recommended': True}",2026-04-20 11:37:48,2026-04-24 11:37:48
+577,8719,Cardio intenso,desparasitada,fácil,117,17,1,"{'calories_estimate': 760, 'equipment': 'none', 'recommended': True}",2026-04-02 11:37:48,2026-04-05 11:37:48
+578,879,Baile fitness,vacunacion,fácil,64,18,1,"{'calories_estimate': 592, 'equipment': 'full gym', 'recommended': True}",2026-04-18 11:37:48,2026-04-24 11:37:48
+579,94,Yoga para principiantes,desparasitada,intermedio,120,93,0,"{'calories_estimate': 432, 'equipment': 'full gym', 'recommended': True}",2026-04-14 11:37:48,2026-04-17 11:37:48
+580,4238,Baile fitness,desparasitada,fácil,23,34,0,"{'calories_estimate': 466, 'equipment': 'dumbbells', 'recommended': False}",2026-04-21 11:37:48,2026-04-29 11:37:48
+581,5272,Baile fitness,desparasitada,avanzado,40,12,1,"{'calories_estimate': 151, 'equipment': 'none', 'recommended': False}",2026-04-07 11:37:48,2026-04-07 11:37:48
+582,8619,Cardio intenso,desparasitada,intermedio,103,7,0,"{'calories_estimate': 677, 'equipment': 'dumbbells', 'recommended': False}",2026-04-05 11:37:48,2026-04-06 11:37:48
+583,8294,Yoga para principiantes,esterilizacion,avanzado,77,24,1,"{'calories_estimate': 347, 'equipment': 'full gym', 'recommended': False}",2026-04-16 11:37:48,2026-04-19 11:37:48
+584,3499,Yoga para principiantes,desparasitada,intermedio,63,1,0,"{'calories_estimate': 718, 'equipment': 'none', 'recommended': False}",2026-04-29 11:37:48,2026-04-29 11:37:48
+585,1074,Cardio intenso,desparasitada,avanzado,65,76,0,"{'calories_estimate': 712, 'equipment': 'dumbbells', 'recommended': True}",2026-04-11 11:37:48,2026-04-14 11:37:48
+586,8812,Baile fitness,motilada,avanzado,49,3,0,"{'calories_estimate': 792, 'equipment': 'dumbbells', 'recommended': False}",2026-04-24 11:37:48,2026-04-26 11:37:48
+587,1057,Cardio intenso,corte de uñas,fácil,101,3,1,"{'calories_estimate': 675, 'equipment': 'dumbbells', 'recommended': True}",2026-04-25 11:37:48,2026-04-26 11:37:48
+588,3122,Entrenamiento de fuerza,corte de uñas,fácil,55,97,1,"{'calories_estimate': 644, 'equipment': 'none', 'recommended': True}",2026-04-28 11:37:48,2026-05-04 11:37:48
+589,2511,Cardio intenso,desparasitada,avanzado,45,8,0,"{'calories_estimate': 640, 'equipment': 'dumbbells', 'recommended': True}",2026-04-29 11:37:48,2026-05-09 11:37:48
+590,5834,Cardio intenso,desparasitada,intermedio,53,24,0,"{'calories_estimate': 544, 'equipment': 'full gym', 'recommended': True}",2026-04-26 11:37:48,2026-05-05 11:37:48
+591,816,Cardio intenso,esterilizacion,intermedio,35,16,0,"{'calories_estimate': 312, 'equipment': 'full gym', 'recommended': True}",2026-04-15 11:37:48,2026-04-25 11:37:48
+592,7955,Cardio intenso,desparasitada,avanzado,84,50,0,"{'calories_estimate': 555, 'equipment': 'none', 'recommended': True}",2026-04-10 11:37:48,2026-04-15 11:37:48
+593,6701,Entrenamiento de fuerza,motilada,intermedio,90,85,0,"{'calories_estimate': 686, 'equipment': 'full gym', 'recommended': True}",2026-04-23 11:37:48,2026-05-02 11:37:48
+594,5194,Entrenamiento funcional,desparasitada,fácil,15,63,1,"{'calories_estimate': 162, 'equipment': 'dumbbells', 'recommended': True}",2026-04-27 11:37:48,2026-04-28 11:37:48
+595,471,Yoga para principiantes,corte de uñas,avanzado,30,87,0,"{'calories_estimate': 349, 'equipment': 'dumbbells', 'recommended': True}",2026-04-29 11:37:48,2026-04-29 11:37:48
+596,1536,Entrenamiento de fuerza,esterilizacion,avanzado,20,91,1,"{'calories_estimate': 671, 'equipment': 'full gym', 'recommended': True}",2026-04-22 11:37:48,2026-04-25 11:37:48
+597,771,Baile fitness,desparasitada,avanzado,96,25,0,"{'calories_estimate': 339, 'equipment': 'none', 'recommended': False}",2026-04-08 11:37:48,2026-04-13 11:37:48
+598,6715,Baile fitness,vacunacion,intermedio,20,60,0,"{'calories_estimate': 118, 'equipment': 'dumbbells', 'recommended': False}",2026-05-02 11:37:48,2026-05-12 11:37:48
+599,8072,Entrenamiento funcional,vacunacion,avanzado,44,94,0,"{'calories_estimate': 258, 'equipment': 'dumbbells', 'recommended': False}",2026-04-06 11:37:48,2026-04-16 11:37:48
+600,3091,Entrenamiento funcional,motilada,avanzado,84,99,0,"{'calories_estimate': 495, 'equipment': 'none', 'recommended': True}",2026-04-05 11:37:48,2026-04-08 11:37:48
+601,7147,Entrenamiento de fuerza,esterilizacion,fácil,110,76,1,"{'calories_estimate': 496, 'equipment': 'dumbbells', 'recommended': False}",2026-04-24 11:37:48,2026-04-29 11:37:48
+602,390,Entrenamiento funcional,corte de uñas,fácil,41,86,1,"{'calories_estimate': 732, 'equipment': 'none', 'recommended': True}",2026-04-10 11:37:48,2026-04-19 11:37:48
+603,8518,Cardio intenso,desparasitada,intermedio,109,42,1,"{'calories_estimate': 650, 'equipment': 'dumbbells', 'recommended': False}",2026-04-23 11:37:48,2026-05-03 11:37:48
+604,4495,Entrenamiento de fuerza,vacunacion,fácil,91,63,0,"{'calories_estimate': 345, 'equipment': 'dumbbells', 'recommended': False}",2026-04-09 11:37:48,2026-04-13 11:37:48
+605,1760,Entrenamiento de fuerza,esterilizacion,intermedio,119,64,0,"{'calories_estimate': 424, 'equipment': 'dumbbells', 'recommended': False}",2026-04-07 11:37:48,2026-04-14 11:37:48
+606,5547,Cardio intenso,vacunacion,fácil,114,29,1,"{'calories_estimate': 216, 'equipment': 'none', 'recommended': False}",2026-04-02 11:37:48,2026-04-04 11:37:48
+607,3553,Yoga para principiantes,desparasitada,fácil,111,82,0,"{'calories_estimate': 274, 'equipment': 'dumbbells', 'recommended': True}",2026-04-03 11:37:48,2026-04-07 11:37:48
+608,2551,Cardio intenso,vacunacion,avanzado,64,11,0,"{'calories_estimate': 671, 'equipment': 'dumbbells', 'recommended': True}",2026-04-02 11:37:48,2026-04-06 11:37:48
+609,2817,Entrenamiento de fuerza,desparasitada,avanzado,56,8,0,"{'calories_estimate': 254, 'equipment': 'none', 'recommended': False}",2026-04-17 11:37:48,2026-04-24 11:37:48
+610,2056,Entrenamiento funcional,corte de uñas,fácil,88,18,0,"{'calories_estimate': 114, 'equipment': 'dumbbells', 'recommended': True}",2026-04-27 11:37:48,2026-04-29 11:37:48
+611,8499,Cardio intenso,esterilizacion,intermedio,11,32,1,"{'calories_estimate': 111, 'equipment': 'dumbbells', 'recommended': True}",2026-04-08 11:37:48,2026-04-15 11:37:48
+612,6366,Cardio intenso,motilada,avanzado,104,60,1,"{'calories_estimate': 712, 'equipment': 'dumbbells', 'recommended': False}",2026-04-07 11:37:48,2026-04-09 11:37:48
+613,8900,Entrenamiento funcional,corte de uñas,fácil,26,83,1,"{'calories_estimate': 406, 'equipment': 'dumbbells', 'recommended': True}",2026-04-09 11:37:48,2026-04-18 11:37:48
+614,3320,Yoga para principiantes,desparasitada,fácil,32,58,1,"{'calories_estimate': 638, 'equipment': 'dumbbells', 'recommended': True}",2026-04-14 11:37:48,2026-04-23 11:37:48
+615,6657,Yoga para principiantes,desparasitada,intermedio,72,80,1,"{'calories_estimate': 504, 'equipment': 'none', 'recommended': True}",2026-04-10 11:37:48,2026-04-19 11:37:48
+616,4350,Baile fitness,motilada,intermedio,72,28,1,"{'calories_estimate': 271, 'equipment': 'none', 'recommended': True}",2026-04-20 11:37:48,2026-04-24 11:37:48
+617,6707,Cardio intenso,corte de uñas,fácil,11,92,1,"{'calories_estimate': 703, 'equipment': 'full gym', 'recommended': True}",2026-04-22 11:37:48,2026-04-22 11:37:48
+618,4907,Baile fitness,corte de uñas,avanzado,108,77,0,"{'calories_estimate': 396, 'equipment': 'none', 'recommended': False}",2026-04-15 11:37:48,2026-04-19 11:37:48
+619,5171,Entrenamiento de fuerza,corte de uñas,intermedio,55,51,1,"{'calories_estimate': 787, 'equipment': 'full gym', 'recommended': False}",2026-04-19 11:37:48,2026-04-23 11:37:48
+620,5571,Cardio intenso,desparasitada,intermedio,22,15,1,"{'calories_estimate': 649, 'equipment': 'full gym', 'recommended': True}",2026-04-26 11:37:48,2026-05-05 11:37:48
+621,3750,Entrenamiento funcional,desparasitada,fácil,70,64,0,"{'calories_estimate': 329, 'equipment': 'dumbbells', 'recommended': True}",2026-04-10 11:37:48,2026-04-16 11:37:48
+622,9964,Entrenamiento de fuerza,desparasitada,fácil,42,27,0,"{'calories_estimate': 689, 'equipment': 'none', 'recommended': True}",2026-04-26 11:37:48,2026-05-05 11:37:48
+623,3669,Baile fitness,corte de uñas,fácil,78,38,0,"{'calories_estimate': 528, 'equipment': 'dumbbells', 'recommended': True}",2026-05-02 11:37:48,2026-05-10 11:37:48
+624,7695,Yoga para principiantes,motilada,intermedio,36,16,0,"{'calories_estimate': 340, 'equipment': 'none', 'recommended': False}",2026-04-09 11:37:48,2026-04-11 11:37:48
+625,9057,Cardio intenso,corte de uñas,fácil,97,91,0,"{'calories_estimate': 108, 'equipment': 'dumbbells', 'recommended': True}",2026-04-23 11:37:48,2026-04-23 11:37:48
+626,4565,Yoga para principiantes,corte de uñas,avanzado,49,42,1,"{'calories_estimate': 562, 'equipment': 'full gym', 'recommended': True}",2026-04-22 11:37:48,2026-04-27 11:37:48
+627,4232,Entrenamiento de fuerza,corte de uñas,avanzado,114,59,0,"{'calories_estimate': 559, 'equipment': 'none', 'recommended': False}",2026-04-05 11:37:48,2026-04-05 11:37:48
+628,2922,Baile fitness,motilada,intermedio,27,1,0,"{'calories_estimate': 718, 'equipment': 'dumbbells', 'recommended': True}",2026-04-03 11:37:48,2026-04-04 11:37:48
+629,7815,Baile fitness,desparasitada,intermedio,60,50,1,"{'calories_estimate': 739, 'equipment': 'none', 'recommended': True}",2026-04-22 11:37:48,2026-05-01 11:37:48
+630,9502,Yoga para principiantes,corte de uñas,intermedio,80,24,1,"{'calories_estimate': 357, 'equipment': 'none', 'recommended': False}",2026-04-05 11:37:48,2026-04-08 11:37:48
+631,1581,Baile fitness,vacunacion,intermedio,12,35,1,"{'calories_estimate': 735, 'equipment': 'dumbbells', 'recommended': False}",2026-04-13 11:37:48,2026-04-23 11:37:48
+632,2861,Baile fitness,esterilizacion,intermedio,94,58,0,"{'calories_estimate': 762, 'equipment': 'none', 'recommended': True}",2026-04-12 11:37:48,2026-04-13 11:37:48
+633,1902,Baile fitness,corte de uñas,fácil,23,56,0,"{'calories_estimate': 702, 'equipment': 'full gym', 'recommended': True}",2026-04-30 11:37:48,2026-05-09 11:37:48
+634,4879,Entrenamiento funcional,corte de uñas,avanzado,90,31,1,"{'calories_estimate': 359, 'equipment': 'none', 'recommended': False}",2026-04-27 11:37:48,2026-05-05 11:37:48
+635,6252,Cardio intenso,corte de uñas,avanzado,90,31,0,"{'calories_estimate': 372, 'equipment': 'dumbbells', 'recommended': False}",2026-04-06 11:37:48,2026-04-12 11:37:48
+636,497,Entrenamiento de fuerza,motilada,intermedio,38,13,1,"{'calories_estimate': 650, 'equipment': 'dumbbells', 'recommended': True}",2026-04-14 11:37:48,2026-04-23 11:37:48
+637,1795,Baile fitness,esterilizacion,fácil,111,60,1,"{'calories_estimate': 737, 'equipment': 'none', 'recommended': True}",2026-04-03 11:37:48,2026-04-07 11:37:48
+638,3637,Baile fitness,motilada,intermedio,36,87,0,"{'calories_estimate': 200, 'equipment': 'full gym', 'recommended': True}",2026-04-07 11:37:48,2026-04-16 11:37:48
+639,2639,Yoga para principiantes,desparasitada,intermedio,68,17,0,"{'calories_estimate': 585, 'equipment': 'none', 'recommended': True}",2026-04-18 11:37:48,2026-04-20 11:37:48
+640,9558,Yoga para principiantes,esterilizacion,avanzado,67,58,0,"{'calories_estimate': 750, 'equipment': 'dumbbells', 'recommended': True}",2026-04-12 11:37:48,2026-04-12 11:37:48
+641,3013,Cardio intenso,vacunacion,avanzado,111,57,0,"{'calories_estimate': 251, 'equipment': 'dumbbells', 'recommended': False}",2026-05-02 11:37:48,2026-05-04 11:37:48
+642,9003,Yoga para principiantes,vacunacion,avanzado,10,10,0,"{'calories_estimate': 204, 'equipment': 'full gym', 'recommended': True}",2026-04-17 11:37:48,2026-04-17 11:37:48
+643,7749,Cardio intenso,motilada,fácil,56,95,1,"{'calories_estimate': 331, 'equipment': 'none', 'recommended': True}",2026-04-19 11:37:48,2026-04-20 11:37:48
+644,165,Entrenamiento funcional,corte de uñas,avanzado,115,64,1,"{'calories_estimate': 279, 'equipment': 'dumbbells', 'recommended': True}",2026-04-26 11:37:48,2026-05-04 11:37:48
+645,8618,Entrenamiento de fuerza,vacunacion,fácil,111,68,1,"{'calories_estimate': 345, 'equipment': 'full gym', 'recommended': False}",2026-04-17 11:37:48,2026-04-24 11:37:48
+646,4693,Yoga para principiantes,corte de uñas,intermedio,105,94,1,"{'calories_estimate': 321, 'equipment': 'full gym', 'recommended': False}",2026-04-12 11:37:48,2026-04-20 11:37:48
+647,2070,Yoga para principiantes,desparasitada,fácil,110,15,0,"{'calories_estimate': 253, 'equipment': 'dumbbells', 'recommended': False}",2026-04-17 11:37:48,2026-04-22 11:37:48
+648,6836,Yoga para principiantes,esterilizacion,avanzado,23,56,1,"{'calories_estimate': 749, 'equipment': 'dumbbells', 'recommended': True}",2026-05-02 11:37:48,2026-05-09 11:37:48
+649,8953,Baile fitness,esterilizacion,avanzado,100,70,0,"{'calories_estimate': 205, 'equipment': 'full gym', 'recommended': False}",2026-04-19 11:37:48,2026-04-27 11:37:48
+650,3478,Baile fitness,corte de uñas,avanzado,83,51,1,"{'calories_estimate': 349, 'equipment': 'dumbbells', 'recommended': False}",2026-04-27 11:37:48,2026-05-01 11:37:48
+651,8139,Entrenamiento funcional,esterilizacion,avanzado,56,49,1,"{'calories_estimate': 391, 'equipment': 'full gym', 'recommended': True}",2026-04-18 11:37:48,2026-04-22 11:37:48
+652,3749,Cardio intenso,desparasitada,avanzado,52,74,1,"{'calories_estimate': 500, 'equipment': 'dumbbells', 'recommended': False}",2026-05-02 11:37:48,2026-05-02 11:37:48
+653,4199,Baile fitness,esterilizacion,intermedio,19,32,1,"{'calories_estimate': 797, 'equipment': 'full gym', 'recommended': False}",2026-04-27 11:37:48,2026-05-03 11:37:48
+654,6780,Cardio intenso,vacunacion,intermedio,26,21,1,"{'calories_estimate': 311, 'equipment': 'full gym', 'recommended': False}",2026-04-10 11:37:48,2026-04-10 11:37:48
+655,8554,Cardio intenso,motilada,intermedio,34,88,1,"{'calories_estimate': 218, 'equipment': 'dumbbells', 'recommended': False}",2026-04-27 11:37:48,2026-04-27 11:37:48
+656,2193,Entrenamiento de fuerza,esterilizacion,fácil,101,74,1,"{'calories_estimate': 647, 'equipment': 'dumbbells', 'recommended': False}",2026-05-01 11:37:48,2026-05-02 11:37:48
+657,1443,Entrenamiento de fuerza,motilada,fácil,99,94,1,"{'calories_estimate': 585, 'equipment': 'none', 'recommended': False}",2026-04-23 11:37:48,2026-04-24 11:37:48
+658,739,Yoga para principiantes,desparasitada,fácil,46,42,0,"{'calories_estimate': 107, 'equipment': 'none', 'recommended': False}",2026-04-21 11:37:48,2026-04-26 11:37:48
+659,331,Entrenamiento funcional,vacunacion,fácil,66,65,0,"{'calories_estimate': 712, 'equipment': 'none', 'recommended': False}",2026-04-15 11:37:48,2026-04-16 11:37:48
+660,9549,Entrenamiento de fuerza,esterilizacion,avanzado,91,91,1,"{'calories_estimate': 189, 'equipment': 'dumbbells', 'recommended': True}",2026-04-29 11:37:48,2026-05-06 11:37:48
+661,5191,Entrenamiento de fuerza,esterilizacion,fácil,99,44,1,"{'calories_estimate': 366, 'equipment': 'full gym', 'recommended': True}",2026-04-26 11:37:48,2026-04-28 11:37:48
+662,694,Cardio intenso,corte de uñas,intermedio,67,82,0,"{'calories_estimate': 434, 'equipment': 'full gym', 'recommended': True}",2026-04-02 11:37:48,2026-04-11 11:37:48
+663,7516,Yoga para principiantes,vacunacion,intermedio,81,19,1,"{'calories_estimate': 244, 'equipment': 'dumbbells', 'recommended': True}",2026-04-04 11:37:48,2026-04-04 11:37:48
+664,7491,Yoga para principiantes,motilada,intermedio,90,25,1,"{'calories_estimate': 528, 'equipment': 'none', 'recommended': False}",2026-04-23 11:37:48,2026-04-23 11:37:48
+665,6021,Entrenamiento de fuerza,esterilizacion,intermedio,41,61,1,"{'calories_estimate': 544, 'equipment': 'full gym', 'recommended': True}",2026-05-02 11:37:48,2026-05-07 11:37:48
+666,4589,Entrenamiento de fuerza,motilada,avanzado,62,35,1,"{'calories_estimate': 131, 'equipment': 'dumbbells', 'recommended': False}",2026-05-02 11:37:48,2026-05-02 11:37:48
+667,7983,Cardio intenso,desparasitada,fácil,49,90,0,"{'calories_estimate': 596, 'equipment': 'dumbbells', 'recommended': False}",2026-04-10 11:37:48,2026-04-19 11:37:48
+668,6130,Entrenamiento funcional,esterilizacion,fácil,60,14,0,"{'calories_estimate': 209, 'equipment': 'dumbbells', 'recommended': False}",2026-04-23 11:37:48,2026-04-30 11:37:48
+669,1836,Cardio intenso,motilada,avanzado,61,33,1,"{'calories_estimate': 162, 'equipment': 'full gym', 'recommended': False}",2026-04-04 11:37:48,2026-04-10 11:37:48
+670,7931,Yoga para principiantes,motilada,avanzado,22,18,0,"{'calories_estimate': 731, 'equipment': 'dumbbells', 'recommended': False}",2026-04-27 11:37:48,2026-04-28 11:37:48
+671,9699,Entrenamiento de fuerza,motilada,avanzado,56,10,1,"{'calories_estimate': 463, 'equipment': 'full gym', 'recommended': True}",2026-04-06 11:37:48,2026-04-06 11:37:48
+672,3029,Baile fitness,desparasitada,intermedio,116,75,1,"{'calories_estimate': 756, 'equipment': 'none', 'recommended': False}",2026-04-26 11:37:48,2026-04-30 11:37:48
+673,4693,Cardio intenso,desparasitada,avanzado,60,19,1,"{'calories_estimate': 570, 'equipment': 'dumbbells', 'recommended': False}",2026-04-24 11:37:48,2026-04-26 11:37:48
+674,9916,Entrenamiento funcional,corte de uñas,avanzado,110,75,0,"{'calories_estimate': 105, 'equipment': 'dumbbells', 'recommended': True}",2026-04-17 11:37:48,2026-04-26 11:37:48
+675,5641,Entrenamiento de fuerza,desparasitada,fácil,44,41,0,"{'calories_estimate': 794, 'equipment': 'dumbbells', 'recommended': True}",2026-04-11 11:37:48,2026-04-15 11:37:48
+676,7204,Entrenamiento de fuerza,vacunacion,avanzado,109,98,0,"{'calories_estimate': 136, 'equipment': 'dumbbells', 'recommended': True}",2026-04-24 11:37:48,2026-04-27 11:37:48
+677,990,Baile fitness,vacunacion,avanzado,81,18,1,"{'calories_estimate': 136, 'equipment': 'dumbbells', 'recommended': True}",2026-04-26 11:37:48,2026-05-04 11:37:48
+678,2868,Yoga para principiantes,motilada,avanzado,96,89,0,"{'calories_estimate': 514, 'equipment': 'full gym', 'recommended': True}",2026-04-30 11:37:48,2026-05-08 11:37:48
+679,8184,Entrenamiento de fuerza,esterilizacion,intermedio,60,69,0,"{'calories_estimate': 335, 'equipment': 'dumbbells', 'recommended': False}",2026-04-20 11:37:48,2026-04-25 11:37:48
+680,2405,Baile fitness,esterilizacion,avanzado,61,71,0,"{'calories_estimate': 101, 'equipment': 'dumbbells', 'recommended': False}",2026-04-07 11:37:48,2026-04-15 11:37:48
+681,7778,Cardio intenso,corte de uñas,avanzado,31,1,0,"{'calories_estimate': 608, 'equipment': 'dumbbells', 'recommended': False}",2026-04-29 11:37:48,2026-04-29 11:37:48
+682,2057,Yoga para principiantes,esterilizacion,intermedio,17,52,1,"{'calories_estimate': 628, 'equipment': 'full gym', 'recommended': True}",2026-04-18 11:37:48,2026-04-19 11:37:48
+683,8389,Yoga para principiantes,desparasitada,intermedio,57,67,1,"{'calories_estimate': 745, 'equipment': 'full gym', 'recommended': False}",2026-04-13 11:37:48,2026-04-21 11:37:48
+684,9602,Yoga para principiantes,desparasitada,fácil,71,13,1,"{'calories_estimate': 189, 'equipment': 'none', 'recommended': True}",2026-04-07 11:37:48,2026-04-16 11:37:48
+685,6413,Entrenamiento funcional,corte de uñas,avanzado,46,92,1,"{'calories_estimate': 484, 'equipment': 'dumbbells', 'recommended': False}",2026-04-13 11:37:48,2026-04-22 11:37:48
+686,7907,Baile fitness,motilada,avanzado,80,45,1,"{'calories_estimate': 323, 'equipment': 'none', 'recommended': False}",2026-04-24 11:37:48,2026-04-27 11:37:48
+687,5080,Entrenamiento de fuerza,desparasitada,intermedio,25,29,1,"{'calories_estimate': 447, 'equipment': 'dumbbells', 'recommended': True}",2026-04-07 11:37:48,2026-04-11 11:37:48
+688,6216,Cardio intenso,corte de uñas,fácil,102,58,0,"{'calories_estimate': 402, 'equipment': 'dumbbells', 'recommended': False}",2026-04-06 11:37:48,2026-04-13 11:37:48
+689,5347,Yoga para principiantes,corte de uñas,fácil,75,43,0,"{'calories_estimate': 558, 'equipment': 'dumbbells', 'recommended': True}",2026-04-05 11:37:48,2026-04-06 11:37:48
+690,9737,Entrenamiento funcional,esterilizacion,fácil,67,25,1,"{'calories_estimate': 233, 'equipment': 'full gym', 'recommended': True}",2026-04-05 11:37:48,2026-04-05 11:37:48
+691,4427,Yoga para principiantes,desparasitada,intermedio,78,51,0,"{'calories_estimate': 306, 'equipment': 'full gym', 'recommended': True}",2026-04-13 11:37:48,2026-04-15 11:37:48
+692,3886,Yoga para principiantes,vacunacion,intermedio,93,2,1,"{'calories_estimate': 190, 'equipment': 'none', 'recommended': True}",2026-04-04 11:37:48,2026-04-12 11:37:48
+693,8942,Cardio intenso,motilada,avanzado,34,100,1,"{'calories_estimate': 237, 'equipment': 'full gym', 'recommended': True}",2026-04-22 11:37:48,2026-04-25 11:37:48
+694,5616,Yoga para principiantes,vacunacion,intermedio,64,93,0,"{'calories_estimate': 513, 'equipment': 'full gym', 'recommended': False}",2026-04-16 11:37:48,2026-04-23 11:37:48
+695,1744,Cardio intenso,corte de uñas,fácil,47,9,1,"{'calories_estimate': 654, 'equipment': 'full gym', 'recommended': False}",2026-05-01 11:37:48,2026-05-11 11:37:48
+696,4864,Entrenamiento funcional,motilada,intermedio,65,19,1,"{'calories_estimate': 151, 'equipment': 'none', 'recommended': False}",2026-04-02 11:37:48,2026-04-12 11:37:48
+697,9465,Cardio intenso,desparasitada,avanzado,112,24,0,"{'calories_estimate': 512, 'equipment': 'dumbbells', 'recommended': True}",2026-04-08 11:37:48,2026-04-15 11:37:48
+698,2083,Baile fitness,desparasitada,intermedio,105,88,0,"{'calories_estimate': 592, 'equipment': 'dumbbells', 'recommended': False}",2026-04-14 11:37:48,2026-04-15 11:37:48
+699,7198,Entrenamiento de fuerza,esterilizacion,fácil,20,51,0,"{'calories_estimate': 585, 'equipment': 'none', 'recommended': True}",2026-05-01 11:37:48,2026-05-07 11:37:48
+700,7566,Yoga para principiantes,corte de uñas,intermedio,35,25,0,"{'calories_estimate': 174, 'equipment': 'dumbbells', 'recommended': True}",2026-04-13 11:37:48,2026-04-22 11:37:48
+701,8557,Cardio intenso,desparasitada,fácil,99,84,1,"{'calories_estimate': 555, 'equipment': 'dumbbells', 'recommended': False}",2026-04-10 11:37:48,2026-04-11 11:37:48
+702,2581,Entrenamiento funcional,vacunacion,avanzado,48,37,1,"{'calories_estimate': 298, 'equipment': 'dumbbells', 'recommended': True}",2026-04-25 11:37:48,2026-05-02 11:37:48
+703,8902,Entrenamiento de fuerza,corte de uñas,intermedio,33,65,0,"{'calories_estimate': 797, 'equipment': 'dumbbells', 'recommended': False}",2026-04-22 11:37:48,2026-04-24 11:37:48
+704,2679,Entrenamiento de fuerza,desparasitada,avanzado,52,94,1,"{'calories_estimate': 208, 'equipment': 'none', 'recommended': False}",2026-04-10 11:37:48,2026-04-13 11:37:48
+705,4424,Entrenamiento funcional,desparasitada,avanzado,45,97,0,"{'calories_estimate': 349, 'equipment': 'none', 'recommended': False}",2026-04-10 11:37:48,2026-04-18 11:37:48
+706,7176,Cardio intenso,esterilizacion,avanzado,76,8,1,"{'calories_estimate': 244, 'equipment': 'none', 'recommended': True}",2026-04-30 11:37:48,2026-05-01 11:37:48
+707,8277,Cardio intenso,corte de uñas,fácil,60,67,1,"{'calories_estimate': 107, 'equipment': 'dumbbells', 'recommended': True}",2026-04-27 11:37:48,2026-05-05 11:37:48
+708,1152,Entrenamiento funcional,esterilizacion,intermedio,53,47,0,"{'calories_estimate': 309, 'equipment': 'dumbbells', 'recommended': True}",2026-04-17 11:37:48,2026-04-19 11:37:48
+709,2178,Entrenamiento de fuerza,esterilizacion,avanzado,48,11,0,"{'calories_estimate': 327, 'equipment': 'full gym', 'recommended': False}",2026-04-05 11:37:48,2026-04-05 11:37:48
+710,6535,Entrenamiento funcional,corte de uñas,avanzado,86,62,1,"{'calories_estimate': 648, 'equipment': 'none', 'recommended': True}",2026-04-26 11:37:48,2026-05-04 11:37:48
+711,9249,Baile fitness,desparasitada,fácil,69,45,1,"{'calories_estimate': 385, 'equipment': 'none', 'recommended': True}",2026-04-23 11:37:48,2026-04-25 11:37:48
+712,8081,Cardio intenso,motilada,avanzado,26,37,1,"{'calories_estimate': 392, 'equipment': 'none', 'recommended': True}",2026-04-21 11:37:48,2026-05-01 11:37:48
+713,8880,Baile fitness,esterilizacion,intermedio,35,49,1,"{'calories_estimate': 684, 'equipment': 'full gym', 'recommended': False}",2026-04-21 11:37:48,2026-04-25 11:37:48
+714,6563,Entrenamiento funcional,vacunacion,avanzado,74,27,1,"{'calories_estimate': 629, 'equipment': 'full gym', 'recommended': False}",2026-04-28 11:37:48,2026-05-02 11:37:48
+715,6763,Baile fitness,corte de uñas,fácil,68,54,0,"{'calories_estimate': 791, 'equipment': 'dumbbells', 'recommended': False}",2026-04-18 11:37:48,2026-04-25 11:37:48
+716,9829,Entrenamiento de fuerza,desparasitada,avanzado,69,25,1,"{'calories_estimate': 601, 'equipment': 'full gym', 'recommended': True}",2026-04-04 11:37:48,2026-04-11 11:37:48
+717,1170,Yoga para principiantes,vacunacion,intermedio,108,91,0,"{'calories_estimate': 569, 'equipment': 'full gym', 'recommended': True}",2026-04-15 11:37:48,2026-04-23 11:37:48
+718,7992,Baile fitness,esterilizacion,intermedio,23,63,0,"{'calories_estimate': 727, 'equipment': 'dumbbells', 'recommended': False}",2026-04-17 11:37:48,2026-04-22 11:37:48
+719,5558,Entrenamiento de fuerza,vacunacion,intermedio,51,2,0,"{'calories_estimate': 779, 'equipment': 'none', 'recommended': False}",2026-05-02 11:37:48,2026-05-10 11:37:48
+720,1651,Cardio intenso,vacunacion,avanzado,63,23,1,"{'calories_estimate': 618, 'equipment': 'dumbbells', 'recommended': False}",2026-04-24 11:37:48,2026-04-24 11:37:48
+721,2336,Entrenamiento de fuerza,vacunacion,fácil,30,45,1,"{'calories_estimate': 454, 'equipment': 'none', 'recommended': False}",2026-04-24 11:37:48,2026-04-27 11:37:48
+722,1234,Cardio intenso,corte de uñas,intermedio,90,28,0,"{'calories_estimate': 758, 'equipment': 'full gym', 'recommended': False}",2026-04-28 11:37:48,2026-05-03 11:37:48
+723,7321,Yoga para principiantes,vacunacion,avanzado,64,9,0,"{'calories_estimate': 680, 'equipment': 'full gym', 'recommended': False}",2026-04-15 11:37:48,2026-04-20 11:37:48
+724,3125,Baile fitness,vacunacion,intermedio,43,30,1,"{'calories_estimate': 159, 'equipment': 'full gym', 'recommended': False}",2026-04-22 11:37:48,2026-04-30 11:37:48
+725,3512,Baile fitness,vacunacion,avanzado,119,91,1,"{'calories_estimate': 520, 'equipment': 'full gym', 'recommended': False}",2026-04-19 11:37:48,2026-04-27 11:37:48
+726,1738,Cardio intenso,vacunacion,fácil,40,62,0,"{'calories_estimate': 672, 'equipment': 'dumbbells', 'recommended': False}",2026-04-04 11:37:48,2026-04-14 11:37:48
+727,7814,Yoga para principiantes,vacunacion,fácil,106,4,0,"{'calories_estimate': 599, 'equipment': 'none', 'recommended': False}",2026-04-28 11:37:48,2026-05-06 11:37:48
+728,131,Cardio intenso,vacunacion,fácil,66,17,0,"{'calories_estimate': 264, 'equipment': 'dumbbells', 'recommended': True}",2026-04-18 11:37:48,2026-04-23 11:37:48
+729,716,Baile fitness,esterilizacion,fácil,19,78,1,"{'calories_estimate': 684, 'equipment': 'full gym', 'recommended': True}",2026-04-21 11:37:48,2026-04-25 11:37:48
+730,2582,Yoga para principiantes,esterilizacion,avanzado,39,17,0,"{'calories_estimate': 790, 'equipment': 'none', 'recommended': False}",2026-04-21 11:37:48,2026-04-24 11:37:48
+731,237,Cardio intenso,corte de uñas,fácil,41,46,0,"{'calories_estimate': 295, 'equipment': 'full gym', 'recommended': True}",2026-04-09 11:37:48,2026-04-11 11:37:48
+732,8576,Entrenamiento funcional,vacunacion,intermedio,106,20,1,"{'calories_estimate': 720, 'equipment': 'dumbbells', 'recommended': False}",2026-04-26 11:37:48,2026-04-27 11:37:48
+733,5954,Cardio intenso,esterilizacion,fácil,26,67,0,"{'calories_estimate': 414, 'equipment': 'none', 'recommended': True}",2026-04-07 11:37:48,2026-04-13 11:37:48
+734,4972,Baile fitness,desparasitada,fácil,60,60,1,"{'calories_estimate': 671, 'equipment': 'full gym', 'recommended': False}",2026-04-04 11:37:48,2026-04-14 11:37:48
+735,6865,Entrenamiento de fuerza,esterilizacion,avanzado,47,74,0,"{'calories_estimate': 601, 'equipment': 'none', 'recommended': False}",2026-04-30 11:37:48,2026-05-04 11:37:48
+736,5083,Cardio intenso,vacunacion,fácil,26,34,0,"{'calories_estimate': 343, 'equipment': 'full gym', 'recommended': False}",2026-04-25 11:37:48,2026-05-03 11:37:48
+737,6079,Baile fitness,esterilizacion,fácil,76,56,0,"{'calories_estimate': 409, 'equipment': 'full gym', 'recommended': False}",2026-04-07 11:37:48,2026-04-12 11:37:48
+738,5273,Baile fitness,corte de uñas,fácil,117,57,0,"{'calories_estimate': 369, 'equipment': 'none', 'recommended': True}",2026-04-28 11:37:48,2026-04-30 11:37:48
+739,5807,Entrenamiento de fuerza,vacunacion,avanzado,15,36,1,"{'calories_estimate': 793, 'equipment': 'full gym', 'recommended': False}",2026-04-05 11:37:48,2026-04-11 11:37:48
+740,3469,Cardio intenso,corte de uñas,fácil,66,59,0,"{'calories_estimate': 529, 'equipment': 'dumbbells', 'recommended': False}",2026-04-15 11:37:48,2026-04-18 11:37:48
+741,8076,Baile fitness,motilada,intermedio,104,7,0,"{'calories_estimate': 577, 'equipment': 'dumbbells', 'recommended': True}",2026-04-28 11:37:48,2026-05-02 11:37:48
+742,5242,Yoga para principiantes,corte de uñas,intermedio,35,27,1,"{'calories_estimate': 704, 'equipment': 'none', 'recommended': True}",2026-04-03 11:37:48,2026-04-11 11:37:48
+743,3159,Yoga para principiantes,vacunacion,intermedio,29,80,1,"{'calories_estimate': 561, 'equipment': 'none', 'recommended': True}",2026-04-04 11:37:48,2026-04-10 11:37:48
+744,302,Cardio intenso,vacunacion,fácil,79,58,1,"{'calories_estimate': 787, 'equipment': 'dumbbells', 'recommended': False}",2026-04-04 11:37:48,2026-04-06 11:37:48
+745,5322,Entrenamiento funcional,desparasitada,fácil,108,96,1,"{'calories_estimate': 328, 'equipment': 'dumbbells', 'recommended': False}",2026-04-17 11:37:48,2026-04-23 11:37:48
+746,7247,Entrenamiento funcional,esterilizacion,fácil,84,57,0,"{'calories_estimate': 278, 'equipment': 'dumbbells', 'recommended': True}",2026-04-06 11:37:48,2026-04-14 11:37:48
+747,3867,Entrenamiento funcional,vacunacion,intermedio,111,59,1,"{'calories_estimate': 504, 'equipment': 'full gym', 'recommended': False}",2026-04-25 11:37:48,2026-05-04 11:37:48
+748,9762,Yoga para principiantes,esterilizacion,intermedio,115,63,0,"{'calories_estimate': 273, 'equipment': 'none', 'recommended': False}",2026-04-27 11:37:48,2026-04-28 11:37:48
+749,4061,Entrenamiento de fuerza,corte de uñas,intermedio,93,14,1,"{'calories_estimate': 611, 'equipment': 'dumbbells', 'recommended': False}",2026-05-02 11:37:48,2026-05-07 11:37:48
+750,3928,Cardio intenso,esterilizacion,fácil,106,19,1,"{'calories_estimate': 437, 'equipment': 'dumbbells', 'recommended': True}",2026-04-21 11:37:48,2026-04-29 11:37:48
+751,9869,Cardio intenso,desparasitada,intermedio,57,8,1,"{'calories_estimate': 407, 'equipment': 'none', 'recommended': True}",2026-04-27 11:37:48,2026-04-27 11:37:48
+752,9019,Entrenamiento de fuerza,desparasitada,fácil,39,48,0,"{'calories_estimate': 196, 'equipment': 'none', 'recommended': False}",2026-04-30 11:37:48,2026-05-04 11:37:48
+753,8472,Yoga para principiantes,desparasitada,avanzado,18,47,0,"{'calories_estimate': 324, 'equipment': 'none', 'recommended': True}",2026-04-30 11:37:48,2026-05-08 11:37:48
+754,6234,Baile fitness,corte de uñas,fácil,56,72,1,"{'calories_estimate': 698, 'equipment': 'full gym', 'recommended': True}",2026-04-20 11:37:48,2026-04-25 11:37:48
+755,2426,Yoga para principiantes,esterilizacion,intermedio,111,99,0,"{'calories_estimate': 634, 'equipment': 'none', 'recommended': False}",2026-04-23 11:37:48,2026-05-03 11:37:48
+756,1559,Entrenamiento funcional,corte de uñas,fácil,105,59,0,"{'calories_estimate': 488, 'equipment': 'none', 'recommended': True}",2026-04-26 11:37:48,2026-04-30 11:37:48
+757,5423,Yoga para principiantes,desparasitada,fácil,89,93,0,"{'calories_estimate': 158, 'equipment': 'full gym', 'recommended': True}",2026-04-19 11:37:48,2026-04-20 11:37:48
+758,9835,Entrenamiento funcional,corte de uñas,fácil,88,11,1,"{'calories_estimate': 556, 'equipment': 'dumbbells', 'recommended': False}",2026-04-15 11:37:48,2026-04-19 11:37:48
+759,1996,Baile fitness,desparasitada,avanzado,49,94,0,"{'calories_estimate': 649, 'equipment': 'full gym', 'recommended': False}",2026-04-19 11:37:48,2026-04-20 11:37:48
+760,3180,Entrenamiento de fuerza,corte de uñas,avanzado,33,97,0,"{'calories_estimate': 571, 'equipment': 'none', 'recommended': False}",2026-04-11 11:37:48,2026-04-16 11:37:48
+761,537,Entrenamiento funcional,desparasitada,intermedio,118,71,0,"{'calories_estimate': 656, 'equipment': 'none', 'recommended': True}",2026-04-19 11:37:48,2026-04-19 11:37:48
+762,6397,Entrenamiento funcional,vacunacion,intermedio,64,27,1,"{'calories_estimate': 248, 'equipment': 'none', 'recommended': True}",2026-04-24 11:37:48,2026-05-04 11:37:48
+763,2746,Baile fitness,motilada,intermedio,91,10,1,"{'calories_estimate': 174, 'equipment': 'dumbbells', 'recommended': True}",2026-04-06 11:37:48,2026-04-15 11:37:48
+764,2746,Cardio intenso,corte de uñas,intermedio,55,4,0,"{'calories_estimate': 491, 'equipment': 'dumbbells', 'recommended': False}",2026-04-03 11:37:48,2026-04-05 11:37:48
+765,8240,Entrenamiento de fuerza,esterilizacion,fácil,58,100,0,"{'calories_estimate': 160, 'equipment': 'none', 'recommended': False}",2026-04-10 11:37:48,2026-04-18 11:37:48
+766,249,Entrenamiento de fuerza,motilada,avanzado,55,93,1,"{'calories_estimate': 554, 'equipment': 'full gym', 'recommended': False}",2026-04-02 11:37:48,2026-04-10 11:37:48
+767,9661,Baile fitness,vacunacion,fácil,23,84,0,"{'calories_estimate': 402, 'equipment': 'full gym', 'recommended': False}",2026-04-04 11:37:48,2026-04-11 11:37:48
+768,6146,Entrenamiento funcional,esterilizacion,avanzado,92,69,1,"{'calories_estimate': 145, 'equipment': 'dumbbells', 'recommended': False}",2026-04-24 11:37:48,2026-05-01 11:37:48
+769,7177,Entrenamiento funcional,corte de uñas,fácil,109,21,1,"{'calories_estimate': 123, 'equipment': 'full gym', 'recommended': True}",2026-04-06 11:37:48,2026-04-09 11:37:48
+770,1244,Entrenamiento de fuerza,vacunacion,avanzado,43,84,1,"{'calories_estimate': 188, 'equipment': 'dumbbells', 'recommended': False}",2026-04-25 11:37:48,2026-05-05 11:37:48
+771,1704,Yoga para principiantes,desparasitada,intermedio,23,5,0,"{'calories_estimate': 778, 'equipment': 'none', 'recommended': True}",2026-04-09 11:37:48,2026-04-19 11:37:48
+772,5828,Yoga para principiantes,corte de uñas,avanzado,40,10,1,"{'calories_estimate': 114, 'equipment': 'full gym', 'recommended': True}",2026-04-17 11:37:48,2026-04-21 11:37:48
+773,7727,Entrenamiento funcional,vacunacion,avanzado,18,18,1,"{'calories_estimate': 186, 'equipment': 'full gym', 'recommended': True}",2026-04-11 11:37:48,2026-04-19 11:37:48
+774,6549,Yoga para principiantes,corte de uñas,fácil,67,8,1,"{'calories_estimate': 544, 'equipment': 'dumbbells', 'recommended': True}",2026-05-02 11:37:48,2026-05-10 11:37:48
+775,6872,Entrenamiento funcional,vacunacion,avanzado,77,61,0,"{'calories_estimate': 242, 'equipment': 'full gym', 'recommended': True}",2026-04-30 11:37:48,2026-05-04 11:37:48
+776,2194,Entrenamiento funcional,desparasitada,fácil,44,24,0,"{'calories_estimate': 342, 'equipment': 'dumbbells', 'recommended': False}",2026-04-20 11:37:48,2026-04-23 11:37:48
+777,8181,Entrenamiento de fuerza,desparasitada,intermedio,71,97,0,"{'calories_estimate': 680, 'equipment': 'none', 'recommended': False}",2026-04-27 11:37:48,2026-05-01 11:37:48
+778,7355,Yoga para principiantes,motilada,intermedio,14,37,1,"{'calories_estimate': 274, 'equipment': 'full gym', 'recommended': True}",2026-04-10 11:37:48,2026-04-15 11:37:48
+779,4495,Entrenamiento de fuerza,desparasitada,fácil,35,22,0,"{'calories_estimate': 325, 'equipment': 'dumbbells', 'recommended': False}",2026-04-28 11:37:48,2026-04-30 11:37:48
+780,2907,Entrenamiento funcional,esterilizacion,avanzado,115,25,1,"{'calories_estimate': 617, 'equipment': 'full gym', 'recommended': True}",2026-04-29 11:37:48,2026-04-29 11:37:48
+781,2603,Entrenamiento funcional,motilada,avanzado,94,96,1,"{'calories_estimate': 786, 'equipment': 'none', 'recommended': True}",2026-04-12 11:37:48,2026-04-18 11:37:48
+782,8812,Entrenamiento funcional,vacunacion,fácil,37,62,1,"{'calories_estimate': 138, 'equipment': 'dumbbells', 'recommended': True}",2026-05-02 11:37:48,2026-05-02 11:37:48
+783,6945,Baile fitness,esterilizacion,intermedio,12,31,1,"{'calories_estimate': 763, 'equipment': 'full gym', 'recommended': False}",2026-04-07 11:37:48,2026-04-17 11:37:48
+784,6710,Cardio intenso,corte de uñas,avanzado,14,83,0,"{'calories_estimate': 714, 'equipment': 'full gym', 'recommended': True}",2026-04-05 11:37:48,2026-04-05 11:37:48
+785,5058,Entrenamiento de fuerza,corte de uñas,intermedio,17,65,0,"{'calories_estimate': 677, 'equipment': 'dumbbells', 'recommended': False}",2026-04-11 11:37:48,2026-04-21 11:37:48
+786,5885,Baile fitness,desparasitada,fácil,119,16,0,"{'calories_estimate': 589, 'equipment': 'dumbbells', 'recommended': True}",2026-04-16 11:37:48,2026-04-20 11:37:48
+787,8743,Baile fitness,vacunacion,avanzado,17,55,0,"{'calories_estimate': 373, 'equipment': 'dumbbells', 'recommended': True}",2026-04-05 11:37:48,2026-04-15 11:37:48
+788,6067,Entrenamiento de fuerza,motilada,intermedio,43,69,1,"{'calories_estimate': 164, 'equipment': 'dumbbells', 'recommended': False}",2026-04-25 11:37:48,2026-04-28 11:37:48
+789,8306,Entrenamiento de fuerza,desparasitada,fácil,103,6,1,"{'calories_estimate': 344, 'equipment': 'full gym', 'recommended': False}",2026-04-14 11:37:48,2026-04-16 11:37:48
+790,8791,Yoga para principiantes,motilada,avanzado,40,52,1,"{'calories_estimate': 387, 'equipment': 'none', 'recommended': True}",2026-04-30 11:37:48,2026-05-09 11:37:48
+791,5541,Yoga para principiantes,vacunacion,avanzado,54,77,1,"{'calories_estimate': 129, 'equipment': 'none', 'recommended': False}",2026-04-13 11:37:48,2026-04-16 11:37:48
+792,2817,Cardio intenso,vacunacion,fácil,99,51,0,"{'calories_estimate': 463, 'equipment': 'dumbbells', 'recommended': False}",2026-04-27 11:37:48,2026-05-05 11:37:48
+793,9860,Cardio intenso,desparasitada,fácil,82,72,0,"{'calories_estimate': 635, 'equipment': 'dumbbells', 'recommended': False}",2026-04-21 11:37:48,2026-04-26 11:37:48
+794,5689,Entrenamiento de fuerza,vacunacion,intermedio,103,63,1,"{'calories_estimate': 245, 'equipment': 'none', 'recommended': True}",2026-04-18 11:37:48,2026-04-19 11:37:48
+795,4332,Entrenamiento de fuerza,motilada,avanzado,66,87,0,"{'calories_estimate': 404, 'equipment': 'full gym', 'recommended': True}",2026-04-27 11:37:48,2026-04-27 11:37:48
+796,3899,Yoga para principiantes,corte de uñas,fácil,14,80,0,"{'calories_estimate': 760, 'equipment': 'none', 'recommended': True}",2026-04-19 11:37:48,2026-04-20 11:37:48
+797,4444,Yoga para principiantes,corte de uñas,fácil,36,44,0,"{'calories_estimate': 433, 'equipment': 'none', 'recommended': False}",2026-05-01 11:37:48,2026-05-05 11:37:48
+798,6188,Baile fitness,desparasitada,fácil,104,37,0,"{'calories_estimate': 139, 'equipment': 'dumbbells', 'recommended': False}",2026-04-17 11:37:48,2026-04-20 11:37:48
+799,1598,Yoga para principiantes,vacunacion,avanzado,27,62,1,"{'calories_estimate': 659, 'equipment': 'none', 'recommended': False}",2026-04-27 11:37:48,2026-05-04 11:37:48
+800,4321,Entrenamiento funcional,vacunacion,avanzado,25,14,1,"{'calories_estimate': 704, 'equipment': 'none', 'recommended': True}",2026-04-21 11:37:48,2026-05-01 11:37:48
+801,4431,Entrenamiento de fuerza,desparasitada,intermedio,59,66,1,"{'calories_estimate': 110, 'equipment': 'none', 'recommended': True}",2026-04-29 11:37:48,2026-05-03 11:37:48
+802,1993,Entrenamiento de fuerza,desparasitada,intermedio,32,22,1,"{'calories_estimate': 445, 'equipment': 'full gym', 'recommended': False}",2026-04-14 11:37:48,2026-04-21 11:37:48
+803,5065,Cardio intenso,desparasitada,avanzado,57,48,0,"{'calories_estimate': 263, 'equipment': 'none', 'recommended': True}",2026-04-07 11:37:48,2026-04-13 11:37:48
+804,9186,Entrenamiento funcional,corte de uñas,avanzado,88,26,0,"{'calories_estimate': 769, 'equipment': 'none', 'recommended': True}",2026-04-17 11:37:48,2026-04-20 11:37:48
+805,3016,Baile fitness,vacunacion,avanzado,57,40,1,"{'calories_estimate': 157, 'equipment': 'full gym', 'recommended': True}",2026-04-13 11:37:48,2026-04-21 11:37:48
+806,4793,Cardio intenso,motilada,intermedio,31,30,0,"{'calories_estimate': 707, 'equipment': 'full gym', 'recommended': True}",2026-04-07 11:37:48,2026-04-13 11:37:48
+807,2847,Entrenamiento funcional,vacunacion,avanzado,39,99,1,"{'calories_estimate': 720, 'equipment': 'none', 'recommended': True}",2026-04-09 11:37:48,2026-04-15 11:37:48
+808,2209,Cardio intenso,esterilizacion,avanzado,110,2,1,"{'calories_estimate': 547, 'equipment': 'full gym', 'recommended': False}",2026-04-07 11:37:48,2026-04-08 11:37:48
+809,358,Yoga para principiantes,motilada,avanzado,36,30,0,"{'calories_estimate': 632, 'equipment': 'dumbbells', 'recommended': True}",2026-04-21 11:37:48,2026-04-29 11:37:48
+810,2499,Entrenamiento de fuerza,desparasitada,fácil,76,83,1,"{'calories_estimate': 216, 'equipment': 'dumbbells', 'recommended': True}",2026-04-15 11:37:48,2026-04-19 11:37:48
+811,3999,Entrenamiento funcional,corte de uñas,avanzado,17,35,0,"{'calories_estimate': 362, 'equipment': 'none', 'recommended': True}",2026-05-01 11:37:48,2026-05-11 11:37:48
+812,1429,Baile fitness,esterilizacion,intermedio,56,69,1,"{'calories_estimate': 752, 'equipment': 'dumbbells', 'recommended': True}",2026-04-20 11:37:48,2026-04-29 11:37:48
+813,6430,Entrenamiento de fuerza,esterilizacion,avanzado,94,56,1,"{'calories_estimate': 691, 'equipment': 'full gym', 'recommended': True}",2026-04-03 11:37:48,2026-04-05 11:37:48
+814,5659,Baile fitness,corte de uñas,intermedio,60,35,1,"{'calories_estimate': 453, 'equipment': 'dumbbells', 'recommended': True}",2026-04-21 11:37:48,2026-04-29 11:37:48
+815,6330,Cardio intenso,corte de uñas,avanzado,50,36,0,"{'calories_estimate': 741, 'equipment': 'none', 'recommended': False}",2026-05-01 11:37:48,2026-05-05 11:37:48
+816,4987,Entrenamiento funcional,motilada,fácil,46,60,0,"{'calories_estimate': 256, 'equipment': 'full gym', 'recommended': True}",2026-04-02 11:37:48,2026-04-11 11:37:48
+817,6650,Entrenamiento de fuerza,vacunacion,fácil,62,74,1,"{'calories_estimate': 132, 'equipment': 'dumbbells', 'recommended': False}",2026-04-18 11:37:48,2026-04-21 11:37:48
+818,3218,Entrenamiento de fuerza,vacunacion,avanzado,16,40,1,"{'calories_estimate': 100, 'equipment': 'dumbbells', 'recommended': False}",2026-04-19 11:37:48,2026-04-21 11:37:48
+819,1959,Entrenamiento funcional,esterilizacion,intermedio,88,32,0,"{'calories_estimate': 767, 'equipment': 'none', 'recommended': True}",2026-04-29 11:37:48,2026-04-29 11:37:48
+820,7580,Yoga para principiantes,vacunacion,avanzado,120,23,0,"{'calories_estimate': 289, 'equipment': 'dumbbells', 'recommended': False}",2026-04-07 11:37:48,2026-04-11 11:37:48
+821,8108,Yoga para principiantes,vacunacion,avanzado,66,51,1,"{'calories_estimate': 699, 'equipment': 'none', 'recommended': True}",2026-04-04 11:37:48,2026-04-11 11:37:48
+822,8069,Entrenamiento funcional,vacunacion,intermedio,113,83,1,"{'calories_estimate': 349, 'equipment': 'none', 'recommended': True}",2026-04-28 11:37:48,2026-05-07 11:37:48
+823,6282,Entrenamiento de fuerza,esterilizacion,fácil,48,77,1,"{'calories_estimate': 130, 'equipment': 'dumbbells', 'recommended': True}",2026-04-04 11:37:48,2026-04-13 11:37:48
+824,3398,Baile fitness,desparasitada,fácil,115,12,0,"{'calories_estimate': 561, 'equipment': 'full gym', 'recommended': True}",2026-04-15 11:37:48,2026-04-24 11:37:48
+825,5642,Entrenamiento funcional,esterilizacion,avanzado,102,51,1,"{'calories_estimate': 133, 'equipment': 'full gym', 'recommended': True}",2026-04-12 11:37:48,2026-04-20 11:37:48
+826,8392,Entrenamiento funcional,motilada,intermedio,50,38,1,"{'calories_estimate': 592, 'equipment': 'dumbbells', 'recommended': True}",2026-04-06 11:37:48,2026-04-16 11:37:48
+827,5076,Entrenamiento funcional,desparasitada,intermedio,63,56,0,"{'calories_estimate': 613, 'equipment': 'none', 'recommended': True}",2026-04-19 11:37:48,2026-04-27 11:37:48
+828,814,Entrenamiento funcional,vacunacion,fácil,54,47,1,"{'calories_estimate': 110, 'equipment': 'none', 'recommended': True}",2026-04-06 11:37:48,2026-04-13 11:37:48
+829,7662,Entrenamiento de fuerza,corte de uñas,fácil,92,42,1,"{'calories_estimate': 227, 'equipment': 'dumbbells', 'recommended': True}",2026-04-15 11:37:48,2026-04-25 11:37:48
+830,2059,Entrenamiento funcional,esterilizacion,fácil,99,40,1,"{'calories_estimate': 383, 'equipment': 'none', 'recommended': False}",2026-04-23 11:37:48,2026-04-25 11:37:48
+831,4986,Cardio intenso,motilada,fácil,116,26,1,"{'calories_estimate': 511, 'equipment': 'dumbbells', 'recommended': True}",2026-04-04 11:37:48,2026-04-05 11:37:48
+832,1609,Entrenamiento de fuerza,vacunacion,fácil,21,85,0,"{'calories_estimate': 152, 'equipment': 'dumbbells', 'recommended': True}",2026-04-09 11:37:48,2026-04-19 11:37:48
+833,831,Yoga para principiantes,vacunacion,avanzado,53,67,0,"{'calories_estimate': 496, 'equipment': 'dumbbells', 'recommended': True}",2026-04-02 11:37:48,2026-04-03 11:37:48
+834,8443,Cardio intenso,motilada,avanzado,65,88,0,"{'calories_estimate': 556, 'equipment': 'none', 'recommended': False}",2026-04-17 11:37:48,2026-04-19 11:37:48
+835,2144,Yoga para principiantes,esterilizacion,fácil,67,10,1,"{'calories_estimate': 621, 'equipment': 'none', 'recommended': False}",2026-04-16 11:37:48,2026-04-18 11:37:48
+836,2185,Entrenamiento funcional,motilada,fácil,43,95,0,"{'calories_estimate': 215, 'equipment': 'dumbbells', 'recommended': False}",2026-04-04 11:37:48,2026-04-08 11:37:48
+837,7523,Entrenamiento funcional,esterilizacion,fácil,25,24,0,"{'calories_estimate': 723, 'equipment': 'dumbbells', 'recommended': False}",2026-04-13 11:37:48,2026-04-17 11:37:48
+838,145,Cardio intenso,motilada,fácil,29,19,0,"{'calories_estimate': 648, 'equipment': 'dumbbells', 'recommended': False}",2026-04-06 11:37:48,2026-04-06 11:37:48
+839,3419,Entrenamiento de fuerza,esterilizacion,avanzado,75,16,0,"{'calories_estimate': 712, 'equipment': 'full gym', 'recommended': True}",2026-04-12 11:37:48,2026-04-20 11:37:48
+840,7178,Cardio intenso,esterilizacion,avanzado,42,44,0,"{'calories_estimate': 463, 'equipment': 'none', 'recommended': True}",2026-04-07 11:37:48,2026-04-15 11:37:48
+841,5637,Cardio intenso,vacunacion,avanzado,71,4,1,"{'calories_estimate': 201, 'equipment': 'full gym', 'recommended': False}",2026-04-13 11:37:48,2026-04-16 11:37:48
+842,4799,Entrenamiento funcional,motilada,fácil,25,50,1,"{'calories_estimate': 144, 'equipment': 'full gym', 'recommended': True}",2026-04-13 11:37:48,2026-04-23 11:37:48
+843,113,Entrenamiento de fuerza,vacunacion,fácil,35,21,1,"{'calories_estimate': 772, 'equipment': 'dumbbells', 'recommended': True}",2026-04-10 11:37:48,2026-04-12 11:37:48
+844,9775,Entrenamiento funcional,desparasitada,fácil,25,15,0,"{'calories_estimate': 189, 'equipment': 'dumbbells', 'recommended': True}",2026-04-16 11:37:48,2026-04-16 11:37:48
+845,7534,Yoga para principiantes,corte de uñas,intermedio,32,22,0,"{'calories_estimate': 516, 'equipment': 'full gym', 'recommended': False}",2026-05-01 11:37:48,2026-05-03 11:37:48
+846,290,Entrenamiento de fuerza,desparasitada,fácil,39,47,1,"{'calories_estimate': 332, 'equipment': 'dumbbells', 'recommended': False}",2026-04-05 11:37:48,2026-04-14 11:37:48
+847,7875,Cardio intenso,vacunacion,intermedio,84,86,1,"{'calories_estimate': 272, 'equipment': 'full gym', 'recommended': False}",2026-04-04 11:37:48,2026-04-11 11:37:48
+848,7243,Cardio intenso,desparasitada,intermedio,120,37,0,"{'calories_estimate': 340, 'equipment': 'none', 'recommended': False}",2026-05-01 11:37:48,2026-05-09 11:37:48
+849,9923,Entrenamiento funcional,corte de uñas,fácil,112,58,1,"{'calories_estimate': 425, 'equipment': 'none', 'recommended': True}",2026-04-10 11:37:48,2026-04-16 11:37:48
+850,2739,Entrenamiento de fuerza,corte de uñas,intermedio,64,74,0,"{'calories_estimate': 344, 'equipment': 'none', 'recommended': True}",2026-04-29 11:37:48,2026-05-07 11:37:48
+851,1242,Entrenamiento de fuerza,desparasitada,fácil,86,83,0,"{'calories_estimate': 362, 'equipment': 'full gym', 'recommended': False}",2026-05-02 11:37:48,2026-05-02 11:37:48
+852,1496,Baile fitness,desparasitada,fácil,30,78,0,"{'calories_estimate': 494, 'equipment': 'dumbbells', 'recommended': False}",2026-04-09 11:37:48,2026-04-14 11:37:48
+853,5450,Entrenamiento de fuerza,desparasitada,avanzado,42,29,0,"{'calories_estimate': 340, 'equipment': 'full gym', 'recommended': True}",2026-04-15 11:37:48,2026-04-22 11:37:48
+854,4272,Cardio intenso,desparasitada,fácil,118,38,1,"{'calories_estimate': 656, 'equipment': 'none', 'recommended': True}",2026-04-09 11:37:48,2026-04-13 11:37:48
+855,8719,Yoga para principiantes,esterilizacion,fácil,48,74,1,"{'calories_estimate': 732, 'equipment': 'dumbbells', 'recommended': True}",2026-04-04 11:37:48,2026-04-05 11:37:48
+856,8087,Cardio intenso,esterilizacion,intermedio,82,30,0,"{'calories_estimate': 198, 'equipment': 'full gym', 'recommended': False}",2026-05-01 11:37:48,2026-05-02 11:37:48
+857,5898,Entrenamiento de fuerza,esterilizacion,fácil,106,39,0,"{'calories_estimate': 650, 'equipment': 'none', 'recommended': True}",2026-04-27 11:37:48,2026-04-27 11:37:48
+858,582,Entrenamiento funcional,vacunacion,avanzado,100,48,1,"{'calories_estimate': 734, 'equipment': 'dumbbells', 'recommended': False}",2026-04-15 11:37:48,2026-04-17 11:37:48
+859,9034,Entrenamiento de fuerza,vacunacion,intermedio,83,50,0,"{'calories_estimate': 299, 'equipment': 'full gym', 'recommended': False}",2026-04-19 11:37:48,2026-04-26 11:37:48
+860,9277,Entrenamiento funcional,motilada,fácil,79,11,0,"{'calories_estimate': 307, 'equipment': 'dumbbells', 'recommended': False}",2026-04-25 11:37:48,2026-05-03 11:37:48
+861,7757,Entrenamiento de fuerza,vacunacion,avanzado,42,66,0,"{'calories_estimate': 120, 'equipment': 'dumbbells', 'recommended': True}",2026-04-07 11:37:48,2026-04-15 11:37:48
+862,2273,Entrenamiento funcional,vacunacion,avanzado,21,2,1,"{'calories_estimate': 719, 'equipment': 'none', 'recommended': False}",2026-04-13 11:37:48,2026-04-16 11:37:48
+863,9150,Entrenamiento funcional,esterilizacion,avanzado,32,92,0,"{'calories_estimate': 730, 'equipment': 'dumbbells', 'recommended': False}",2026-04-23 11:37:48,2026-04-25 11:37:48
+864,2947,Yoga para principiantes,corte de uñas,fácil,73,3,1,"{'calories_estimate': 146, 'equipment': 'dumbbells', 'recommended': True}",2026-04-05 11:37:48,2026-04-15 11:37:48
+865,996,Entrenamiento funcional,vacunacion,intermedio,86,77,0,"{'calories_estimate': 718, 'equipment': 'none', 'recommended': False}",2026-04-05 11:37:48,2026-04-07 11:37:48
+866,4261,Entrenamiento funcional,esterilizacion,fácil,41,80,0,"{'calories_estimate': 580, 'equipment': 'full gym', 'recommended': False}",2026-04-14 11:37:48,2026-04-21 11:37:48
+867,435,Baile fitness,esterilizacion,intermedio,99,60,1,"{'calories_estimate': 716, 'equipment': 'none', 'recommended': False}",2026-04-22 11:37:48,2026-04-24 11:37:48
+868,7168,Cardio intenso,esterilizacion,avanzado,104,67,0,"{'calories_estimate': 337, 'equipment': 'full gym', 'recommended': False}",2026-04-04 11:37:48,2026-04-04 11:37:48
+869,5919,Entrenamiento de fuerza,motilada,fácil,45,23,1,"{'calories_estimate': 387, 'equipment': 'none', 'recommended': False}",2026-04-25 11:37:48,2026-05-05 11:37:48
+870,9744,Yoga para principiantes,corte de uñas,fácil,62,48,0,"{'calories_estimate': 377, 'equipment': 'full gym', 'recommended': False}",2026-04-17 11:37:48,2026-04-20 11:37:48
+871,6435,Yoga para principiantes,desparasitada,intermedio,54,78,1,"{'calories_estimate': 594, 'equipment': 'full gym', 'recommended': True}",2026-04-11 11:37:48,2026-04-15 11:37:48
+872,3106,Baile fitness,esterilizacion,fácil,19,41,1,"{'calories_estimate': 515, 'equipment': 'full gym', 'recommended': False}",2026-04-04 11:37:48,2026-04-10 11:37:48
+873,1820,Cardio intenso,vacunacion,fácil,33,22,1,"{'calories_estimate': 177, 'equipment': 'full gym', 'recommended': True}",2026-04-09 11:37:48,2026-04-15 11:37:48
+874,8250,Entrenamiento de fuerza,corte de uñas,avanzado,96,6,1,"{'calories_estimate': 181, 'equipment': 'full gym', 'recommended': True}",2026-04-10 11:37:48,2026-04-11 11:37:48
+875,8125,Cardio intenso,motilada,intermedio,91,52,0,"{'calories_estimate': 544, 'equipment': 'dumbbells', 'recommended': True}",2026-04-19 11:37:48,2026-04-26 11:37:48
+876,6762,Entrenamiento de fuerza,motilada,avanzado,99,63,1,"{'calories_estimate': 471, 'equipment': 'full gym', 'recommended': False}",2026-04-16 11:37:48,2026-04-24 11:37:48
+877,5791,Yoga para principiantes,esterilizacion,fácil,97,59,0,"{'calories_estimate': 637, 'equipment': 'dumbbells', 'recommended': True}",2026-05-02 11:37:48,2026-05-09 11:37:48
+878,7036,Cardio intenso,corte de uñas,intermedio,49,64,0,"{'calories_estimate': 546, 'equipment': 'full gym', 'recommended': True}",2026-04-29 11:37:48,2026-05-06 11:37:48
+879,722,Baile fitness,desparasitada,intermedio,42,5,0,"{'calories_estimate': 250, 'equipment': 'none', 'recommended': True}",2026-04-14 11:37:48,2026-04-23 11:37:48
+880,5084,Cardio intenso,corte de uñas,avanzado,47,5,1,"{'calories_estimate': 511, 'equipment': 'none', 'recommended': False}",2026-04-19 11:37:48,2026-04-25 11:37:48
+881,1651,Entrenamiento de fuerza,corte de uñas,avanzado,40,91,0,"{'calories_estimate': 290, 'equipment': 'full gym', 'recommended': False}",2026-04-14 11:37:48,2026-04-24 11:37:48
+882,9778,Entrenamiento de fuerza,desparasitada,intermedio,26,61,1,"{'calories_estimate': 501, 'equipment': 'none', 'recommended': True}",2026-04-10 11:37:48,2026-04-17 11:37:48
+883,2260,Entrenamiento de fuerza,vacunacion,avanzado,104,18,1,"{'calories_estimate': 332, 'equipment': 'dumbbells', 'recommended': False}",2026-04-05 11:37:48,2026-04-10 11:37:48
+884,3135,Cardio intenso,motilada,intermedio,85,10,0,"{'calories_estimate': 614, 'equipment': 'none', 'recommended': False}",2026-04-13 11:37:48,2026-04-13 11:37:48
+885,6364,Entrenamiento de fuerza,corte de uñas,intermedio,93,73,1,"{'calories_estimate': 734, 'equipment': 'full gym', 'recommended': True}",2026-04-30 11:37:48,2026-05-07 11:37:48
+886,1923,Yoga para principiantes,desparasitada,fácil,50,47,0,"{'calories_estimate': 780, 'equipment': 'dumbbells', 'recommended': False}",2026-04-15 11:37:48,2026-04-17 11:37:48
+887,5607,Cardio intenso,desparasitada,avanzado,49,44,1,"{'calories_estimate': 755, 'equipment': 'full gym', 'recommended': True}",2026-04-18 11:37:48,2026-04-24 11:37:48
+888,6138,Entrenamiento funcional,desparasitada,fácil,50,52,1,"{'calories_estimate': 782, 'equipment': 'dumbbells', 'recommended': True}",2026-04-26 11:37:48,2026-05-02 11:37:48
+889,1163,Baile fitness,vacunacion,avanzado,55,23,1,"{'calories_estimate': 308, 'equipment': 'dumbbells', 'recommended': True}",2026-04-29 11:37:48,2026-04-30 11:37:48
+890,7971,Yoga para principiantes,esterilizacion,avanzado,98,38,0,"{'calories_estimate': 139, 'equipment': 'full gym', 'recommended': True}",2026-04-12 11:37:48,2026-04-21 11:37:48
+891,1862,Entrenamiento de fuerza,motilada,intermedio,93,78,1,"{'calories_estimate': 796, 'equipment': 'none', 'recommended': False}",2026-04-15 11:37:48,2026-04-24 11:37:48
+892,2017,Entrenamiento de fuerza,esterilizacion,intermedio,29,86,0,"{'calories_estimate': 232, 'equipment': 'dumbbells', 'recommended': True}",2026-04-04 11:37:48,2026-04-10 11:37:48
+893,2431,Cardio intenso,esterilizacion,intermedio,87,35,0,"{'calories_estimate': 726, 'equipment': 'full gym', 'recommended': False}",2026-04-14 11:37:48,2026-04-15 11:37:48
+894,4726,Yoga para principiantes,motilada,fácil,69,40,0,"{'calories_estimate': 279, 'equipment': 'none', 'recommended': True}",2026-04-08 11:37:48,2026-04-16 11:37:48
+895,6782,Cardio intenso,corte de uñas,intermedio,77,83,1,"{'calories_estimate': 192, 'equipment': 'dumbbells', 'recommended': True}",2026-04-20 11:37:48,2026-04-21 11:37:48
+896,3584,Cardio intenso,desparasitada,avanzado,30,80,1,"{'calories_estimate': 562, 'equipment': 'full gym', 'recommended': False}",2026-04-05 11:37:48,2026-04-13 11:37:48
+897,436,Cardio intenso,motilada,avanzado,66,39,0,"{'calories_estimate': 659, 'equipment': 'none', 'recommended': True}",2026-04-10 11:37:48,2026-04-16 11:37:48
+898,2673,Entrenamiento funcional,desparasitada,intermedio,110,46,0,"{'calories_estimate': 400, 'equipment': 'none', 'recommended': True}",2026-04-04 11:37:48,2026-04-14 11:37:48
+899,4014,Entrenamiento funcional,esterilizacion,fácil,110,75,0,"{'calories_estimate': 737, 'equipment': 'dumbbells', 'recommended': False}",2026-04-30 11:37:48,2026-05-06 11:37:48
+900,7714,Entrenamiento funcional,esterilizacion,avanzado,27,70,1,"{'calories_estimate': 154, 'equipment': 'none', 'recommended': False}",2026-04-27 11:37:48,2026-05-01 11:37:48
+901,3591,Cardio intenso,motilada,intermedio,86,23,0,"{'calories_estimate': 104, 'equipment': 'dumbbells', 'recommended': True}",2026-04-02 11:37:48,2026-04-09 11:37:48
+902,6334,Cardio intenso,desparasitada,intermedio,115,3,0,"{'calories_estimate': 445, 'equipment': 'full gym', 'recommended': False}",2026-04-28 11:37:48,2026-05-02 11:37:48
+903,9742,Cardio intenso,desparasitada,avanzado,17,14,1,"{'calories_estimate': 287, 'equipment': 'dumbbells', 'recommended': True}",2026-04-08 11:37:48,2026-04-10 11:37:48
+904,7017,Baile fitness,vacunacion,intermedio,103,5,0,"{'calories_estimate': 112, 'equipment': 'none', 'recommended': False}",2026-04-20 11:37:48,2026-04-23 11:37:48
+905,155,Yoga para principiantes,vacunacion,avanzado,39,76,0,"{'calories_estimate': 231, 'equipment': 'none', 'recommended': True}",2026-04-16 11:37:48,2026-04-17 11:37:48
+906,6470,Yoga para principiantes,motilada,intermedio,101,21,1,"{'calories_estimate': 537, 'equipment': 'none', 'recommended': False}",2026-04-21 11:37:48,2026-04-26 11:37:48
+907,2316,Yoga para principiantes,corte de uñas,fácil,117,75,0,"{'calories_estimate': 323, 'equipment': 'full gym', 'recommended': True}",2026-04-29 11:37:48,2026-04-30 11:37:48
+908,4742,Entrenamiento de fuerza,desparasitada,intermedio,98,87,0,"{'calories_estimate': 454, 'equipment': 'none', 'recommended': False}",2026-04-24 11:37:48,2026-05-04 11:37:48
+909,8877,Entrenamiento de fuerza,vacunacion,avanzado,58,91,0,"{'calories_estimate': 333, 'equipment': 'dumbbells', 'recommended': True}",2026-04-24 11:37:48,2026-05-01 11:37:48
+910,9808,Entrenamiento de fuerza,vacunacion,intermedio,85,94,0,"{'calories_estimate': 216, 'equipment': 'full gym', 'recommended': True}",2026-04-29 11:37:48,2026-05-08 11:37:48
+911,9717,Baile fitness,esterilizacion,intermedio,16,14,0,"{'calories_estimate': 203, 'equipment': 'dumbbells', 'recommended': True}",2026-04-28 11:37:48,2026-05-06 11:37:48
+912,1706,Entrenamiento de fuerza,corte de uñas,intermedio,104,12,0,"{'calories_estimate': 690, 'equipment': 'none', 'recommended': False}",2026-04-02 11:37:48,2026-04-06 11:37:48
+913,3020,Entrenamiento funcional,esterilizacion,avanzado,50,8,0,"{'calories_estimate': 497, 'equipment': 'none', 'recommended': True}",2026-04-20 11:37:48,2026-04-30 11:37:48
+914,7518,Entrenamiento funcional,vacunacion,intermedio,29,37,0,"{'calories_estimate': 383, 'equipment': 'dumbbells', 'recommended': True}",2026-04-09 11:37:48,2026-04-19 11:37:48
+915,6024,Cardio intenso,corte de uñas,fácil,105,46,1,"{'calories_estimate': 586, 'equipment': 'dumbbells', 'recommended': False}",2026-04-26 11:37:48,2026-04-30 11:37:48
+916,358,Baile fitness,corte de uñas,intermedio,65,31,1,"{'calories_estimate': 499, 'equipment': 'none', 'recommended': True}",2026-04-25 11:37:48,2026-05-03 11:37:48
+917,3290,Cardio intenso,desparasitada,fácil,44,63,0,"{'calories_estimate': 778, 'equipment': 'none', 'recommended': True}",2026-04-02 11:37:48,2026-04-08 11:37:48
+918,3158,Entrenamiento de fuerza,esterilizacion,intermedio,90,7,1,"{'calories_estimate': 154, 'equipment': 'dumbbells', 'recommended': True}",2026-04-27 11:37:48,2026-05-03 11:37:48
+919,4118,Cardio intenso,corte de uñas,avanzado,102,71,1,"{'calories_estimate': 127, 'equipment': 'full gym', 'recommended': True}",2026-04-12 11:37:48,2026-04-19 11:37:48
+920,3530,Cardio intenso,motilada,intermedio,73,85,0,"{'calories_estimate': 381, 'equipment': 'dumbbells', 'recommended': False}",2026-04-12 11:37:48,2026-04-12 11:37:48
+921,6143,Cardio intenso,vacunacion,fácil,25,90,1,"{'calories_estimate': 234, 'equipment': 'full gym', 'recommended': True}",2026-05-01 11:37:48,2026-05-07 11:37:48
+922,6182,Baile fitness,esterilizacion,avanzado,116,41,0,"{'calories_estimate': 625, 'equipment': 'dumbbells', 'recommended': True}",2026-04-14 11:37:48,2026-04-19 11:37:48
+923,7553,Baile fitness,esterilizacion,fácil,73,93,0,"{'calories_estimate': 415, 'equipment': 'none', 'recommended': True}",2026-04-22 11:37:48,2026-04-30 11:37:48
+924,6176,Entrenamiento de fuerza,motilada,fácil,19,82,1,"{'calories_estimate': 349, 'equipment': 'dumbbells', 'recommended': True}",2026-04-27 11:37:48,2026-05-06 11:37:48
+925,2559,Baile fitness,motilada,intermedio,61,81,0,"{'calories_estimate': 432, 'equipment': 'full gym', 'recommended': False}",2026-04-17 11:37:48,2026-04-19 11:37:48
+926,8510,Entrenamiento funcional,esterilizacion,fácil,94,15,1,"{'calories_estimate': 521, 'equipment': 'full gym', 'recommended': True}",2026-05-01 11:37:48,2026-05-09 11:37:48
+927,371,Yoga para principiantes,desparasitada,avanzado,111,30,1,"{'calories_estimate': 775, 'equipment': 'none', 'recommended': False}",2026-04-14 11:37:48,2026-04-24 11:37:48
+928,1983,Yoga para principiantes,corte de uñas,avanzado,105,64,0,"{'calories_estimate': 643, 'equipment': 'dumbbells', 'recommended': True}",2026-04-05 11:37:48,2026-04-08 11:37:48
+929,6802,Entrenamiento funcional,corte de uñas,fácil,31,42,1,"{'calories_estimate': 599, 'equipment': 'full gym', 'recommended': True}",2026-04-16 11:37:48,2026-04-24 11:37:48
+930,5010,Yoga para principiantes,corte de uñas,intermedio,27,36,0,"{'calories_estimate': 679, 'equipment': 'none', 'recommended': False}",2026-04-19 11:37:48,2026-04-28 11:37:48
+931,9073,Baile fitness,esterilizacion,intermedio,86,3,0,"{'calories_estimate': 753, 'equipment': 'none', 'recommended': True}",2026-05-01 11:37:48,2026-05-04 11:37:48
+932,7398,Yoga para principiantes,esterilizacion,fácil,16,35,0,"{'calories_estimate': 687, 'equipment': 'dumbbells', 'recommended': True}",2026-04-12 11:37:48,2026-04-13 11:37:48
+933,9550,Baile fitness,desparasitada,fácil,99,62,0,"{'calories_estimate': 585, 'equipment': 'full gym', 'recommended': True}",2026-04-07 11:37:48,2026-04-12 11:37:48
+934,8820,Baile fitness,esterilizacion,intermedio,18,10,1,"{'calories_estimate': 395, 'equipment': 'dumbbells', 'recommended': False}",2026-04-21 11:37:48,2026-04-21 11:37:48
+935,3747,Entrenamiento funcional,corte de uñas,fácil,113,17,0,"{'calories_estimate': 708, 'equipment': 'dumbbells', 'recommended': True}",2026-04-18 11:37:48,2026-04-22 11:37:48
+936,4194,Entrenamiento funcional,vacunacion,fácil,16,98,1,"{'calories_estimate': 519, 'equipment': 'dumbbells', 'recommended': True}",2026-04-22 11:37:48,2026-04-30 11:37:48
+937,8077,Cardio intenso,corte de uñas,intermedio,64,12,1,"{'calories_estimate': 716, 'equipment': 'dumbbells', 'recommended': True}",2026-04-16 11:37:48,2026-04-19 11:37:48
+938,826,Baile fitness,vacunacion,avanzado,109,92,1,"{'calories_estimate': 634, 'equipment': 'full gym', 'recommended': True}",2026-04-30 11:37:48,2026-05-01 11:37:48
+939,2707,Entrenamiento funcional,corte de uñas,fácil,22,78,1,"{'calories_estimate': 106, 'equipment': 'dumbbells', 'recommended': False}",2026-04-03 11:37:48,2026-04-12 11:37:48
+940,1459,Cardio intenso,vacunacion,avanzado,110,77,1,"{'calories_estimate': 713, 'equipment': 'dumbbells', 'recommended': True}",2026-04-02 11:37:48,2026-04-08 11:37:48
+941,7695,Cardio intenso,motilada,fácil,21,77,0,"{'calories_estimate': 476, 'equipment': 'dumbbells', 'recommended': False}",2026-04-24 11:37:48,2026-05-02 11:37:48
+942,5771,Baile fitness,corte de uñas,avanzado,92,47,1,"{'calories_estimate': 197, 'equipment': 'none', 'recommended': False}",2026-04-02 11:37:48,2026-04-11 11:37:48
+943,6712,Entrenamiento de fuerza,motilada,intermedio,78,82,1,"{'calories_estimate': 392, 'equipment': 'full gym', 'recommended': True}",2026-04-06 11:37:48,2026-04-14 11:37:48
+944,2002,Cardio intenso,corte de uñas,avanzado,101,78,0,"{'calories_estimate': 677, 'equipment': 'full gym', 'recommended': False}",2026-04-30 11:37:48,2026-05-02 11:37:48
+945,6905,Cardio intenso,corte de uñas,intermedio,28,99,1,"{'calories_estimate': 457, 'equipment': 'none', 'recommended': True}",2026-04-08 11:37:48,2026-04-18 11:37:48
+946,2085,Entrenamiento de fuerza,corte de uñas,avanzado,100,9,0,"{'calories_estimate': 600, 'equipment': 'dumbbells', 'recommended': True}",2026-04-03 11:37:48,2026-04-06 11:37:48
+947,3869,Yoga para principiantes,motilada,intermedio,111,77,0,"{'calories_estimate': 406, 'equipment': 'none', 'recommended': False}",2026-04-07 11:37:48,2026-04-07 11:37:48
+948,7755,Entrenamiento funcional,motilada,intermedio,98,15,1,"{'calories_estimate': 477, 'equipment': 'dumbbells', 'recommended': True}",2026-04-14 11:37:48,2026-04-15 11:37:48
+949,6948,Baile fitness,desparasitada,fácil,97,75,0,"{'calories_estimate': 786, 'equipment': 'dumbbells', 'recommended': True}",2026-04-20 11:37:48,2026-04-26 11:37:48
+950,557,Entrenamiento funcional,desparasitada,intermedio,69,13,1,"{'calories_estimate': 740, 'equipment': 'full gym', 'recommended': False}",2026-05-02 11:37:48,2026-05-05 11:37:48
+951,2056,Entrenamiento de fuerza,esterilizacion,fácil,63,26,1,"{'calories_estimate': 562, 'equipment': 'none', 'recommended': False}",2026-05-02 11:37:48,2026-05-11 11:37:48
+952,6731,Baile fitness,esterilizacion,fácil,89,52,0,"{'calories_estimate': 410, 'equipment': 'dumbbells', 'recommended': False}",2026-04-11 11:37:48,2026-04-18 11:37:48
+953,9282,Baile fitness,motilada,fácil,42,99,1,"{'calories_estimate': 267, 'equipment': 'dumbbells', 'recommended': True}",2026-04-07 11:37:48,2026-04-07 11:37:48
+954,3001,Baile fitness,desparasitada,intermedio,61,33,0,"{'calories_estimate': 199, 'equipment': 'full gym', 'recommended': True}",2026-04-24 11:37:48,2026-04-29 11:37:48
+955,1503,Entrenamiento de fuerza,motilada,fácil,120,10,0,"{'calories_estimate': 351, 'equipment': 'full gym', 'recommended': True}",2026-05-01 11:37:48,2026-05-10 11:37:48
+956,8876,Yoga para principiantes,esterilizacion,fácil,111,94,1,"{'calories_estimate': 611, 'equipment': 'dumbbells', 'recommended': False}",2026-04-24 11:37:48,2026-04-30 11:37:48
+957,514,Cardio intenso,esterilizacion,intermedio,99,99,0,"{'calories_estimate': 638, 'equipment': 'full gym', 'recommended': True}",2026-04-09 11:37:48,2026-04-19 11:37:48
+958,8052,Yoga para principiantes,motilada,intermedio,67,31,0,"{'calories_estimate': 303, 'equipment': 'dumbbells', 'recommended': True}",2026-04-21 11:37:48,2026-04-21 11:37:48
+959,8828,Entrenamiento funcional,desparasitada,intermedio,13,48,1,"{'calories_estimate': 194, 'equipment': 'full gym', 'recommended': False}",2026-04-14 11:37:48,2026-04-14 11:37:48
+960,3389,Baile fitness,desparasitada,intermedio,11,29,0,"{'calories_estimate': 210, 'equipment': 'full gym', 'recommended': True}",2026-04-12 11:37:48,2026-04-16 11:37:48
+961,1383,Yoga para principiantes,esterilizacion,avanzado,88,79,0,"{'calories_estimate': 724, 'equipment': 'full gym', 'recommended': False}",2026-04-14 11:37:48,2026-04-22 11:37:48
+962,9790,Yoga para principiantes,motilada,intermedio,117,73,0,"{'calories_estimate': 144, 'equipment': 'dumbbells', 'recommended': True}",2026-04-26 11:37:48,2026-05-05 11:37:48
+963,4327,Entrenamiento de fuerza,corte de uñas,avanzado,32,100,0,"{'calories_estimate': 170, 'equipment': 'dumbbells', 'recommended': True}",2026-04-29 11:37:48,2026-05-03 11:37:48
+964,1002,Entrenamiento funcional,motilada,intermedio,83,88,1,"{'calories_estimate': 557, 'equipment': 'none', 'recommended': False}",2026-04-05 11:37:48,2026-04-11 11:37:48
+965,7282,Entrenamiento de fuerza,vacunacion,avanzado,48,33,1,"{'calories_estimate': 453, 'equipment': 'full gym', 'recommended': True}",2026-04-17 11:37:48,2026-04-22 11:37:48
+966,5295,Entrenamiento de fuerza,desparasitada,intermedio,55,60,1,"{'calories_estimate': 731, 'equipment': 'full gym', 'recommended': True}",2026-04-14 11:37:48,2026-04-19 11:37:48
+967,5388,Entrenamiento funcional,desparasitada,intermedio,100,25,0,"{'calories_estimate': 517, 'equipment': 'dumbbells', 'recommended': False}",2026-04-16 11:37:48,2026-04-21 11:37:48
+968,6066,Entrenamiento funcional,desparasitada,intermedio,13,23,1,"{'calories_estimate': 486, 'equipment': 'full gym', 'recommended': True}",2026-04-03 11:37:48,2026-04-06 11:37:48
+969,6405,Entrenamiento funcional,desparasitada,intermedio,32,10,1,"{'calories_estimate': 523, 'equipment': 'none', 'recommended': True}",2026-04-23 11:37:48,2026-04-28 11:37:48
+970,963,Entrenamiento funcional,esterilizacion,avanzado,70,63,1,"{'calories_estimate': 516, 'equipment': 'none', 'recommended': True}",2026-04-19 11:37:48,2026-04-21 11:37:48
+971,7867,Yoga para principiantes,esterilizacion,intermedio,64,85,0,"{'calories_estimate': 304, 'equipment': 'dumbbells', 'recommended': True}",2026-04-05 11:37:48,2026-04-12 11:37:48
+972,401,Yoga para principiantes,corte de uñas,avanzado,21,22,0,"{'calories_estimate': 279, 'equipment': 'full gym', 'recommended': False}",2026-04-26 11:37:48,2026-04-29 11:37:48
+973,3801,Yoga para principiantes,corte de uñas,avanzado,12,31,1,"{'calories_estimate': 661, 'equipment': 'dumbbells', 'recommended': True}",2026-04-20 11:37:48,2026-04-20 11:37:48
+974,1633,Entrenamiento de fuerza,desparasitada,fácil,120,27,1,"{'calories_estimate': 109, 'equipment': 'full gym', 'recommended': False}",2026-04-06 11:37:48,2026-04-13 11:37:48
+975,2643,Baile fitness,vacunacion,fácil,41,96,0,"{'calories_estimate': 218, 'equipment': 'full gym', 'recommended': True}",2026-04-09 11:37:48,2026-04-13 11:37:48
+976,1647,Entrenamiento funcional,esterilizacion,fácil,118,4,0,"{'calories_estimate': 351, 'equipment': 'dumbbells', 'recommended': False}",2026-04-18 11:37:48,2026-04-25 11:37:48
+977,5786,Yoga para principiantes,esterilizacion,fácil,116,29,1,"{'calories_estimate': 260, 'equipment': 'dumbbells', 'recommended': False}",2026-04-29 11:37:48,2026-05-09 11:37:48
+978,3113,Entrenamiento funcional,corte de uñas,avanzado,86,43,1,"{'calories_estimate': 438, 'equipment': 'none', 'recommended': False}",2026-04-22 11:37:48,2026-04-22 11:37:48
+979,7126,Baile fitness,vacunacion,avanzado,12,1,0,"{'calories_estimate': 119, 'equipment': 'full gym', 'recommended': False}",2026-04-03 11:37:48,2026-04-13 11:37:48
+980,3594,Cardio intenso,vacunacion,fácil,89,60,1,"{'calories_estimate': 284, 'equipment': 'full gym', 'recommended': True}",2026-04-24 11:37:48,2026-04-24 11:37:48
+981,4475,Baile fitness,esterilizacion,intermedio,20,68,0,"{'calories_estimate': 328, 'equipment': 'dumbbells', 'recommended': False}",2026-04-24 11:37:48,2026-04-27 11:37:48
+982,5082,Entrenamiento funcional,desparasitada,intermedio,84,46,1,"{'calories_estimate': 497, 'equipment': 'none', 'recommended': True}",2026-05-02 11:37:48,2026-05-03 11:37:48
+983,4372,Entrenamiento de fuerza,corte de uñas,fácil,35,79,0,"{'calories_estimate': 376, 'equipment': 'none', 'recommended': False}",2026-04-25 11:37:48,2026-04-26 11:37:48
+984,3992,Entrenamiento funcional,motilada,intermedio,44,55,0,"{'calories_estimate': 135, 'equipment': 'none', 'recommended': True}",2026-04-23 11:37:48,2026-05-01 11:37:48
+985,7640,Yoga para principiantes,corte de uñas,intermedio,39,99,0,"{'calories_estimate': 296, 'equipment': 'none', 'recommended': True}",2026-04-10 11:37:48,2026-04-13 11:37:48
+986,377,Entrenamiento funcional,desparasitada,avanzado,80,64,1,"{'calories_estimate': 318, 'equipment': 'dumbbells', 'recommended': False}",2026-04-27 11:37:48,2026-05-06 11:37:48
+987,9525,Entrenamiento de fuerza,desparasitada,fácil,46,6,1,"{'calories_estimate': 351, 'equipment': 'dumbbells', 'recommended': False}",2026-04-26 11:37:48,2026-04-27 11:37:48
+988,3105,Cardio intenso,esterilizacion,fácil,32,68,1,"{'calories_estimate': 396, 'equipment': 'none', 'recommended': True}",2026-04-19 11:37:48,2026-04-21 11:37:48
+989,4407,Yoga para principiantes,motilada,intermedio,61,48,1,"{'calories_estimate': 661, 'equipment': 'dumbbells', 'recommended': False}",2026-04-22 11:37:48,2026-04-25 11:37:48
+990,4133,Entrenamiento de fuerza,desparasitada,fácil,74,53,0,"{'calories_estimate': 555, 'equipment': 'none', 'recommended': True}",2026-04-13 11:37:48,2026-04-23 11:37:48
+991,3643,Entrenamiento funcional,vacunacion,fácil,61,75,0,"{'calories_estimate': 628, 'equipment': 'none', 'recommended': True}",2026-04-28 11:37:48,2026-05-02 11:37:48
+992,6928,Baile fitness,desparasitada,intermedio,17,86,1,"{'calories_estimate': 590, 'equipment': 'dumbbells', 'recommended': False}",2026-04-25 11:37:48,2026-05-02 11:37:48
+993,521,Entrenamiento de fuerza,corte de uñas,fácil,78,27,0,"{'calories_estimate': 566, 'equipment': 'none', 'recommended': True}",2026-04-04 11:37:48,2026-04-05 11:37:48
+994,7288,Yoga para principiantes,esterilizacion,intermedio,55,37,0,"{'calories_estimate': 437, 'equipment': 'dumbbells', 'recommended': False}",2026-04-17 11:37:48,2026-04-22 11:37:48
+995,5544,Cardio intenso,corte de uñas,intermedio,77,38,0,"{'calories_estimate': 238, 'equipment': 'dumbbells', 'recommended': False}",2026-04-02 11:37:48,2026-04-05 11:37:48
+996,5709,Entrenamiento funcional,corte de uñas,intermedio,84,99,1,"{'calories_estimate': 667, 'equipment': 'full gym', 'recommended': True}",2026-04-27 11:37:48,2026-05-01 11:37:48
+997,2503,Cardio intenso,desparasitada,fácil,47,42,0,"{'calories_estimate': 537, 'equipment': 'full gym', 'recommended': True}",2026-04-12 11:37:48,2026-04-18 11:37:48
+998,4041,Entrenamiento funcional,desparasitada,avanzado,48,2,0,"{'calories_estimate': 542, 'equipment': 'none', 'recommended': True}",2026-04-10 11:37:48,2026-04-17 11:37:48
+999,9091,Baile fitness,corte de uñas,intermedio,93,34,1,"{'calories_estimate': 119, 'equipment': 'none', 'recommended': True}",2026-05-01 11:37:48,2026-05-01 11:37:48
