@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 
 def generar_rutinas(num_rutinas):
     titulos = ["Entrenamiento de fuerza", "Yoga para principiantes", "Cardio intenso", "Entrenamiento funcional", "Baile fitness"]
-    descripciones = ["motilada", "desparasitada", "vacunacion", "esterilizacion", "corte de uñas"]
+    descripciones = ["Rutina enfocada en el desarrollo de fuerza y masa muscular. Ideal para quienes buscan progresar en levantamientos básicos y mejorar su rendimiento físico general.", "Rutina enfocada en el desarrollo de fuerza y masa muscular. Ideal para quienes buscan progresar en levantamientos básicos y mejorar su rendimiento físico general.", "Entrenamiento estructurado para trabajar todos los grupos musculares con cargas progresivas. Perfecto para niveles intermedios y avanzados.", "Sesiones de alta intensidad que combinan cardio y fuerza para maximizar la quema calórica en pocos minutos.", "Ejercicios suaves enfocados en la movilidad articular, flexibilidad y prevención de lesiones."]
     dificultades = ["fácil", "intermedio", "avanzado"]
     rutinas = []
     ahora = datetime.now()
