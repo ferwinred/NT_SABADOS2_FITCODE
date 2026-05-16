@@ -1,0 +1,1001 @@
+,id,usuario,tipo_video,codigo,duracion_min,calorias_quemadas,fecha
+0,154,user03,rutina cardio,vid001,19,120,2026-02-12
+1,2,user02,yoga,vid003,20,114,2026-01-05
+2,177,user01,entrenamiento fuerza,vid002,30,66,2026-01-14
+3,105,user02,rutina cardio,vid001,19,186,2026-02-22
+4,9,user03,yoga,vid003,20,398,2026-02-15
+5,1,user02,yoga,vid003,20,356,2026-02-23
+6,115,user04,yoga,vid003,20,340,2026-02-22
+7,44,user01,entrenamiento fuerza,vid002,30,354,2026-03-01
+8,89,user03,yoga,vid003,20,373,2026-01-30
+9,118,user04,yoga,vid003,20,161,2026-01-14
+10,154,user02,rutina cardio,vid001,19,193,2026-02-25
+11,52,user01,yoga,vid003,20,62,2026-01-05
+12,86,user04,entrenamiento fuerza,vid002,30,112,2026-03-03
+13,126,user01,rutina cardio,vid001,19,129,2026-01-08
+14,8,user03,yoga,vid003,20,296,2026-01-24
+15,46,user01,entrenamiento fuerza,vid002,30,377,2026-02-08
+16,180,user04,yoga,vid003,20,207,2026-03-03
+17,25,user04,entrenamiento fuerza,vid002,30,101,2026-02-04
+18,194,user02,entrenamiento fuerza,vid002,30,313,2026-02-08
+19,30,user01,rutina cardio,vid001,19,76,2026-01-21
+20,109,user01,rutina cardio,vid001,19,344,2026-01-21
+21,64,user03,entrenamiento fuerza,vid002,30,88,2026-02-16
+22,194,user02,yoga,vid003,20,290,2026-01-05
+23,196,user03,rutina cardio,vid001,19,96,2026-01-12
+24,1,user02,yoga,vid003,20,50,2026-01-21
+25,149,user03,yoga,vid003,20,377,2026-01-13
+26,166,user04,yoga,vid003,20,393,2026-02-13
+27,190,user02,entrenamiento fuerza,vid002,30,66,2026-01-08
+28,22,user04,entrenamiento fuerza,vid002,30,83,2026-01-04
+29,34,user02,rutina cardio,vid001,19,60,2026-03-01
+30,123,user02,yoga,vid003,20,218,2026-01-10
+31,123,user04,rutina cardio,vid001,19,119,2026-02-24
+32,105,user01,rutina cardio,vid001,19,255,2026-01-25
+33,19,user04,yoga,vid003,20,155,2026-01-31
+34,118,user04,yoga,vid003,20,76,2026-02-14
+35,21,user04,rutina cardio,vid001,19,306,2026-01-07
+36,115,user04,entrenamiento fuerza,vid002,30,222,2026-02-04
+37,79,user01,entrenamiento fuerza,vid002,30,264,2026-01-14
+38,38,user01,entrenamiento fuerza,vid002,30,210,2026-01-30
+39,31,user04,yoga,vid003,20,311,2026-02-15
+40,182,user03,rutina cardio,vid001,19,133,2026-02-27
+41,1,user04,entrenamiento fuerza,vid002,30,357,2026-02-14
+42,32,user01,entrenamiento fuerza,vid002,30,204,2026-01-18
+43,200,user04,rutina cardio,vid001,19,165,2026-02-20
+44,152,user04,rutina cardio,vid001,19,234,2026-01-19
+45,82,user03,rutina cardio,vid001,19,251,2026-02-28
+46,138,user01,entrenamiento fuerza,vid002,30,152,2026-01-16
+47,42,user01,entrenamiento fuerza,vid002,30,329,2026-01-19
+48,103,user01,yoga,vid003,20,373,2026-01-28
+49,106,user03,entrenamiento fuerza,vid002,30,193,2026-02-01
+50,155,user02,entrenamiento fuerza,vid002,30,184,2026-02-06
+51,81,user01,entrenamiento fuerza,vid002,30,241,2026-02-28
+52,55,user01,entrenamiento fuerza,vid002,30,194,2026-02-22
+53,178,user03,entrenamiento fuerza,vid002,30,304,2026-01-13
+54,125,user02,yoga,vid003,20,111,2026-01-16
+55,168,user03,yoga,vid003,20,318,2026-02-17
+56,2,user02,entrenamiento fuerza,vid002,30,306,2026-02-05
+57,8,user03,rutina cardio,vid001,19,394,2026-02-04
+58,28,user04,yoga,vid003,20,237,2026-01-04
+59,155,user03,entrenamiento fuerza,vid002,30,182,2026-01-08
+60,184,user03,yoga,vid003,20,359,2026-01-29
+61,192,user01,yoga,vid003,20,334,2026-02-28
+62,100,user01,entrenamiento fuerza,vid002,30,297,2026-02-08
+63,157,user01,yoga,vid003,20,276,2026-01-16
+64,28,user01,yoga,vid003,20,262,2026-02-03
+65,85,user04,entrenamiento fuerza,vid002,30,137,2026-03-02
+66,69,user03,yoga,vid003,20,173,2026-01-13
+67,98,user02,entrenamiento fuerza,vid002,30,171,2026-01-20
+68,81,user01,entrenamiento fuerza,vid002,30,58,2026-03-03
+69,184,user03,yoga,vid003,20,259,2026-02-05
+70,128,user03,rutina cardio,vid001,19,228,2026-02-10
+71,1,user03,yoga,vid003,20,255,2026-02-17
+72,128,user04,yoga,vid003,20,75,2026-03-02
+73,191,user04,yoga,vid003,20,89,2026-02-16
+74,98,user02,rutina cardio,vid001,19,240,2026-01-04
+75,156,user02,yoga,vid003,20,110,2026-02-12
+76,33,user02,entrenamiento fuerza,vid002,30,319,2026-02-06
+77,196,user04,rutina cardio,vid001,19,151,2026-02-22
+78,22,user03,rutina cardio,vid001,19,141,2026-02-19
+79,124,user04,rutina cardio,vid001,19,176,2026-02-13
+80,13,user02,yoga,vid003,20,106,2026-01-02
+81,64,user02,rutina cardio,vid001,19,330,2026-02-25
+82,185,user01,yoga,vid003,20,322,2026-02-15
+83,103,user01,yoga,vid003,20,222,2026-01-24
+84,91,user03,rutina cardio,vid001,19,139,2026-02-15
+85,178,user02,rutina cardio,vid001,19,344,2026-02-06
+86,16,user04,rutina cardio,vid001,19,398,2026-01-05
+87,118,user03,rutina cardio,vid001,19,275,2026-01-06
+88,161,user03,yoga,vid003,20,78,2026-02-23
+89,43,user01,entrenamiento fuerza,vid002,30,264,2026-01-16
+90,39,user01,yoga,vid003,20,213,2026-01-20
+91,166,user02,yoga,vid003,20,376,2026-02-19
+92,1,user04,yoga,vid003,20,377,2026-02-09
+93,174,user01,yoga,vid003,20,305,2026-02-21
+94,113,user04,rutina cardio,vid001,19,278,2026-03-01
+95,153,user02,rutina cardio,vid001,19,319,2026-01-10
+96,83,user02,yoga,vid003,20,390,2026-02-18
+97,36,user03,rutina cardio,vid001,19,290,2026-01-11
+98,34,user02,entrenamiento fuerza,vid002,30,181,2026-01-19
+99,16,user03,entrenamiento fuerza,vid002,30,52,2026-02-02
+100,38,user03,entrenamiento fuerza,vid002,30,208,2026-01-18
+101,19,user01,yoga,vid003,20,315,2026-01-27
+102,97,user01,yoga,vid003,20,393,2026-01-06
+103,189,user04,entrenamiento fuerza,vid002,30,142,2026-01-15
+104,20,user03,entrenamiento fuerza,vid002,30,116,2026-01-16
+105,42,user01,rutina cardio,vid001,19,263,2026-01-17
+106,200,user04,yoga,vid003,20,104,2026-01-09
+107,26,user03,entrenamiento fuerza,vid002,30,94,2026-02-10
+108,158,user03,entrenamiento fuerza,vid002,30,234,2026-01-11
+109,76,user03,entrenamiento fuerza,vid002,30,244,2026-01-31
+110,131,user03,entrenamiento fuerza,vid002,30,172,2026-01-22
+111,30,user02,rutina cardio,vid001,19,357,2026-01-04
+112,196,user01,yoga,vid003,20,293,2026-01-31
+113,192,user02,rutina cardio,vid001,19,307,2026-01-25
+114,99,user02,entrenamiento fuerza,vid002,30,285,2026-01-30
+115,146,user02,yoga,vid003,20,216,2026-01-25
+116,35,user01,entrenamiento fuerza,vid002,30,157,2026-01-22
+117,175,user02,rutina cardio,vid001,19,82,2026-02-09
+118,197,user02,yoga,vid003,20,279,2026-02-23
+119,182,user01,rutina cardio,vid001,19,352,2026-01-13
+120,140,user02,yoga,vid003,20,272,2026-01-27
+121,41,user04,entrenamiento fuerza,vid002,30,165,2026-02-05
+122,134,user02,yoga,vid003,20,339,2026-02-13
+123,22,user04,entrenamiento fuerza,vid002,30,73,2026-01-09
+124,22,user02,yoga,vid003,20,231,2026-02-08
+125,107,user04,yoga,vid003,20,54,2026-01-19
+126,188,user02,entrenamiento fuerza,vid002,30,398,2026-01-19
+127,53,user03,entrenamiento fuerza,vid002,30,352,2026-01-05
+128,35,user04,entrenamiento fuerza,vid002,30,193,2026-02-09
+129,179,user02,rutina cardio,vid001,19,276,2026-01-08
+130,75,user03,yoga,vid003,20,154,2026-01-30
+131,185,user03,rutina cardio,vid001,19,341,2026-01-25
+132,89,user01,entrenamiento fuerza,vid002,30,117,2026-01-25
+133,64,user03,yoga,vid003,20,166,2026-01-29
+134,169,user04,yoga,vid003,20,161,2026-02-20
+135,111,user03,yoga,vid003,20,176,2026-02-08
+136,105,user02,rutina cardio,vid001,19,56,2026-01-19
+137,133,user04,yoga,vid003,20,235,2026-02-01
+138,18,user02,rutina cardio,vid001,19,223,2026-01-28
+139,27,user01,rutina cardio,vid001,19,131,2026-02-02
+140,14,user01,entrenamiento fuerza,vid002,30,371,2026-01-05
+141,105,user02,yoga,vid003,20,321,2026-02-11
+142,41,user03,entrenamiento fuerza,vid002,30,357,2026-01-05
+143,2,user04,rutina cardio,vid001,19,158,2026-01-30
+144,4,user03,yoga,vid003,20,204,2026-01-26
+145,41,user01,rutina cardio,vid001,19,82,2026-02-26
+146,9,user03,yoga,vid003,20,147,2026-02-02
+147,89,user01,rutina cardio,vid001,19,173,2026-02-02
+148,42,user02,entrenamiento fuerza,vid002,30,62,2026-01-17
+149,76,user01,yoga,vid003,20,158,2026-02-28
+150,130,user02,yoga,vid003,20,310,2026-01-27
+151,180,user01,entrenamiento fuerza,vid002,30,260,2026-01-17
+152,165,user01,yoga,vid003,20,147,2026-02-02
+153,47,user01,yoga,vid003,20,335,2026-01-07
+154,186,user04,yoga,vid003,20,238,2026-01-18
+155,22,user02,rutina cardio,vid001,19,79,2026-02-08
+156,175,user04,rutina cardio,vid001,19,169,2026-01-21
+157,37,user03,rutina cardio,vid001,19,124,2026-02-08
+158,169,user03,entrenamiento fuerza,vid002,30,217,2026-02-24
+159,124,user03,yoga,vid003,20,125,2026-02-13
+160,12,user03,entrenamiento fuerza,vid002,30,186,2026-01-18
+161,79,user03,yoga,vid003,20,319,2026-02-10
+162,117,user01,rutina cardio,vid001,19,50,2026-02-08
+163,54,user02,yoga,vid003,20,127,2026-02-07
+164,121,user03,entrenamiento fuerza,vid002,30,209,2026-01-20
+165,104,user04,entrenamiento fuerza,vid002,30,252,2026-01-18
+166,99,user02,yoga,vid003,20,297,2026-01-08
+167,197,user02,yoga,vid003,20,190,2026-02-09
+168,156,user01,yoga,vid003,20,279,2026-01-07
+169,162,user02,entrenamiento fuerza,vid002,30,285,2026-01-08
+170,83,user01,yoga,vid003,20,176,2026-01-10
+171,41,user02,entrenamiento fuerza,vid002,30,155,2026-02-04
+172,136,user04,entrenamiento fuerza,vid002,30,260,2026-01-04
+173,110,user04,yoga,vid003,20,182,2026-02-11
+174,116,user03,yoga,vid003,20,390,2026-01-22
+175,35,user01,rutina cardio,vid001,19,149,2026-01-27
+176,2,user03,entrenamiento fuerza,vid002,30,193,2026-02-09
+177,176,user04,yoga,vid003,20,142,2026-01-19
+178,54,user04,yoga,vid003,20,141,2026-01-17
+179,130,user04,yoga,vid003,20,322,2026-02-01
+180,105,user04,rutina cardio,vid001,19,200,2026-02-19
+181,12,user01,rutina cardio,vid001,19,128,2026-01-04
+182,139,user01,entrenamiento fuerza,vid002,30,132,2026-01-28
+183,92,user04,yoga,vid003,20,120,2026-02-12
+184,25,user04,rutina cardio,vid001,19,261,2026-02-22
+185,24,user01,yoga,vid003,20,326,2026-01-13
+186,35,user01,entrenamiento fuerza,vid002,30,354,2026-02-11
+187,106,user03,entrenamiento fuerza,vid002,30,142,2026-01-02
+188,44,user03,rutina cardio,vid001,19,342,2026-03-03
+189,148,user04,entrenamiento fuerza,vid002,30,157,2026-01-05
+190,80,user03,rutina cardio,vid001,19,323,2026-01-05
+191,51,user01,entrenamiento fuerza,vid002,30,189,2026-02-04
+192,77,user04,rutina cardio,vid001,19,337,2026-01-05
+193,25,user02,yoga,vid003,20,333,2026-02-19
+194,37,user02,rutina cardio,vid001,19,112,2026-01-30
+195,70,user01,rutina cardio,vid001,19,363,2026-03-03
+196,147,user04,entrenamiento fuerza,vid002,30,387,2026-01-24
+197,86,user03,rutina cardio,vid001,19,204,2026-01-16
+198,106,user03,entrenamiento fuerza,vid002,30,215,2026-02-05
+199,63,user03,entrenamiento fuerza,vid002,30,389,2026-02-23
+200,180,user01,yoga,vid003,20,101,2026-01-07
+201,149,user01,rutina cardio,vid001,19,286,2026-02-06
+202,118,user04,yoga,vid003,20,307,2026-02-21
+203,107,user03,entrenamiento fuerza,vid002,30,222,2026-01-04
+204,128,user03,yoga,vid003,20,292,2026-02-03
+205,82,user02,entrenamiento fuerza,vid002,30,306,2026-01-11
+206,163,user04,yoga,vid003,20,249,2026-02-23
+207,124,user03,yoga,vid003,20,77,2026-01-31
+208,169,user04,entrenamiento fuerza,vid002,30,305,2026-02-04
+209,123,user03,rutina cardio,vid001,19,55,2026-02-21
+210,13,user02,rutina cardio,vid001,19,375,2026-02-20
+211,93,user02,entrenamiento fuerza,vid002,30,279,2026-01-12
+212,128,user01,yoga,vid003,20,328,2026-02-24
+213,170,user04,yoga,vid003,20,97,2026-02-23
+214,43,user01,entrenamiento fuerza,vid002,30,163,2026-02-18
+215,24,user04,rutina cardio,vid001,19,132,2026-02-11
+216,130,user01,yoga,vid003,20,243,2026-01-15
+217,173,user01,rutina cardio,vid001,19,119,2026-02-14
+218,189,user02,rutina cardio,vid001,19,145,2026-02-28
+219,81,user03,rutina cardio,vid001,19,239,2026-01-27
+220,19,user03,rutina cardio,vid001,19,248,2026-02-02
+221,117,user01,entrenamiento fuerza,vid002,30,299,2026-01-10
+222,1,user04,entrenamiento fuerza,vid002,30,193,2026-01-16
+223,55,user01,entrenamiento fuerza,vid002,30,261,2026-01-21
+224,156,user02,entrenamiento fuerza,vid002,30,346,2026-02-01
+225,120,user01,entrenamiento fuerza,vid002,30,264,2026-03-01
+226,46,user01,rutina cardio,vid001,19,106,2026-01-31
+227,47,user04,yoga,vid003,20,399,2026-01-25
+228,73,user03,entrenamiento fuerza,vid002,30,100,2026-01-31
+229,195,user01,entrenamiento fuerza,vid002,30,54,2026-01-07
+230,152,user01,entrenamiento fuerza,vid002,30,242,2026-02-10
+231,119,user02,entrenamiento fuerza,vid002,30,143,2026-02-01
+232,132,user04,rutina cardio,vid001,19,246,2026-01-20
+233,164,user01,entrenamiento fuerza,vid002,30,132,2026-01-27
+234,128,user01,yoga,vid003,20,109,2026-02-22
+235,85,user01,rutina cardio,vid001,19,63,2026-02-12
+236,130,user02,rutina cardio,vid001,19,370,2026-02-02
+237,57,user03,yoga,vid003,20,194,2026-01-26
+238,50,user01,entrenamiento fuerza,vid002,30,362,2026-01-04
+239,22,user03,yoga,vid003,20,302,2026-02-09
+240,59,user02,rutina cardio,vid001,19,106,2026-01-27
+241,194,user01,rutina cardio,vid001,19,244,2026-02-01
+242,54,user03,entrenamiento fuerza,vid002,30,198,2026-02-24
+243,5,user02,rutina cardio,vid001,19,225,2026-01-03
+244,179,user04,yoga,vid003,20,89,2026-01-14
+245,110,user01,entrenamiento fuerza,vid002,30,381,2026-01-16
+246,96,user02,rutina cardio,vid001,19,181,2026-01-25
+247,186,user01,entrenamiento fuerza,vid002,30,182,2026-03-03
+248,189,user04,entrenamiento fuerza,vid002,30,314,2026-02-20
+249,147,user02,rutina cardio,vid001,19,295,2026-01-08
+250,190,user01,yoga,vid003,20,343,2026-01-04
+251,19,user04,entrenamiento fuerza,vid002,30,52,2026-02-10
+252,46,user01,yoga,vid003,20,136,2026-03-03
+253,68,user01,entrenamiento fuerza,vid002,30,73,2026-01-29
+254,131,user03,yoga,vid003,20,73,2026-02-18
+255,20,user04,rutina cardio,vid001,19,300,2026-01-30
+256,7,user01,rutina cardio,vid001,19,155,2026-01-03
+257,7,user01,entrenamiento fuerza,vid002,30,311,2026-02-21
+258,32,user01,entrenamiento fuerza,vid002,30,63,2026-01-25
+259,104,user01,yoga,vid003,20,66,2026-01-22
+260,172,user03,entrenamiento fuerza,vid002,30,169,2026-01-14
+261,98,user03,rutina cardio,vid001,19,329,2026-02-27
+262,58,user03,rutina cardio,vid001,19,79,2026-03-03
+263,86,user04,yoga,vid003,20,309,2026-01-29
+264,64,user02,yoga,vid003,20,91,2026-02-07
+265,115,user04,yoga,vid003,20,354,2026-02-03
+266,18,user02,entrenamiento fuerza,vid002,30,396,2026-02-24
+267,109,user02,yoga,vid003,20,307,2026-01-22
+268,81,user01,yoga,vid003,20,309,2026-01-19
+269,56,user02,yoga,vid003,20,238,2026-02-10
+270,42,user03,entrenamiento fuerza,vid002,30,319,2026-02-26
+271,97,user01,entrenamiento fuerza,vid002,30,344,2026-01-11
+272,116,user02,yoga,vid003,20,269,2026-02-18
+273,157,user01,entrenamiento fuerza,vid002,30,72,2026-02-19
+274,158,user02,yoga,vid003,20,379,2026-01-26
+275,34,user02,entrenamiento fuerza,vid002,30,55,2026-02-01
+276,47,user01,entrenamiento fuerza,vid002,30,311,2026-01-19
+277,32,user02,yoga,vid003,20,159,2026-03-02
+278,32,user02,entrenamiento fuerza,vid002,30,112,2026-02-16
+279,109,user02,rutina cardio,vid001,19,56,2026-01-13
+280,141,user01,yoga,vid003,20,231,2026-02-17
+281,83,user01,yoga,vid003,20,171,2026-01-19
+282,157,user01,yoga,vid003,20,100,2026-01-26
+283,102,user02,entrenamiento fuerza,vid002,30,73,2026-01-15
+284,23,user03,yoga,vid003,20,224,2026-01-21
+285,86,user03,yoga,vid003,20,165,2026-02-08
+286,97,user02,yoga,vid003,20,121,2026-02-26
+287,154,user03,entrenamiento fuerza,vid002,30,334,2026-01-04
+288,78,user03,rutina cardio,vid001,19,374,2026-02-22
+289,121,user04,entrenamiento fuerza,vid002,30,101,2026-03-02
+290,13,user03,rutina cardio,vid001,19,207,2026-01-05
+291,178,user04,yoga,vid003,20,256,2026-01-12
+292,91,user03,rutina cardio,vid001,19,305,2026-02-22
+293,119,user04,yoga,vid003,20,300,2026-02-27
+294,14,user01,entrenamiento fuerza,vid002,30,166,2026-02-24
+295,193,user01,yoga,vid003,20,382,2026-01-05
+296,172,user03,rutina cardio,vid001,19,397,2026-01-03
+297,40,user04,entrenamiento fuerza,vid002,30,67,2026-01-23
+298,113,user02,yoga,vid003,20,308,2026-01-20
+299,86,user01,rutina cardio,vid001,19,58,2026-02-25
+300,20,user02,entrenamiento fuerza,vid002,30,308,2026-02-21
+301,156,user03,rutina cardio,vid001,19,212,2026-01-14
+302,107,user03,rutina cardio,vid001,19,175,2026-01-15
+303,82,user02,yoga,vid003,20,334,2026-01-24
+304,40,user03,yoga,vid003,20,103,2026-01-23
+305,199,user04,yoga,vid003,20,318,2026-01-23
+306,42,user03,entrenamiento fuerza,vid002,30,96,2026-02-20
+307,20,user04,entrenamiento fuerza,vid002,30,341,2026-02-15
+308,29,user01,rutina cardio,vid001,19,379,2026-01-13
+309,99,user02,yoga,vid003,20,157,2026-01-05
+310,133,user03,yoga,vid003,20,258,2026-01-29
+311,101,user01,yoga,vid003,20,225,2026-03-02
+312,1,user02,yoga,vid003,20,350,2026-01-15
+313,57,user04,rutina cardio,vid001,19,113,2026-03-03
+314,169,user04,yoga,vid003,20,208,2026-02-28
+315,9,user02,rutina cardio,vid001,19,255,2026-02-25
+316,143,user02,rutina cardio,vid001,19,360,2026-01-02
+317,5,user02,entrenamiento fuerza,vid002,30,243,2026-02-04
+318,56,user03,yoga,vid003,20,356,2026-02-17
+319,170,user03,rutina cardio,vid001,19,304,2026-02-22
+320,157,user01,yoga,vid003,20,333,2026-02-28
+321,90,user02,entrenamiento fuerza,vid002,30,328,2026-02-23
+322,85,user01,rutina cardio,vid001,19,115,2026-02-05
+323,196,user03,rutina cardio,vid001,19,163,2026-02-14
+324,51,user02,rutina cardio,vid001,19,179,2026-01-31
+325,200,user04,yoga,vid003,20,57,2026-02-27
+326,151,user01,entrenamiento fuerza,vid002,30,166,2026-01-03
+327,169,user03,entrenamiento fuerza,vid002,30,188,2026-02-07
+328,64,user04,yoga,vid003,20,299,2026-02-12
+329,111,user02,rutina cardio,vid001,19,308,2026-03-03
+330,72,user02,entrenamiento fuerza,vid002,30,287,2026-01-29
+331,57,user04,entrenamiento fuerza,vid002,30,212,2026-03-03
+332,141,user03,entrenamiento fuerza,vid002,30,177,2026-02-25
+333,153,user04,yoga,vid003,20,142,2026-01-05
+334,152,user01,rutina cardio,vid001,19,260,2026-01-25
+335,127,user01,rutina cardio,vid001,19,167,2026-01-15
+336,124,user01,rutina cardio,vid001,19,153,2026-01-19
+337,79,user02,rutina cardio,vid001,19,169,2026-01-09
+338,118,user04,yoga,vid003,20,207,2026-01-25
+339,45,user04,rutina cardio,vid001,19,119,2026-01-25
+340,91,user04,yoga,vid003,20,76,2026-01-18
+341,66,user04,entrenamiento fuerza,vid002,30,266,2026-01-16
+342,17,user02,yoga,vid003,20,110,2026-01-05
+343,25,user02,entrenamiento fuerza,vid002,30,215,2026-02-27
+344,83,user03,rutina cardio,vid001,19,78,2026-02-28
+345,141,user04,yoga,vid003,20,375,2026-01-15
+346,136,user01,rutina cardio,vid001,19,216,2026-02-21
+347,138,user03,yoga,vid003,20,291,2026-01-06
+348,85,user02,entrenamiento fuerza,vid002,30,295,2026-02-24
+349,39,user01,yoga,vid003,20,79,2026-02-25
+350,122,user01,rutina cardio,vid001,19,337,2026-01-16
+351,179,user01,rutina cardio,vid001,19,180,2026-01-19
+352,92,user04,entrenamiento fuerza,vid002,30,261,2026-01-21
+353,31,user03,entrenamiento fuerza,vid002,30,115,2026-02-17
+354,73,user04,entrenamiento fuerza,vid002,30,365,2026-03-03
+355,168,user01,yoga,vid003,20,183,2026-02-08
+356,1,user02,rutina cardio,vid001,19,136,2026-03-03
+357,57,user01,yoga,vid003,20,249,2026-01-06
+358,165,user03,yoga,vid003,20,265,2026-01-30
+359,37,user03,rutina cardio,vid001,19,80,2026-01-15
+360,54,user03,entrenamiento fuerza,vid002,30,348,2026-01-13
+361,67,user02,yoga,vid003,20,243,2026-01-14
+362,10,user02,entrenamiento fuerza,vid002,30,220,2026-01-27
+363,143,user01,rutina cardio,vid001,19,185,2026-01-24
+364,156,user04,yoga,vid003,20,201,2026-01-03
+365,133,user02,rutina cardio,vid001,19,337,2026-02-18
+366,30,user02,rutina cardio,vid001,19,247,2026-01-10
+367,29,user02,yoga,vid003,20,202,2026-01-09
+368,181,user04,rutina cardio,vid001,19,72,2026-01-10
+369,161,user04,yoga,vid003,20,268,2026-01-04
+370,99,user03,rutina cardio,vid001,19,360,2026-02-10
+371,158,user02,entrenamiento fuerza,vid002,30,361,2026-03-01
+372,79,user01,entrenamiento fuerza,vid002,30,339,2026-02-22
+373,111,user02,rutina cardio,vid001,19,352,2026-02-10
+374,196,user04,rutina cardio,vid001,19,291,2026-02-17
+375,156,user04,rutina cardio,vid001,19,302,2026-02-02
+376,8,user01,yoga,vid003,20,172,2026-02-09
+377,127,user03,yoga,vid003,20,252,2026-02-24
+378,193,user04,entrenamiento fuerza,vid002,30,318,2026-01-02
+379,150,user02,yoga,vid003,20,81,2026-01-20
+380,28,user04,rutina cardio,vid001,19,358,2026-01-04
+381,52,user01,entrenamiento fuerza,vid002,30,366,2026-01-29
+382,142,user03,entrenamiento fuerza,vid002,30,245,2026-01-18
+383,101,user02,entrenamiento fuerza,vid002,30,91,2026-02-10
+384,60,user03,entrenamiento fuerza,vid002,30,97,2026-01-09
+385,82,user01,yoga,vid003,20,64,2026-01-23
+386,40,user02,rutina cardio,vid001,19,148,2026-01-14
+387,138,user03,entrenamiento fuerza,vid002,30,56,2026-01-23
+388,105,user03,yoga,vid003,20,136,2026-01-30
+389,125,user02,yoga,vid003,20,170,2026-01-10
+390,23,user03,yoga,vid003,20,75,2026-01-06
+391,189,user03,yoga,vid003,20,379,2026-01-25
+392,198,user03,entrenamiento fuerza,vid002,30,296,2026-02-23
+393,153,user02,yoga,vid003,20,340,2026-02-15
+394,18,user03,entrenamiento fuerza,vid002,30,204,2026-01-20
+395,127,user01,entrenamiento fuerza,vid002,30,397,2026-01-19
+396,23,user01,entrenamiento fuerza,vid002,30,318,2026-01-04
+397,64,user02,yoga,vid003,20,384,2026-02-18
+398,183,user03,rutina cardio,vid001,19,106,2026-02-16
+399,198,user02,rutina cardio,vid001,19,373,2026-01-07
+400,150,user03,yoga,vid003,20,214,2026-01-20
+401,197,user03,entrenamiento fuerza,vid002,30,269,2026-02-09
+402,172,user03,yoga,vid003,20,80,2026-02-02
+403,15,user04,rutina cardio,vid001,19,222,2026-01-10
+404,175,user04,yoga,vid003,20,141,2026-01-23
+405,77,user03,yoga,vid003,20,141,2026-02-28
+406,13,user04,rutina cardio,vid001,19,207,2026-01-09
+407,13,user01,entrenamiento fuerza,vid002,30,245,2026-02-13
+408,119,user02,rutina cardio,vid001,19,357,2026-02-28
+409,161,user03,yoga,vid003,20,218,2026-02-11
+410,90,user04,entrenamiento fuerza,vid002,30,143,2026-01-12
+411,61,user04,entrenamiento fuerza,vid002,30,329,2026-02-12
+412,39,user04,yoga,vid003,20,261,2026-02-27
+413,100,user02,yoga,vid003,20,232,2026-01-27
+414,34,user01,entrenamiento fuerza,vid002,30,189,2026-02-04
+415,132,user03,rutina cardio,vid001,19,223,2026-02-12
+416,74,user01,entrenamiento fuerza,vid002,30,302,2026-01-26
+417,56,user02,rutina cardio,vid001,19,328,2026-02-05
+418,62,user01,rutina cardio,vid001,19,140,2026-02-23
+419,105,user02,rutina cardio,vid001,19,148,2026-01-30
+420,63,user01,yoga,vid003,20,273,2026-01-17
+421,67,user02,entrenamiento fuerza,vid002,30,189,2026-02-07
+422,120,user01,yoga,vid003,20,167,2026-02-26
+423,101,user04,yoga,vid003,20,304,2026-02-03
+424,17,user01,yoga,vid003,20,114,2026-02-24
+425,6,user03,entrenamiento fuerza,vid002,30,296,2026-01-05
+426,22,user03,yoga,vid003,20,80,2026-01-22
+427,76,user02,rutina cardio,vid001,19,398,2026-01-25
+428,48,user03,yoga,vid003,20,146,2026-02-19
+429,197,user01,entrenamiento fuerza,vid002,30,204,2026-02-10
+430,108,user01,entrenamiento fuerza,vid002,30,75,2026-01-28
+431,197,user04,yoga,vid003,20,201,2026-01-09
+432,103,user04,rutina cardio,vid001,19,300,2026-02-06
+433,31,user02,yoga,vid003,20,94,2026-02-27
+434,140,user03,rutina cardio,vid001,19,370,2026-01-07
+435,133,user01,yoga,vid003,20,271,2026-02-02
+436,4,user04,yoga,vid003,20,193,2026-02-27
+437,133,user01,rutina cardio,vid001,19,74,2026-01-22
+438,200,user04,entrenamiento fuerza,vid002,30,288,2026-01-09
+439,149,user02,yoga,vid003,20,53,2026-02-16
+440,154,user01,yoga,vid003,20,269,2026-02-03
+441,35,user01,entrenamiento fuerza,vid002,30,99,2026-03-03
+442,121,user03,yoga,vid003,20,383,2026-02-14
+443,103,user04,yoga,vid003,20,222,2026-03-03
+444,25,user01,rutina cardio,vid001,19,323,2026-02-08
+445,108,user02,rutina cardio,vid001,19,371,2026-01-11
+446,74,user01,yoga,vid003,20,185,2026-01-04
+447,58,user01,entrenamiento fuerza,vid002,30,348,2026-03-02
+448,182,user01,yoga,vid003,20,228,2026-01-18
+449,37,user01,rutina cardio,vid001,19,368,2026-02-06
+450,22,user02,yoga,vid003,20,125,2026-02-15
+451,26,user04,entrenamiento fuerza,vid002,30,383,2026-01-08
+452,99,user03,rutina cardio,vid001,19,287,2026-02-26
+453,192,user03,entrenamiento fuerza,vid002,30,323,2026-01-04
+454,108,user03,rutina cardio,vid001,19,293,2026-01-20
+455,142,user03,entrenamiento fuerza,vid002,30,125,2026-01-26
+456,148,user04,rutina cardio,vid001,19,98,2026-01-02
+457,199,user02,rutina cardio,vid001,19,104,2026-01-22
+458,200,user02,rutina cardio,vid001,19,175,2026-01-30
+459,7,user02,entrenamiento fuerza,vid002,30,308,2026-03-01
+460,27,user02,rutina cardio,vid001,19,111,2026-02-12
+461,9,user03,entrenamiento fuerza,vid002,30,400,2026-01-23
+462,172,user02,entrenamiento fuerza,vid002,30,355,2026-02-15
+463,172,user02,rutina cardio,vid001,19,317,2026-01-14
+464,84,user01,rutina cardio,vid001,19,88,2026-01-13
+465,66,user03,entrenamiento fuerza,vid002,30,242,2026-01-28
+466,47,user03,yoga,vid003,20,226,2026-02-09
+467,41,user02,yoga,vid003,20,230,2026-01-31
+468,200,user02,entrenamiento fuerza,vid002,30,385,2026-01-21
+469,89,user04,rutina cardio,vid001,19,297,2026-01-16
+470,162,user01,entrenamiento fuerza,vid002,30,131,2026-03-03
+471,115,user01,rutina cardio,vid001,19,72,2026-01-13
+472,63,user01,yoga,vid003,20,139,2026-01-24
+473,200,user01,rutina cardio,vid001,19,99,2026-02-28
+474,122,user03,entrenamiento fuerza,vid002,30,128,2026-01-18
+475,31,user03,rutina cardio,vid001,19,294,2026-02-27
+476,132,user01,rutina cardio,vid001,19,357,2026-01-22
+477,171,user01,entrenamiento fuerza,vid002,30,124,2026-01-31
+478,196,user01,rutina cardio,vid001,19,255,2026-02-11
+479,42,user04,rutina cardio,vid001,19,207,2026-01-28
+480,107,user02,yoga,vid003,20,377,2026-01-29
+481,194,user01,entrenamiento fuerza,vid002,30,179,2026-01-30
+482,113,user04,yoga,vid003,20,280,2026-02-08
+483,44,user04,rutina cardio,vid001,19,53,2026-02-08
+484,66,user01,rutina cardio,vid001,19,148,2026-02-18
+485,145,user03,rutina cardio,vid001,19,282,2026-01-18
+486,141,user03,entrenamiento fuerza,vid002,30,77,2026-02-07
+487,118,user01,entrenamiento fuerza,vid002,30,135,2026-02-16
+488,125,user01,entrenamiento fuerza,vid002,30,68,2026-01-08
+489,1,user04,rutina cardio,vid001,19,384,2026-01-05
+490,22,user04,yoga,vid003,20,326,2026-03-01
+491,27,user03,entrenamiento fuerza,vid002,30,268,2026-02-03
+492,111,user04,entrenamiento fuerza,vid002,30,166,2026-02-04
+493,102,user04,rutina cardio,vid001,19,243,2026-02-01
+494,145,user01,entrenamiento fuerza,vid002,30,127,2026-02-17
+495,153,user01,rutina cardio,vid001,19,317,2026-02-09
+496,134,user01,yoga,vid003,20,143,2026-02-02
+497,86,user04,rutina cardio,vid001,19,195,2026-01-29
+498,146,user01,rutina cardio,vid001,19,390,2026-01-31
+499,48,user03,rutina cardio,vid001,19,83,2026-03-01
+500,199,user03,entrenamiento fuerza,vid002,30,164,2026-01-04
+501,163,user02,entrenamiento fuerza,vid002,30,179,2026-01-29
+502,115,user01,rutina cardio,vid001,19,387,2026-02-10
+503,18,user04,rutina cardio,vid001,19,83,2026-02-19
+504,111,user01,yoga,vid003,20,78,2026-01-18
+505,130,user02,rutina cardio,vid001,19,111,2026-02-05
+506,72,user03,rutina cardio,vid001,19,150,2026-01-19
+507,19,user04,yoga,vid003,20,281,2026-01-27
+508,37,user01,entrenamiento fuerza,vid002,30,56,2026-01-02
+509,193,user01,entrenamiento fuerza,vid002,30,57,2026-02-12
+510,97,user03,rutina cardio,vid001,19,218,2026-02-26
+511,57,user01,rutina cardio,vid001,19,166,2026-02-24
+512,61,user03,yoga,vid003,20,381,2026-01-23
+513,175,user04,yoga,vid003,20,366,2026-01-21
+514,166,user01,yoga,vid003,20,379,2026-01-21
+515,148,user02,rutina cardio,vid001,19,120,2026-02-21
+516,7,user04,entrenamiento fuerza,vid002,30,308,2026-01-05
+517,44,user02,entrenamiento fuerza,vid002,30,248,2026-01-13
+518,105,user01,rutina cardio,vid001,19,286,2026-02-15
+519,62,user01,entrenamiento fuerza,vid002,30,166,2026-01-03
+520,13,user02,yoga,vid003,20,386,2026-01-23
+521,137,user03,rutina cardio,vid001,19,233,2026-01-11
+522,24,user02,rutina cardio,vid001,19,321,2026-02-22
+523,115,user01,rutina cardio,vid001,19,193,2026-01-22
+524,191,user01,rutina cardio,vid001,19,325,2026-02-26
+525,129,user04,yoga,vid003,20,284,2026-01-26
+526,65,user02,entrenamiento fuerza,vid002,30,325,2026-02-16
+527,181,user02,rutina cardio,vid001,19,251,2026-02-02
+528,139,user04,yoga,vid003,20,173,2026-01-04
+529,184,user04,entrenamiento fuerza,vid002,30,96,2026-01-28
+530,176,user01,entrenamiento fuerza,vid002,30,238,2026-01-02
+531,143,user02,entrenamiento fuerza,vid002,30,223,2026-01-24
+532,190,user01,yoga,vid003,20,365,2026-01-07
+533,156,user04,rutina cardio,vid001,19,360,2026-02-25
+534,29,user01,yoga,vid003,20,392,2026-02-28
+535,74,user03,entrenamiento fuerza,vid002,30,165,2026-02-01
+536,101,user04,rutina cardio,vid001,19,167,2026-02-17
+537,123,user03,yoga,vid003,20,134,2026-01-03
+538,72,user02,yoga,vid003,20,152,2026-01-20
+539,7,user03,rutina cardio,vid001,19,154,2026-02-25
+540,93,user01,entrenamiento fuerza,vid002,30,105,2026-02-25
+541,54,user03,yoga,vid003,20,51,2026-02-03
+542,30,user02,yoga,vid003,20,106,2026-01-09
+543,47,user04,yoga,vid003,20,226,2026-03-02
+544,173,user01,yoga,vid003,20,237,2026-02-07
+545,92,user04,yoga,vid003,20,68,2026-01-30
+546,121,user03,entrenamiento fuerza,vid002,30,237,2026-01-15
+547,144,user02,yoga,vid003,20,202,2026-02-02
+548,44,user01,rutina cardio,vid001,19,210,2026-02-11
+549,146,user01,entrenamiento fuerza,vid002,30,340,2026-02-20
+550,1,user02,entrenamiento fuerza,vid002,30,91,2026-02-01
+551,177,user04,entrenamiento fuerza,vid002,30,148,2026-01-28
+552,77,user02,entrenamiento fuerza,vid002,30,325,2026-02-09
+553,22,user02,yoga,vid003,20,355,2026-01-19
+554,79,user03,rutina cardio,vid001,19,270,2026-01-23
+555,8,user04,yoga,vid003,20,211,2026-01-21
+556,76,user04,entrenamiento fuerza,vid002,30,364,2026-01-11
+557,168,user04,yoga,vid003,20,109,2026-01-14
+558,73,user04,rutina cardio,vid001,19,78,2026-01-13
+559,115,user03,rutina cardio,vid001,19,210,2026-01-03
+560,64,user01,entrenamiento fuerza,vid002,30,180,2026-02-12
+561,93,user02,yoga,vid003,20,191,2026-01-08
+562,151,user03,yoga,vid003,20,283,2026-02-18
+563,62,user04,yoga,vid003,20,281,2026-01-25
+564,46,user04,entrenamiento fuerza,vid002,30,378,2026-02-28
+565,72,user02,yoga,vid003,20,261,2026-01-09
+566,50,user03,entrenamiento fuerza,vid002,30,270,2026-01-30
+567,163,user03,yoga,vid003,20,339,2026-01-20
+568,3,user04,yoga,vid003,20,253,2026-02-03
+569,165,user04,rutina cardio,vid001,19,204,2026-02-18
+570,104,user02,yoga,vid003,20,96,2026-02-06
+571,52,user04,entrenamiento fuerza,vid002,30,69,2026-02-15
+572,122,user03,rutina cardio,vid001,19,66,2026-03-03
+573,86,user03,entrenamiento fuerza,vid002,30,58,2026-01-24
+574,69,user04,rutina cardio,vid001,19,201,2026-01-22
+575,9,user03,entrenamiento fuerza,vid002,30,315,2026-01-28
+576,90,user04,yoga,vid003,20,318,2026-02-15
+577,127,user04,rutina cardio,vid001,19,370,2026-02-18
+578,131,user04,entrenamiento fuerza,vid002,30,132,2026-01-02
+579,88,user03,yoga,vid003,20,336,2026-02-22
+580,198,user02,entrenamiento fuerza,vid002,30,54,2026-02-14
+581,51,user02,rutina cardio,vid001,19,160,2026-02-14
+582,131,user01,yoga,vid003,20,271,2026-01-30
+583,125,user01,entrenamiento fuerza,vid002,30,141,2026-01-06
+584,196,user04,yoga,vid003,20,150,2026-02-04
+585,23,user03,yoga,vid003,20,135,2026-02-02
+586,85,user02,yoga,vid003,20,188,2026-01-03
+587,135,user04,rutina cardio,vid001,19,287,2026-01-12
+588,3,user03,entrenamiento fuerza,vid002,30,333,2026-01-09
+589,69,user01,yoga,vid003,20,52,2026-01-09
+590,135,user02,yoga,vid003,20,102,2026-02-09
+591,103,user04,yoga,vid003,20,118,2026-01-27
+592,72,user01,entrenamiento fuerza,vid002,30,256,2026-02-14
+593,99,user01,rutina cardio,vid001,19,258,2026-02-22
+594,167,user01,yoga,vid003,20,100,2026-01-23
+595,59,user02,rutina cardio,vid001,19,126,2026-01-15
+596,68,user04,yoga,vid003,20,201,2026-01-02
+597,195,user03,entrenamiento fuerza,vid002,30,130,2026-03-01
+598,116,user01,rutina cardio,vid001,19,55,2026-02-14
+599,94,user01,yoga,vid003,20,299,2026-01-27
+600,32,user02,yoga,vid003,20,294,2026-01-06
+601,35,user03,yoga,vid003,20,363,2026-01-11
+602,107,user03,yoga,vid003,20,295,2026-02-19
+603,94,user04,yoga,vid003,20,333,2026-02-14
+604,72,user04,rutina cardio,vid001,19,226,2026-02-10
+605,28,user03,entrenamiento fuerza,vid002,30,154,2026-01-22
+606,109,user04,rutina cardio,vid001,19,285,2026-02-05
+607,183,user02,entrenamiento fuerza,vid002,30,270,2026-02-15
+608,48,user03,yoga,vid003,20,143,2026-02-20
+609,5,user02,yoga,vid003,20,207,2026-02-06
+610,33,user04,entrenamiento fuerza,vid002,30,114,2026-01-09
+611,177,user03,yoga,vid003,20,128,2026-01-15
+612,80,user02,entrenamiento fuerza,vid002,30,199,2026-01-10
+613,200,user03,entrenamiento fuerza,vid002,30,166,2026-02-18
+614,172,user04,yoga,vid003,20,206,2026-02-26
+615,15,user01,rutina cardio,vid001,19,231,2026-01-27
+616,65,user03,entrenamiento fuerza,vid002,30,235,2026-01-14
+617,145,user03,rutina cardio,vid001,19,176,2026-01-09
+618,79,user03,yoga,vid003,20,98,2026-02-15
+619,108,user01,rutina cardio,vid001,19,90,2026-01-06
+620,58,user03,entrenamiento fuerza,vid002,30,330,2026-02-23
+621,18,user04,yoga,vid003,20,338,2026-01-16
+622,1,user02,rutina cardio,vid001,19,80,2026-02-09
+623,194,user01,yoga,vid003,20,259,2026-02-19
+624,31,user03,rutina cardio,vid001,19,89,2026-02-24
+625,193,user04,entrenamiento fuerza,vid002,30,307,2026-01-16
+626,150,user01,yoga,vid003,20,262,2026-02-12
+627,173,user04,rutina cardio,vid001,19,299,2026-02-08
+628,113,user04,entrenamiento fuerza,vid002,30,78,2026-02-11
+629,10,user01,yoga,vid003,20,250,2026-01-17
+630,159,user04,yoga,vid003,20,66,2026-02-24
+631,155,user03,entrenamiento fuerza,vid002,30,291,2026-02-13
+632,166,user04,yoga,vid003,20,236,2026-02-06
+633,24,user03,entrenamiento fuerza,vid002,30,77,2026-02-17
+634,75,user03,rutina cardio,vid001,19,115,2026-02-07
+635,134,user04,entrenamiento fuerza,vid002,30,153,2026-02-06
+636,177,user02,entrenamiento fuerza,vid002,30,348,2026-02-15
+637,143,user04,yoga,vid003,20,85,2026-02-05
+638,154,user01,rutina cardio,vid001,19,176,2026-02-17
+639,182,user02,rutina cardio,vid001,19,100,2026-03-03
+640,185,user03,entrenamiento fuerza,vid002,30,180,2026-01-31
+641,146,user04,entrenamiento fuerza,vid002,30,335,2026-01-05
+642,195,user02,entrenamiento fuerza,vid002,30,303,2026-02-24
+643,20,user04,rutina cardio,vid001,19,78,2026-02-14
+644,19,user04,yoga,vid003,20,319,2026-01-31
+645,170,user04,yoga,vid003,20,79,2026-02-03
+646,176,user01,rutina cardio,vid001,19,347,2026-01-23
+647,62,user01,rutina cardio,vid001,19,302,2026-01-27
+648,48,user01,rutina cardio,vid001,19,147,2026-01-14
+649,166,user02,entrenamiento fuerza,vid002,30,330,2026-02-23
+650,91,user04,rutina cardio,vid001,19,369,2026-01-08
+651,127,user01,yoga,vid003,20,118,2026-02-15
+652,87,user03,entrenamiento fuerza,vid002,30,153,2026-02-21
+653,48,user01,yoga,vid003,20,234,2026-02-18
+654,74,user01,yoga,vid003,20,135,2026-01-29
+655,12,user03,rutina cardio,vid001,19,82,2026-02-05
+656,81,user02,rutina cardio,vid001,19,196,2026-01-03
+657,91,user04,entrenamiento fuerza,vid002,30,307,2026-02-20
+658,85,user03,rutina cardio,vid001,19,243,2026-02-21
+659,7,user03,entrenamiento fuerza,vid002,30,294,2026-01-23
+660,148,user04,entrenamiento fuerza,vid002,30,324,2026-02-28
+661,100,user02,yoga,vid003,20,376,2026-02-14
+662,29,user02,rutina cardio,vid001,19,162,2026-03-01
+663,151,user01,yoga,vid003,20,385,2026-02-24
+664,45,user03,entrenamiento fuerza,vid002,30,297,2026-02-03
+665,167,user04,yoga,vid003,20,390,2026-01-19
+666,131,user03,entrenamiento fuerza,vid002,30,76,2026-02-10
+667,123,user04,yoga,vid003,20,352,2026-02-26
+668,15,user01,yoga,vid003,20,352,2026-01-03
+669,128,user04,yoga,vid003,20,136,2026-02-22
+670,124,user04,entrenamiento fuerza,vid002,30,152,2026-02-27
+671,119,user01,entrenamiento fuerza,vid002,30,88,2026-01-05
+672,6,user04,rutina cardio,vid001,19,352,2026-02-16
+673,110,user02,entrenamiento fuerza,vid002,30,277,2026-02-22
+674,123,user03,rutina cardio,vid001,19,128,2026-01-27
+675,179,user04,rutina cardio,vid001,19,218,2026-01-29
+676,127,user04,yoga,vid003,20,221,2026-01-15
+677,3,user04,rutina cardio,vid001,19,310,2026-02-24
+678,36,user02,yoga,vid003,20,240,2026-02-25
+679,57,user02,entrenamiento fuerza,vid002,30,112,2026-01-29
+680,166,user01,entrenamiento fuerza,vid002,30,217,2026-02-10
+681,74,user02,entrenamiento fuerza,vid002,30,257,2026-01-04
+682,100,user04,yoga,vid003,20,275,2026-01-18
+683,182,user01,rutina cardio,vid001,19,93,2026-02-07
+684,175,user04,yoga,vid003,20,252,2026-01-30
+685,93,user02,rutina cardio,vid001,19,148,2026-01-26
+686,28,user03,yoga,vid003,20,66,2026-02-04
+687,148,user04,rutina cardio,vid001,19,167,2026-01-28
+688,112,user03,entrenamiento fuerza,vid002,30,351,2026-02-17
+689,129,user01,rutina cardio,vid001,19,75,2026-02-28
+690,115,user01,rutina cardio,vid001,19,59,2026-01-15
+691,6,user01,yoga,vid003,20,358,2026-01-06
+692,128,user01,yoga,vid003,20,276,2026-01-20
+693,33,user03,entrenamiento fuerza,vid002,30,287,2026-02-03
+694,34,user04,yoga,vid003,20,130,2026-01-24
+695,74,user01,entrenamiento fuerza,vid002,30,271,2026-01-05
+696,132,user01,yoga,vid003,20,158,2026-02-15
+697,59,user01,entrenamiento fuerza,vid002,30,377,2026-01-20
+698,99,user02,yoga,vid003,20,207,2026-02-17
+699,172,user02,entrenamiento fuerza,vid002,30,191,2026-01-07
+700,61,user01,entrenamiento fuerza,vid002,30,349,2026-01-04
+701,20,user04,entrenamiento fuerza,vid002,30,218,2026-02-04
+702,144,user03,yoga,vid003,20,242,2026-02-09
+703,40,user03,rutina cardio,vid001,19,337,2026-01-16
+704,57,user02,rutina cardio,vid001,19,109,2026-02-27
+705,3,user01,rutina cardio,vid001,19,62,2026-01-13
+706,38,user02,rutina cardio,vid001,19,85,2026-02-15
+707,143,user04,yoga,vid003,20,190,2026-02-22
+708,109,user04,entrenamiento fuerza,vid002,30,215,2026-03-02
+709,92,user04,rutina cardio,vid001,19,234,2026-02-17
+710,3,user02,rutina cardio,vid001,19,288,2026-02-23
+711,192,user02,rutina cardio,vid001,19,73,2026-01-03
+712,186,user04,rutina cardio,vid001,19,70,2026-01-19
+713,70,user03,yoga,vid003,20,206,2026-02-15
+714,28,user03,rutina cardio,vid001,19,288,2026-01-13
+715,109,user01,rutina cardio,vid001,19,52,2026-01-13
+716,99,user04,rutina cardio,vid001,19,171,2026-01-03
+717,104,user01,rutina cardio,vid001,19,97,2026-02-05
+718,5,user01,rutina cardio,vid001,19,125,2026-02-25
+719,198,user04,yoga,vid003,20,308,2026-01-07
+720,189,user02,entrenamiento fuerza,vid002,30,362,2026-01-03
+721,175,user04,entrenamiento fuerza,vid002,30,285,2026-01-31
+722,140,user04,yoga,vid003,20,143,2026-02-05
+723,30,user01,rutina cardio,vid001,19,198,2026-02-27
+724,77,user03,rutina cardio,vid001,19,323,2026-02-22
+725,58,user04,yoga,vid003,20,333,2026-01-26
+726,106,user02,rutina cardio,vid001,19,100,2026-02-16
+727,186,user01,yoga,vid003,20,84,2026-02-27
+728,133,user02,rutina cardio,vid001,19,214,2026-01-29
+729,21,user02,yoga,vid003,20,304,2026-02-08
+730,11,user04,entrenamiento fuerza,vid002,30,180,2026-01-16
+731,200,user02,entrenamiento fuerza,vid002,30,214,2026-01-29
+732,16,user02,rutina cardio,vid001,19,373,2026-02-04
+733,102,user01,rutina cardio,vid001,19,390,2026-01-22
+734,123,user03,entrenamiento fuerza,vid002,30,290,2026-01-18
+735,165,user03,entrenamiento fuerza,vid002,30,94,2026-02-12
+736,3,user03,entrenamiento fuerza,vid002,30,188,2026-01-07
+737,79,user02,yoga,vid003,20,170,2026-03-02
+738,24,user04,yoga,vid003,20,277,2026-02-18
+739,127,user04,rutina cardio,vid001,19,143,2026-01-19
+740,193,user02,rutina cardio,vid001,19,334,2026-02-06
+741,97,user04,yoga,vid003,20,145,2026-02-09
+742,107,user02,rutina cardio,vid001,19,317,2026-01-28
+743,8,user01,entrenamiento fuerza,vid002,30,270,2026-02-09
+744,3,user03,entrenamiento fuerza,vid002,30,362,2026-01-31
+745,193,user01,entrenamiento fuerza,vid002,30,372,2026-01-20
+746,86,user01,yoga,vid003,20,309,2026-01-02
+747,18,user03,rutina cardio,vid001,19,304,2026-02-25
+748,4,user04,rutina cardio,vid001,19,328,2026-02-08
+749,74,user02,entrenamiento fuerza,vid002,30,126,2026-01-31
+750,143,user04,yoga,vid003,20,220,2026-02-24
+751,181,user01,entrenamiento fuerza,vid002,30,311,2026-02-10
+752,32,user01,rutina cardio,vid001,19,365,2026-02-21
+753,22,user04,entrenamiento fuerza,vid002,30,51,2026-01-26
+754,1,user03,yoga,vid003,20,90,2026-01-11
+755,41,user01,rutina cardio,vid001,19,153,2026-02-05
+756,157,user03,yoga,vid003,20,344,2026-01-03
+757,86,user01,yoga,vid003,20,214,2026-02-28
+758,79,user01,yoga,vid003,20,51,2026-02-23
+759,135,user03,rutina cardio,vid001,19,311,2026-02-11
+760,178,user03,yoga,vid003,20,210,2026-02-25
+761,94,user01,rutina cardio,vid001,19,65,2026-02-07
+762,119,user03,entrenamiento fuerza,vid002,30,197,2026-02-15
+763,109,user02,rutina cardio,vid001,19,328,2026-03-01
+764,179,user03,yoga,vid003,20,270,2026-01-20
+765,123,user01,yoga,vid003,20,296,2026-01-09
+766,48,user01,yoga,vid003,20,348,2026-01-04
+767,85,user04,entrenamiento fuerza,vid002,30,134,2026-01-16
+768,23,user02,rutina cardio,vid001,19,152,2026-02-17
+769,195,user03,yoga,vid003,20,69,2026-01-10
+770,86,user02,rutina cardio,vid001,19,216,2026-01-21
+771,0,user01,yoga,vid003,20,108,2026-02-03
+772,148,user02,entrenamiento fuerza,vid002,30,93,2026-02-28
+773,142,user04,entrenamiento fuerza,vid002,30,93,2026-01-26
+774,102,user01,entrenamiento fuerza,vid002,30,360,2026-02-19
+775,2,user04,entrenamiento fuerza,vid002,30,294,2026-02-10
+776,2,user02,yoga,vid003,20,351,2026-01-02
+777,200,user01,yoga,vid003,20,330,2026-02-26
+778,17,user03,yoga,vid003,20,313,2026-02-05
+779,107,user04,yoga,vid003,20,132,2026-01-30
+780,159,user04,rutina cardio,vid001,19,392,2026-01-14
+781,185,user03,rutina cardio,vid001,19,166,2026-02-24
+782,125,user03,entrenamiento fuerza,vid002,30,324,2026-03-02
+783,16,user02,yoga,vid003,20,343,2026-01-16
+784,173,user01,entrenamiento fuerza,vid002,30,319,2026-02-24
+785,70,user01,rutina cardio,vid001,19,275,2026-01-19
+786,47,user03,yoga,vid003,20,211,2026-01-28
+787,78,user03,yoga,vid003,20,391,2026-02-19
+788,46,user02,rutina cardio,vid001,19,267,2026-01-05
+789,67,user04,rutina cardio,vid001,19,150,2026-01-25
+790,20,user02,entrenamiento fuerza,vid002,30,255,2026-01-26
+791,88,user03,rutina cardio,vid001,19,221,2026-02-19
+792,127,user01,entrenamiento fuerza,vid002,30,216,2026-02-22
+793,98,user04,yoga,vid003,20,176,2026-01-25
+794,153,user03,yoga,vid003,20,125,2026-02-26
+795,102,user02,yoga,vid003,20,132,2026-02-20
+796,8,user03,yoga,vid003,20,373,2026-02-12
+797,109,user03,rutina cardio,vid001,19,207,2026-02-10
+798,78,user02,rutina cardio,vid001,19,248,2026-01-04
+799,165,user02,entrenamiento fuerza,vid002,30,346,2026-02-08
+800,4,user04,rutina cardio,vid001,19,377,2026-02-08
+801,118,user01,yoga,vid003,20,53,2026-02-16
+802,106,user04,rutina cardio,vid001,19,233,2026-01-31
+803,95,user04,yoga,vid003,20,330,2026-01-04
+804,133,user03,entrenamiento fuerza,vid002,30,108,2026-01-08
+805,52,user01,entrenamiento fuerza,vid002,30,213,2026-02-22
+806,9,user03,yoga,vid003,20,392,2026-02-24
+807,27,user01,entrenamiento fuerza,vid002,30,331,2026-01-29
+808,44,user03,entrenamiento fuerza,vid002,30,149,2026-03-03
+809,20,user03,rutina cardio,vid001,19,224,2026-01-27
+810,33,user01,yoga,vid003,20,126,2026-02-03
+811,0,user04,entrenamiento fuerza,vid002,30,158,2026-01-09
+812,173,user04,rutina cardio,vid001,19,387,2026-01-04
+813,52,user02,yoga,vid003,20,158,2026-02-13
+814,92,user04,yoga,vid003,20,92,2026-01-31
+815,45,user02,yoga,vid003,20,344,2026-01-12
+816,123,user04,rutina cardio,vid001,19,362,2026-01-22
+817,11,user02,yoga,vid003,20,101,2026-01-06
+818,81,user01,entrenamiento fuerza,vid002,30,107,2026-03-02
+819,81,user04,yoga,vid003,20,363,2026-01-15
+820,145,user01,rutina cardio,vid001,19,384,2026-02-18
+821,37,user03,entrenamiento fuerza,vid002,30,214,2026-01-24
+822,99,user03,rutina cardio,vid001,19,279,2026-01-25
+823,128,user03,rutina cardio,vid001,19,247,2026-01-26
+824,186,user04,rutina cardio,vid001,19,249,2026-01-22
+825,42,user04,yoga,vid003,20,202,2026-01-27
+826,158,user01,yoga,vid003,20,138,2026-02-27
+827,135,user04,yoga,vid003,20,242,2026-02-02
+828,162,user04,entrenamiento fuerza,vid002,30,114,2026-02-28
+829,13,user01,entrenamiento fuerza,vid002,30,352,2026-02-17
+830,83,user03,rutina cardio,vid001,19,151,2026-01-23
+831,94,user01,rutina cardio,vid001,19,242,2026-01-05
+832,37,user01,yoga,vid003,20,223,2026-02-23
+833,95,user03,rutina cardio,vid001,19,96,2026-01-30
+834,71,user03,entrenamiento fuerza,vid002,30,184,2026-01-02
+835,54,user02,entrenamiento fuerza,vid002,30,122,2026-02-17
+836,52,user03,yoga,vid003,20,57,2026-02-20
+837,99,user01,entrenamiento fuerza,vid002,30,363,2026-01-09
+838,121,user01,rutina cardio,vid001,19,223,2026-01-29
+839,29,user03,rutina cardio,vid001,19,72,2026-01-06
+840,73,user03,rutina cardio,vid001,19,310,2026-02-09
+841,1,user04,rutina cardio,vid001,19,278,2026-01-28
+842,99,user04,rutina cardio,vid001,19,356,2026-01-07
+843,122,user02,yoga,vid003,20,112,2026-02-28
+844,16,user04,rutina cardio,vid001,19,255,2026-01-24
+845,72,user04,entrenamiento fuerza,vid002,30,180,2026-01-25
+846,176,user01,entrenamiento fuerza,vid002,30,241,2026-01-12
+847,106,user03,yoga,vid003,20,83,2026-01-17
+848,5,user03,rutina cardio,vid001,19,296,2026-01-09
+849,127,user01,entrenamiento fuerza,vid002,30,209,2026-02-22
+850,107,user04,yoga,vid003,20,369,2026-01-14
+851,82,user03,rutina cardio,vid001,19,117,2026-01-28
+852,80,user04,rutina cardio,vid001,19,270,2026-01-18
+853,28,user01,rutina cardio,vid001,19,135,2026-02-21
+854,148,user02,rutina cardio,vid001,19,219,2026-02-12
+855,188,user02,yoga,vid003,20,313,2026-02-24
+856,159,user02,entrenamiento fuerza,vid002,30,372,2026-01-15
+857,56,user02,entrenamiento fuerza,vid002,30,350,2026-02-09
+858,51,user03,entrenamiento fuerza,vid002,30,182,2026-02-19
+859,186,user02,yoga,vid003,20,86,2026-01-29
+860,45,user04,rutina cardio,vid001,19,98,2026-02-02
+861,168,user01,yoga,vid003,20,86,2026-01-17
+862,97,user04,rutina cardio,vid001,19,292,2026-01-09
+863,61,user01,rutina cardio,vid001,19,329,2026-02-17
+864,64,user01,entrenamiento fuerza,vid002,30,380,2026-03-01
+865,108,user04,rutina cardio,vid001,19,332,2026-02-13
+866,129,user02,rutina cardio,vid001,19,74,2026-01-22
+867,98,user02,rutina cardio,vid001,19,124,2026-01-28
+868,87,user01,entrenamiento fuerza,vid002,30,274,2026-02-10
+869,24,user02,rutina cardio,vid001,19,346,2026-01-15
+870,23,user04,rutina cardio,vid001,19,271,2026-02-12
+871,108,user02,rutina cardio,vid001,19,51,2026-02-12
+872,22,user01,entrenamiento fuerza,vid002,30,117,2026-02-19
+873,4,user01,rutina cardio,vid001,19,386,2026-01-12
+874,185,user03,entrenamiento fuerza,vid002,30,361,2026-01-06
+875,17,user01,entrenamiento fuerza,vid002,30,300,2026-01-12
+876,73,user01,entrenamiento fuerza,vid002,30,340,2026-01-28
+877,199,user03,yoga,vid003,20,125,2026-02-28
+878,42,user03,yoga,vid003,20,100,2026-01-20
+879,138,user03,rutina cardio,vid001,19,337,2026-02-05
+880,101,user02,yoga,vid003,20,218,2026-02-16
+881,121,user02,rutina cardio,vid001,19,397,2026-02-26
+882,122,user04,rutina cardio,vid001,19,65,2026-01-02
+883,171,user04,yoga,vid003,20,130,2026-02-09
+884,96,user03,rutina cardio,vid001,19,137,2026-02-18
+885,169,user04,entrenamiento fuerza,vid002,30,310,2026-01-26
+886,5,user02,entrenamiento fuerza,vid002,30,306,2026-02-24
+887,42,user03,rutina cardio,vid001,19,300,2026-02-10
+888,51,user04,yoga,vid003,20,303,2026-01-16
+889,116,user01,entrenamiento fuerza,vid002,30,278,2026-02-13
+890,31,user02,entrenamiento fuerza,vid002,30,278,2026-01-22
+891,152,user03,rutina cardio,vid001,19,356,2026-01-20
+892,116,user04,rutina cardio,vid001,19,88,2026-01-13
+893,177,user03,yoga,vid003,20,69,2026-02-11
+894,182,user01,yoga,vid003,20,59,2026-01-30
+895,83,user01,yoga,vid003,20,115,2026-01-17
+896,169,user01,yoga,vid003,20,268,2026-02-07
+897,55,user04,entrenamiento fuerza,vid002,30,249,2026-01-25
+898,184,user04,entrenamiento fuerza,vid002,30,336,2026-02-17
+899,145,user02,yoga,vid003,20,286,2026-01-08
+900,138,user01,yoga,vid003,20,247,2026-01-24
+901,48,user03,entrenamiento fuerza,vid002,30,309,2026-01-05
+902,64,user02,rutina cardio,vid001,19,358,2026-02-26
+903,23,user01,entrenamiento fuerza,vid002,30,95,2026-02-28
+904,178,user02,entrenamiento fuerza,vid002,30,50,2026-01-04
+905,109,user02,entrenamiento fuerza,vid002,30,269,2026-02-01
+906,50,user02,rutina cardio,vid001,19,287,2026-01-12
+907,134,user02,rutina cardio,vid001,19,356,2026-01-29
+908,18,user02,yoga,vid003,20,199,2026-02-27
+909,2,user04,rutina cardio,vid001,19,59,2026-02-13
+910,88,user01,yoga,vid003,20,393,2026-03-01
+911,184,user01,entrenamiento fuerza,vid002,30,101,2026-01-18
+912,172,user04,yoga,vid003,20,272,2026-01-26
+913,99,user01,rutina cardio,vid001,19,227,2026-01-18
+914,154,user04,yoga,vid003,20,141,2026-02-03
+915,150,user02,yoga,vid003,20,258,2026-02-15
+916,125,user02,rutina cardio,vid001,19,77,2026-01-20
+917,94,user01,rutina cardio,vid001,19,312,2026-01-20
+918,67,user03,entrenamiento fuerza,vid002,30,326,2026-01-13
+919,40,user01,rutina cardio,vid001,19,240,2026-01-02
+920,172,user02,yoga,vid003,20,170,2026-01-02
+921,172,user02,yoga,vid003,20,214,2026-01-18
+922,22,user04,yoga,vid003,20,153,2026-01-14
+923,75,user03,entrenamiento fuerza,vid002,30,84,2026-02-06
+924,86,user02,yoga,vid003,20,198,2026-02-19
+925,10,user02,entrenamiento fuerza,vid002,30,252,2026-02-25
+926,171,user01,yoga,vid003,20,280,2026-01-28
+927,69,user04,entrenamiento fuerza,vid002,30,189,2026-02-20
+928,142,user04,yoga,vid003,20,356,2026-02-22
+929,154,user03,yoga,vid003,20,131,2026-02-11
+930,57,user02,entrenamiento fuerza,vid002,30,134,2026-01-13
+931,197,user02,rutina cardio,vid001,19,85,2026-01-22
+932,35,user04,yoga,vid003,20,391,2026-02-21
+933,35,user02,yoga,vid003,20,269,2026-01-31
+934,56,user04,rutina cardio,vid001,19,100,2026-02-07
+935,106,user04,yoga,vid003,20,259,2026-02-17
+936,124,user01,entrenamiento fuerza,vid002,30,303,2026-01-16
+937,105,user04,yoga,vid003,20,148,2026-01-26
+938,128,user01,yoga,vid003,20,192,2026-02-11
+939,69,user04,rutina cardio,vid001,19,101,2026-01-26
+940,82,user02,rutina cardio,vid001,19,61,2026-01-08
+941,142,user02,rutina cardio,vid001,19,77,2026-01-03
+942,190,user02,entrenamiento fuerza,vid002,30,339,2026-01-05
+943,84,user04,entrenamiento fuerza,vid002,30,256,2026-02-19
+944,101,user04,entrenamiento fuerza,vid002,30,398,2026-01-29
+945,133,user01,rutina cardio,vid001,19,293,2026-03-03
+946,71,user03,entrenamiento fuerza,vid002,30,209,2026-02-01
+947,121,user03,entrenamiento fuerza,vid002,30,254,2026-01-16
+948,37,user04,entrenamiento fuerza,vid002,30,208,2026-01-28
+949,121,user04,yoga,vid003,20,173,2026-03-02
+950,186,user01,yoga,vid003,20,363,2026-02-09
+951,111,user03,rutina cardio,vid001,19,223,2026-01-27
+952,43,user03,entrenamiento fuerza,vid002,30,305,2026-03-01
+953,34,user03,rutina cardio,vid001,19,62,2026-01-23
+954,179,user02,entrenamiento fuerza,vid002,30,56,2026-03-02
+955,76,user01,rutina cardio,vid001,19,173,2026-02-22
+956,165,user03,entrenamiento fuerza,vid002,30,146,2026-02-24
+957,39,user04,yoga,vid003,20,400,2026-02-04
+958,67,user01,entrenamiento fuerza,vid002,30,224,2026-01-28
+959,179,user04,rutina cardio,vid001,19,326,2026-02-18
+960,147,user04,rutina cardio,vid001,19,132,2026-02-16
+961,50,user02,yoga,vid003,20,254,2026-02-05
+962,55,user03,yoga,vid003,20,253,2026-02-15
+963,102,user04,entrenamiento fuerza,vid002,30,370,2026-01-15
+964,153,user03,entrenamiento fuerza,vid002,30,216,2026-01-03
+965,106,user03,rutina cardio,vid001,19,286,2026-02-11
+966,152,user03,rutina cardio,vid001,19,235,2026-02-04
+967,185,user02,yoga,vid003,20,215,2026-02-09
+968,157,user02,rutina cardio,vid001,19,191,2026-01-26
+969,57,user02,rutina cardio,vid001,19,309,2026-01-20
+970,84,user01,entrenamiento fuerza,vid002,30,179,2026-01-13
+971,128,user04,entrenamiento fuerza,vid002,30,187,2026-01-17
+972,109,user04,entrenamiento fuerza,vid002,30,339,2026-01-26
+973,98,user01,entrenamiento fuerza,vid002,30,179,2026-02-15
+974,103,user03,rutina cardio,vid001,19,143,2026-01-29
+975,37,user01,entrenamiento fuerza,vid002,30,224,2026-02-23
+976,182,user01,yoga,vid003,20,80,2026-02-24
+977,200,user03,entrenamiento fuerza,vid002,30,129,2026-03-03
+978,31,user03,rutina cardio,vid001,19,62,2026-02-20
+979,92,user03,entrenamiento fuerza,vid002,30,189,2026-01-24
+980,119,user03,entrenamiento fuerza,vid002,30,399,2026-02-03
+981,53,user01,entrenamiento fuerza,vid002,30,125,2026-01-06
+982,179,user02,entrenamiento fuerza,vid002,30,231,2026-01-05
+983,144,user02,yoga,vid003,20,89,2026-01-06
+984,178,user01,entrenamiento fuerza,vid002,30,84,2026-02-21
+985,96,user02,rutina cardio,vid001,19,89,2026-02-16
+986,127,user02,rutina cardio,vid001,19,339,2026-02-21
+987,15,user01,entrenamiento fuerza,vid002,30,170,2026-01-06
+988,12,user04,yoga,vid003,20,245,2026-01-15
+989,145,user01,yoga,vid003,20,123,2026-01-28
+990,28,user03,yoga,vid003,20,191,2026-02-18
+991,57,user01,entrenamiento fuerza,vid002,30,84,2026-01-31
+992,18,user04,yoga,vid003,20,257,2026-02-16
+993,166,user02,rutina cardio,vid001,19,212,2026-01-22
+994,109,user02,yoga,vid003,20,274,2026-01-14
+995,8,user03,yoga,vid003,20,141,2026-02-07
+996,95,user04,rutina cardio,vid001,19,389,2026-02-16
+997,2,user03,entrenamiento fuerza,vid002,30,116,2026-01-12
+998,90,user01,entrenamiento fuerza,vid002,30,187,2026-01-19
+999,131,user01,rutina cardio,vid001,19,337,2026-01-24
