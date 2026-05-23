@@ -19,19 +19,18 @@ def generar_usuarios(numeroSimulaciones):
     for _ in range(numeroSimulaciones):
         simulacion = {
             "id": random.randint(0, 200),
-            "full_name": random.choice(nombres),
+            "fullName": random.choice(nombres),
             "email": random.choice(email),
-            "password_hash": random.choice(password_hash),
-            "display_name": random.choice(display_name),
-            "role_id": random.choice(role_id),
-            "date_of_birth": fechaInicio + timedelta(days=random.randint(0, 365 * 30)),
+            "passwordHash": random.choice(password_hash),
+            "displayName": random.choice(display_name),
+            "role": random.choice(role_id),
+            "dateOfBirth": fechaInicio + timedelta(days=random.randint(0, 365 * 30)),
             "sex": random.choice(["Masculino", "Femenino"]),
-            "height_cm": random.randint(0, 250),
-            "weight_kg": random.randint(0, 200),
+            "heightCm": random.randint(0, 250),
+            "weightKg": random.randint(0, 200),
             "metadata": random.choice(metadata),
-            "created_at": fechaInicio + timedelta(days=random.randint(0, 365 * 30)),
-            "updated_at": fechaInicio + timedelta(days=random.randint(0, 365 * 30)),
-            "deleted_at": fechaInicio + timedelta(days=random.randint(0, 365 * 30))
+            "createdAt": fechaInicio + timedelta(days=random.randint(0, 365 * 30)),
+            "updatedAt": fechaInicio + timedelta(days=random.randint(0, 365 * 30))
         }
 
         simulaciones.append(simulacion)
