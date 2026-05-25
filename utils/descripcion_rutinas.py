@@ -9,16 +9,16 @@ def describir_datos_rutinas(data_frame_limpio):
 
     #Estadisticas (SOLO APLICA PARA DATOS NUMERICOS)
     print("*** ESTADISTICAS ***")
-    print(f"{data_frame_limpio[['id','difficulty','author_user_id','duration_minutes']].describe()}")
+    print(f"{data_frame_limpio[['id','difficulty','authorUserId','durationMinutes']].describe()}")
 
     #Informacion de conteos valiosos
     print("*** CONTEOS ***")
     print(f"{data_frame_limpio['difficulty'].value_counts()}")
-    print(f"{data_frame_limpio['author_user_id'].value_counts()}")
-    print(f"{data_frame_limpio['duration_minutes'].value_counts()}")
+    print(f"{data_frame_limpio['authorUserId'].value_counts()}")
+    print(f"{data_frame_limpio['durationMinutes'].value_counts()}")
 
 
     #Describiendo las fechas
     print("*** DESCRIPCION DE FECHAS ***")
-    print(f"{data_frame_limpio['created_at'].max()}")
-    print(f"{data_frame_limpio['updated_at'].max()}")
+    print(f"{data_frame_limpio['createdAt'].max()}")
+    print(f"{data_frame_limpio['updatedAt'].max()}")
