@@ -1,8 +1,5 @@
 venv/
-<<<<<<< HEAD
 __pychache__/
 *.pyc
-=======
 __pycache__/
 *.pyc
->>>>>>> origin/Development
